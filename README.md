@@ -2,7 +2,7 @@
 <br>
 <p align="center">Compiled notes on various concepts.</p>
 
-<br>
+<br></br>
 ## About The Project
 
 This is my combined vault of knowledge on several varied concepts and subejcts going back as far as 2021 or so.
