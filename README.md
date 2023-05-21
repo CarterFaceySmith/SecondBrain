@@ -1,6 +1,8 @@
 <h3 align="center">Second Brain</h3>
 
+
 <p align="center">Compiled notes on various concepts.</p>
+
 
 ## About The Project
 
