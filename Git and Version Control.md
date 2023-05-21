@@ -19,7 +19,7 @@ Alternatively you can set the repo up entirely from the command line:
 
 ## Commands
 
-- `git init`: Initialize the repository
+- `git init`: Initialise the repository
 
 - `git status`: Check the current directory changes and staging area
 

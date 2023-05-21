@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e9f8a844a01084ee",
+        "id": "79dba190ec3a8473",
         "type": "tabs",
         "children": [
           {
-            "id": "9988fbf1f2e5814c",
+            "id": "d365a6ebd1bf802f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Git and Version Control.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git and Version Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +125,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9988fbf1f2e5814c",
+  "active": "d365a6ebd1bf802f",
   "lastOpenFiles": [
+    "git-cheat-sheet.pdf",
     "README.md",
     "Git and Version Control.md",
     "Backpropagation.md",
@@ -148,7 +154,6 @@
     "Screenshot 2023-05-03 at 9.26.51 am.png",
     "Linear Score Function.md",
     "Fixed Q-Target.md",
-    "Temporal Difference Learning.md",
     "Exploration",
     "Screen Shot 2023-04-06 at 6.01.58 pm.png"
   ]
