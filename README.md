@@ -36,6 +36,8 @@ I personally use this application for notetaking and organisation because I enjo
 
 #### Obsidian Installation
 
+Please note that this will also configure your Obsidian with my extensions, this can be prevented by deleting the `.obsidian` folder in the directory after cloning.
+
 1. Download the latest Obsidian release for your operating system [here](https://obsidian.md/).
 2. Clone the repository as above: `git clone https://github.com/CarterFaceySmith/SecondBrain.git`
 3. Open the cloned repository as a "Vault" from the Obsidian startup menu.

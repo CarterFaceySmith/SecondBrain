@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reinforcement Learning.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,9 +127,9 @@
   },
   "active": "d365a6ebd1bf802f",
   "lastOpenFiles": [
+    "Reinforcement Learning.md",
     "Q-Learning.md",
     "Deep Q-Learning.md",
-    "Reinforcement Learning.md",
     "Git and Version Control.md",
     "git-cheat-sheet.pdf",
     "README.md",
