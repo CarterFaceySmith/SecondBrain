@@ -1,6 +1,5 @@
 <h3 align="center">Second Brain</h3>
-
-
+<br>
 <p align="center">Compiled notes on various concepts.</p>
 
 
