@@ -11,11 +11,9 @@
             "id": "d365a6ebd1bf802f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "3d table.png"
               }
             }
           }
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "3d table.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,13 +104,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -127,12 +123,13 @@
   },
   "active": "d365a6ebd1bf802f",
   "lastOpenFiles": [
+    "3c table.png",
+    "README.md",
     "Reinforcement Learning.md",
     "Q-Learning.md",
     "Deep Q-Learning.md",
     "Git and Version Control.md",
     "git-cheat-sheet.pdf",
-    "README.md",
     "Backpropagation.md",
     "Regularization.md",
     "Docker.md",
@@ -153,7 +150,6 @@
     "Neural Networks (NN).md",
     "Loss Function.md",
     "Linear Regression.md",
-    "Experience Replay.md",
     "Screenshot 2023-05-03 at 9.26.51 am.png",
     "Exploration",
     "Screen Shot 2023-04-06 at 6.01.58 pm.png"
