@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and Version Control.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and Version Control.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,17 +116,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "7c178beedc4011b8",
   "lastOpenFiles": [
+    "Git and Version Control.md",
     "Backpropagation.md",
     "Regularization.md",
     "Docker.md",
@@ -153,7 +154,6 @@
     "Fixed Q-Target.md",
     "Temporal Difference Learning.md",
     "Double Deep Q-Learning.md",
-    "Q-Learning.md",
     "Exploration",
     "Screen Shot 2023-04-06 at 6.01.58 pm.png"
   ]
