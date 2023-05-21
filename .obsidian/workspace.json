@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "9297a335fd00c0d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e5f8729f7b7e1ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c178beedc4011b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git and Version Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a0be5b21341b448",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e4829c022cd46dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04cda325f86a54f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aad9f265638e2deb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8634529660e26ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "42bc6d669f3f5ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "80a46538899dc42c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe99c20e122eba05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git and Version Control.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81b60b3679237835",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "7c178beedc4011b8",
+  "lastOpenFiles": [
+    "Backpropagation.md",
+    "Regularization.md",
+    "Docker.md",
+    "Containers.md",
+    "VMWare vMotion.md",
+    "Virtualisation.md",
+    "Enhancer Sequence.md",
+    "DNA Methylation.md",
+    "Epigenetic Profile.md",
+    "Promotor Sequence.md",
+    "Gene Expression.md",
+    "RNA.md",
+    "Clipped Policy Surrogate Function.md",
+    "Proximal Policy Optimisation (PPO).md",
+    "Actor-Critic.md",
+    "Gradient Descent Algorithm.md",
+    "Chain Rule.md",
+    "Neural Networks (NN).md",
+    "Loss Function.md",
+    "Linear Regression.md",
+    "Experience Replay.md",
+    "Screenshot 2023-05-03 at 9.26.51 am.png",
+    "Linear Score Function.md",
+    "Fixed Q-Target.md",
+    "Temporal Difference Learning.md",
+    "Double Deep Q-Learning.md",
+    "Q-Learning.md",
+    "Exploration",
+    "Screen Shot 2023-04-06 at 6.01.58 pm.png"
+  ]
+}

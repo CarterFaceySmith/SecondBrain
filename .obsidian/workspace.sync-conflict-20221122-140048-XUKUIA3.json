@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "9297a335fd00c0d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3139d47e6d616ff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7c0a239752bdb4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principal Component Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d680c5f86b02007d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantum Logic Gates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b96e9f137793fc52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sharpe Ratio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "950c81d6e9a2f342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantum Logic Gates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9a50c34f817e3bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parameterised Quantum Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfc15d134f70a0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sharpe Ratio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fa482a1c224ac22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Standard Deviation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09f4785cd36843b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantum Communication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c8218cfb5e8f2e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Hardy Paradox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2c0df93fb2a1d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantum Correlations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96a43288edba16d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classical Information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88624852c0317a5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boolean Satisfiability Problems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "512f3d107424fd36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unstructured Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a0be5b21341b448",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e4829c022cd46dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04cda325f86a54f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aad9f265638e2deb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "42bc6d669f3f5ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "80a46538899dc42c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe99c20e122eba05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sharpe Ratio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81b60b3679237835",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bfc15d134f70a0d7",
+  "lastOpenFiles": [
+    "Composite Quantum Gates.md",
+    "Opaque Quantum Gates.md",
+    "Quantum Logic Gates.md",
+    "Quantum Circuits.md",
+    "Standard Deviation.md",
+    "Linear Regression.md",
+    "Sharpe Ratio.md",
+    "Nondeterminism.md",
+    "Formal Languages and Grammar.md",
+    "Pushdown Automata.md"
+  ]
+}

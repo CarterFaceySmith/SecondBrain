@@ -1,0 +1,1 @@
+A [[Cloud Computing]] service model wherein the infrastructure is contained in the cloud, and the data, application logic and development/runtime is locally hosted.

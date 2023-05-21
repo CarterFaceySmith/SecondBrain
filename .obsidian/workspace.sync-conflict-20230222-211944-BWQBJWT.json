@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "9297a335fd00c0d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "11039ba67fe4f0d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8aff54242d0d435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "633a9244a5d2c9be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git and Version Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9eed4d2fa476e9ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deadlocks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a0be5b21341b448",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e4829c022cd46dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04cda325f86a54f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aad9f265638e2deb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "42bc6d669f3f5ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "80a46538899dc42c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe99c20e122eba05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git and Version Control.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81b60b3679237835",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "633a9244a5d2c9be",
+  "lastOpenFiles": [
+    "Python.md",
+    "RSA.md",
+    "Operating Systems.md",
+    "Encryption.md",
+    "Multiprogramming.md",
+    "Deadlocks.md",
+    "CPU Scheduling.md",
+    "Dynamic Memory Allocation.md",
+    "Computer System Structure.md",
+    "Hardware.md"
+  ]
+}

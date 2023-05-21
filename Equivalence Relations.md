@@ -1,0 +1,1 @@
+A relation which exhibits [[Transitivity]], [[Reflexivity]] and [[Symmetry]] all at once.

@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "9297a335fd00c0d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7c0a239752bdb4e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Formal Languages and Grammar.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a0be5b21341b448",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e4829c022cd46dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04cda325f86a54f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aad9f265638e2deb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "decida",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "42bc6d669f3f5ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "80a46538899dc42c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe99c20e122eba05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Formal Languages and Grammar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81b60b3679237835",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e7c0a239752bdb4e",
+  "lastOpenFiles": [
+    "Pumping Lemma for Context-free Languages.md",
+    "Pumping Lemma.md",
+    "Formal Languages and Grammar.md",
+    "Reductions.md",
+    "Git and Version Control.md",
+    "File Systems.md",
+    "Zero-Knowledge Proofs.md",
+    "Intractibility.md",
+    "Complexity Classes.md",
+    "Linear Bounded Automata.md"
+  ]
+}

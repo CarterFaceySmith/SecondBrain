@@ -1,0 +1,1 @@
+A measure of how efficiently [[Data Centers]] reuse the power dissipated by the computer, i.e. the ratio of total amount of power used to the power delivered by the equipment, with the ideal being 0.0.

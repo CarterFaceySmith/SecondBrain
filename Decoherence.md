@@ -1,0 +1,1 @@
+Quantum decoherence is a [[Quantum Mechanics]] concept where the [[Wave Function]]s of a particle or object no longer operate together in a coherent way, it should be noted that if a quantum system were isolated entirely then it would matintain coherence indefinitely and be impossible to manipulate or investigate, so a certain level of decoherence is required.
