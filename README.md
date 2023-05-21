@@ -2,7 +2,7 @@
 <br>
 <p align="center">Compiled notes on various concepts.</p>
 
-
+<br>
 ## About The Project
 
 This is my combined vault of knowledge on several varied concepts and subejcts going back as far as 2021 or so.
@@ -19,7 +19,7 @@ The notes themselves are written conceptually, with a mainly casual and stream-o
 As learning is a constant process, so to is the expansion of this knowledge base, I intend to opensource these for the remainder of my life in the hopes that they assist others in the same way they have assisted me.
 
 Please be aware that notes on more complex topics may include swearing.
-
+<br>
 ## Getting Started
 
 To get started, you can clone the entire repository or pick files as required.
@@ -49,7 +49,7 @@ None, the files are all Markdown so use whatever you please to view them, you ca
 ### Notes:
 
 If you find any errors, issues or something of note for a different reason please feel free to either log an issue or [contact me](mailto:carterfaceysmith@gmail.com).
-
+<br>
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
