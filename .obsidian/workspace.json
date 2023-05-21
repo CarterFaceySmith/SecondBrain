@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and Version Control.md",
+                "file": "Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and Version Control.md",
+                "file": "Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,9 +127,12 @@
   },
   "active": "d365a6ebd1bf802f",
   "lastOpenFiles": [
+    "Q-Learning.md",
+    "Deep Q-Learning.md",
+    "Reinforcement Learning.md",
+    "Git and Version Control.md",
     "git-cheat-sheet.pdf",
     "README.md",
-    "Git and Version Control.md",
     "Backpropagation.md",
     "Regularization.md",
     "Docker.md",
@@ -152,8 +155,6 @@
     "Linear Regression.md",
     "Experience Replay.md",
     "Screenshot 2023-05-03 at 9.26.51 am.png",
-    "Linear Score Function.md",
-    "Fixed Q-Target.md",
     "Exploration",
     "Screen Shot 2023-04-06 at 6.01.58 pm.png"
   ]
