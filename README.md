@@ -5,7 +5,7 @@
 <br></br>
 ## About The Project
 
-This is my combined vault of knowledge on several varied concepts and subejcts going back as far as 2021 or so.
+This is my combined vault of knowledge on several varied concepts and subjects going back as far as 2021 or so.
 
 The main topics covered include:
 - General Programming
@@ -14,7 +14,7 @@ The main topics covered include:
 - Machine Learning
 - Quantum Computing
 
-The notes themselves are written conceptually, with a mainly casual and stream-of-consciousness style of writing to deformalise concepts and assist with quick high-level understanding of complex subjects.
+The notes themselves are written conceptually, with a casual and stream-of-consciousness style of writing to deformalise concepts and assist with quick high-level understanding of complex subjects.
 
 As learning is a constant process, so to is the expansion of this knowledge base, I intend to opensource these for the remainder of my life in the hopes that they assist others in the same way they have assisted me.
 
@@ -30,7 +30,7 @@ Run:  `git clone https://github.com/CarterFaceySmith/SecondBrain.git`
 
 ### [Obsidian](https://obsidian.md/)
 
-Obsidian is a Markdown based knowledge base application based on the idea that "the human brain is non-linear", notes are designed to follow a concept-based approach where things are simplified as much as possible via either black-boxing of unnecessary complexity or linking to deeper level concepts.
+Obsidian is a Markdown based knowledge base application, it revolves around the idea that "the human brain is non-linear", notes are designed to follow a concept-based approach where things are simplified as much as possible via either black-boxing of unnecessary complexity or linking to deeper level concepts.
 
 I personally use this application for notetaking and organisation because I enjoy the features and keybindings but you can effectively use whatever allows for Markdown importing.
 

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8e5f8729f7b7e1ee",
+        "id": "e9f8a844a01084ee",
         "type": "tabs",
         "children": [
           {
-            "id": "7c178beedc4011b8",
+            "id": "9988fbf1f2e5814c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,8 +120,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7c178beedc4011b8",
+  "active": "9988fbf1f2e5814c",
   "lastOpenFiles": [
+    "README.md",
     "Git and Version Control.md",
     "Backpropagation.md",
     "Regularization.md",
@@ -153,7 +149,6 @@
     "Linear Score Function.md",
     "Fixed Q-Target.md",
     "Temporal Difference Learning.md",
-    "Double Deep Q-Learning.md",
     "Exploration",
     "Screen Shot 2023-04-06 at 6.01.58 pm.png"
   ]
