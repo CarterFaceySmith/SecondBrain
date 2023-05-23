@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "79dba190ec3a8473",
+        "id": "9420b59e3956460e",
         "type": "tabs",
         "children": [
           {
-            "id": "d365a6ebd1bf802f",
+            "id": "adae59948d94699c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "3d table.png"
+                "file": "Backpropagation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53c02940b0b02da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regularisation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3d table.png",
+                "file": "Regularisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -121,17 +137,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d365a6ebd1bf802f",
+  "active": "53c02940b0b02da9",
   "lastOpenFiles": [
-    "3c table.png",
+    "Backpropagation.md",
     "README.md",
+    "3c table.png",
     "Reinforcement Learning.md",
     "Q-Learning.md",
     "Deep Q-Learning.md",
     "Git and Version Control.md",
     "git-cheat-sheet.pdf",
-    "Backpropagation.md",
-    "Regularization.md",
+    "Regularisation.md",
     "Docker.md",
     "Containers.md",
     "VMWare vMotion.md",

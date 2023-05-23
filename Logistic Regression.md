@@ -11,7 +11,7 @@ Regularization is incredibly important specifically for logistic regression mode
 
 Normally this occurs in high dimensional data (a dataset where the number of features p is larger than the number of observations N, often written p >> N).
 
-We use L2 [[Regularization]] or alternatives to combat this.
+We use L2 [[Regularisation]] or alternatives to combat this.
 
 ### Terminology:
 - sigmoid: something that gives us a bounded val between 0 and 1 exclusive
