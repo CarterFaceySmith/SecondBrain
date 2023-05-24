@@ -10,5 +10,9 @@
   },
   "spellcheckLanguages": [
     "en-AU"
+  ],
+  "spellcheckDictionary": [
+    "Blackbox",
+    "Whitebox"
   ]
 }

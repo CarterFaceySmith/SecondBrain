@@ -10,7 +10,7 @@ This is a two parter:
 
 You can see how running both results in a cycle of exponentially improving data until the real is no longer distinguishable from the fake and the cycle stops.
 
-Both parts are [[Neural Networks (NN)]], with the generator output being directly connected to the discriminator input. [[Backpropagation]] is used to send a signal from the discriminator's classification to the generator that is used to update it's weights.
+Both parts are [[Neural Networks (NN)]], with the generator output being directly connected to the discriminator input. [[Backpropagation (Gradient Flow)]] is used to send a signal from the discriminator's classification to the generator that is used to update it's weights.
 
 
 ### The Discriminator (discrim. cos it's a long fkn word)
@@ -27,7 +27,7 @@ First, the discrim. calssifies both real and fake data from the generator.
 
 Then, discrim. loss penalises the discrim. for misclassifying (giving a false pos. or neg. either way).
 
-Finally, the discrim. updates it's weights through [[Backpropagation]] from the discrim. loss through the discrim. network.
+Finally, the discrim. updates it's weights through [[Backpropagation (Gradient Flow)]] from the discrim. loss through the discrim. network.
 
 ### The Generator
 

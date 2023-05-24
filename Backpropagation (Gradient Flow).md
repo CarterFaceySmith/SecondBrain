@@ -1,5 +1,3 @@
-AKA Gradient Flow
-
 A common training algo for [[Neural Networks (NN)]], makes [[Gradient Descent Algorithm]] feasible for multi-layer neural networks.
 
 It's effectively distributing the error weights after NN calculations backwards through the network to the earlier layers.

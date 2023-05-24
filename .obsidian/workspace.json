@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9420b59e3956460e",
+        "id": "bf8430863627d190",
         "type": "tabs",
         "children": [
           {
-            "id": "adae59948d94699c",
+            "id": "9fe461612b20e267",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backpropagation.md",
+                "file": "Gradient Descent Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "53c02940b0b02da9",
+            "id": "4cd612892bb61b50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regularisation.md",
+                "file": "Adaptive Moment Estimation (ADAM).md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regularisation.md",
+                "file": "Adaptive Moment Estimation (ADAM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,9 +137,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "53c02940b0b02da9",
+  "active": "4cd612892bb61b50",
   "lastOpenFiles": [
-    "Backpropagation.md",
+    "Gradient Descent Algorithm.md",
+    "Adaptive Moment Estimation (ADAM).md",
+    "Stochastic Gradient Descent Convergence.md",
+    "Untitled.md",
+    "Blackbox and Whitebox Monitoring.md",
+    "Cloud Monitoring.md",
+    "German Introductions.md",
+    "German.md",
+    "Backpropagation (Gradient Flow).md",
+    "Quick and Dirty Guide to C.pdf",
+    "Regularisation.md",
     "README.md",
     "3c table.png",
     "Reinforcement Learning.md",
@@ -147,7 +157,6 @@
     "Deep Q-Learning.md",
     "Git and Version Control.md",
     "git-cheat-sheet.pdf",
-    "Regularisation.md",
     "Docker.md",
     "Containers.md",
     "VMWare vMotion.md",
@@ -159,13 +168,6 @@
     "Gene Expression.md",
     "RNA.md",
     "Clipped Policy Surrogate Function.md",
-    "Proximal Policy Optimisation (PPO).md",
-    "Actor-Critic.md",
-    "Gradient Descent Algorithm.md",
-    "Chain Rule.md",
-    "Neural Networks (NN).md",
-    "Loss Function.md",
-    "Linear Regression.md",
     "Screenshot 2023-05-03 at 9.26.51 am.png",
     "Exploration",
     "Screen Shot 2023-04-06 at 6.01.58 pm.png"
