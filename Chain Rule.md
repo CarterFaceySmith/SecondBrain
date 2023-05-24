@@ -12,4 +12,4 @@ This means that if we want to find the derivative of the composition of two func
 
 ## Why the fuck does this matter?
 
-In the context of machine learning, the chain rule is used to calculate [[Gradient Descent Algorithm]] of the loss function with respect to the weights of [[Neural Networks (NN)]]. This allows us to update the weights of the network in the direction that minimizes the [[Loss Function]] and improves the performance of the network.
+In the context of machine learning, the chain rule is used to calculate [[Gradient Descent]] of the loss function with respect to the weights of [[Neural Networks (NN)]]. This allows us to update the weights of the network in the direction that minimizes the [[Loss Function]] and improves the performance of the network.

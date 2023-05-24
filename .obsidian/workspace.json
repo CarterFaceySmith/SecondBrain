@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gradient Descent Algorithm.md",
+                "file": "Gradient Descent.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adaptive Moment Estimation (ADAM).md",
+                "file": "Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,10 +136,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4cd612892bb61b50",
+  "active": "9fe461612b20e267",
   "lastOpenFiles": [
-    "Gradient Descent Algorithm.md",
     "Adaptive Moment Estimation (ADAM).md",
+    "Gradient Descent.md",
     "Stochastic Gradient Descent Convergence.md",
     "Untitled.md",
     "Blackbox and Whitebox Monitoring.md",

@@ -2,7 +2,7 @@ AKA Steepest Descent, [[Loss Function]]
 
 $$x^*=argMinf(x)$$
 
-An *iterative* optimisation algo for finding the **local** minimum of a function.
+An *iterative* optimisation algo for finding the **local** minimum of a function, a form of optimisation for the weights and biases of a [[Neural Networks (NN)]].
 
 The goal of gradient descent is to minimise the given func., which it does by doing the following iteratively:
 1. Computes the gradient (slope), the first order derivative of the func. at that point; and
@@ -65,7 +65,6 @@ Note this can result in you overcoming a local minima but it does not guarantee 
 x
 
 ##### [[Adaptive Moment Estimation (ADAM)]]
-
 
 ### [[Backpropagation (Gradient Flow)]]
 

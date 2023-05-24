@@ -7,4 +7,4 @@ A function that maps an event or values of one, or more, vars onto a real number
 Normally used to find the best weights (theta)
 
 See also:
-- [[Gradient Descent Algorithm]]
+- [[Gradient Descent]]

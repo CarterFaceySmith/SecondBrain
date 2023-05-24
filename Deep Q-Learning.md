@@ -15,7 +15,7 @@ Compared to standard [[Q-Learning]] this might suffer from more instability. Why
 
 ## The Deep Q-Learning Algorithm
 
-Instead of updating the Q-value of a state-action pair directly like in [[Q-Learning]], we create a loss function that compares our Q-value prediction and the Q-target, then uses the [[Gradient Descent Algorithm]] to update the weights of our network and approximate the Q-values better.
+Instead of updating the Q-value of a state-action pair directly like in [[Q-Learning]], we create a loss function that compares our Q-value prediction and the Q-target, then uses the [[Gradient Descent]] to update the weights of our network and approximate the Q-values better.
 
 ### Phase One: Sampling
 
@@ -23,5 +23,5 @@ We perform actions and store the observed experienced tuples in replay memory.
 
 ### Phase Two: Training
 
-We select a small batch of those tuples at random, then learn from that batch using the [[Gradient Descent Algorithm]] update step.
+We select a small batch of those tuples at random, then learn from that batch using the [[Gradient Descent]] update step.
 
