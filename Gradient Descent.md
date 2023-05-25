@@ -6,7 +6,7 @@ An *iterative* optimisation algo for finding the **local** minimum of a function
 
 The goal of gradient descent is to minimise the given func., which it does by doing the following iteratively:
 1. Computes the gradient (slope), the first order derivative of the func. at that point; and
-2. Makes a step in the direction opposite to the gradient, steps from urrent point by alpha (learning rate, a tunable param. that decides the length of steps) times the gradient at that point.
+2. Makes a step in the direction opposite to the gradient, steps from current point by $\alpha$ (learning rate, a tunable param. that decides the length of steps) times the gradient at that point.
 
 ### Code Example (Python)
 
