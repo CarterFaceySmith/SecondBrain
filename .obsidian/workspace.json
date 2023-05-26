@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neural Networks (NN).md",
+                "file": "Universal Approximation Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neural Networks (NN).md",
+                "file": "Universal Approximation Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +138,8 @@
   },
   "active": "9fe461612b20e267",
   "lastOpenFiles": [
+    "Neural Networks (NN).md",
+    "Universal Approximation Theorem.md",
     "Gradient Descent.md",
     "Adaptive Moment Estimation (ADAM).md",
     "Stochastic Gradient Descent Convergence.md",
@@ -165,8 +167,6 @@
     "Epigenetic Profile.md",
     "Promotor Sequence.md",
     "Gene Expression.md",
-    "RNA.md",
-    "Clipped Policy Surrogate Function.md",
     "Screenshot 2023-05-03 at 9.26.51 am.png",
     "Exploration",
     "Screen Shot 2023-04-06 at 6.01.58 pm.png"

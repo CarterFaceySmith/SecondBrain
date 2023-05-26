@@ -1,0 +1,3 @@
+For any continuous function $f$ on a compact set $K$, there exists a one-layer [[Neural Networks (NN)]], having only a single hidden layer + a sigmoid, which uniformly approximates $f$ to within an arbitrary $\epsilon > 0$ on $K$.
+
+Basically, if you have a continuous function on a bounded set, it can be approximated with only a single hidden layer and a sigmoid, to within some error value greater than 0.
