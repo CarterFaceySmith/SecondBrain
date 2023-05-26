@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gradient Descent.md",
+                "file": "Neural Networks (NN).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gradient Descent.md",
+                "file": "Neural Networks (NN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +138,8 @@
   },
   "active": "9fe461612b20e267",
   "lastOpenFiles": [
-    "Adaptive Moment Estimation (ADAM).md",
     "Gradient Descent.md",
+    "Adaptive Moment Estimation (ADAM).md",
     "Stochastic Gradient Descent Convergence.md",
     "Untitled.md",
     "Blackbox and Whitebox Monitoring.md",
