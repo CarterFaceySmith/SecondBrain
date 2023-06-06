@@ -2,6 +2,8 @@ Penalising the complexity of a [[Machine Learning]] model to reduce overfitting.
 
 We want to avoid model complexity where possible. But note that this also increases potential training error, at the tradeoff of reducing overfitting.
 
+You are effectively forcing the model to learn better features.
+
 ### Early Stopping
 
 Simply stopping the training before you converge on the training data, but this can be difficult to pull off.

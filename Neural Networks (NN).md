@@ -59,15 +59,16 @@ $$F(x) = max(0,x)$$
 
 ### Practical Neural Network
 
-Let's have a play:
+Let's have a play: [Google ML Crash Course: NN Playground Exercise](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/playground-exercises)
 
-https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/playground-exercises
+## [[A Practical Recipe for Developing Neural Networks]]
+
 
 
 See also:
 - [[Machine Learning]]
-- https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/anatomy
+- [Google ML Crash Course: Intro to Neural Network Anatomy](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/anatomy)
 - [[Backpropagation (Gradient Flow)]]
-- https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/intro_to_neural_nets.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=intro_to_nn_tf2-colab&hl=en
-- https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
-- https://www.youtube.com/watch?v=0QczhVg5HaI
+- [Google Colab: Introd to Neural Nets](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/intro_to_neural_nets.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=intro_to_nn_tf2-colab&hl=en)
+- [NN Manifolds Topology Blog Post](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+- ['Why Neural Networks can learn (almost) anything' - Emergent Garden](https://www.youtube.com/watch?v=0QczhVg5HaI)
