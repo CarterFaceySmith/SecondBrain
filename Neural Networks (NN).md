@@ -41,21 +41,9 @@ You can add as many hidden layers and nodes within them as you see fit but it wi
 
 #### Pause. Gimme some common nonlinear functions (activation functions) please.
 
-Sure man but tbh you don't need to memorise these, tensorflow or whatever you're using has them built in, handy to know what's occuring behind the scenes though.
+Sure man but tbh you don't need to memorise these, tensorflow or whatever you're using has them built in, handy to know what's occurring behind the scenes though.
 
-- ##### Sigmoid
-Converts weighted sum to a val. between 0 and 1.
-$$F(x) = \frac{1}{1+e^{-x}}$$
-
-- ##### ReLU (Rectified Linear Unit)
-Often a little better than a smooth func. like a sigmoid whilst being easier to compute.
-$$F(x) = max(0,x)$$
-
-- ##### Parametric ReLU
-
-- ##### ELU
-
-- ##### Maxout
+[[Activation Function]].
 
 ### Practical Neural Network
 

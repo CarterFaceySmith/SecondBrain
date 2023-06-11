@@ -61,7 +61,6 @@ I.e. "Take the current gradient, add it to the previous gradient, and keep summi
 Note this can result in you overcoming a local minima but it does not guarantee finding the *best* minima as you can overshoot.
 
 ##### Nesterov Momentum/Look-ahead Momentum
-
 x
 
 ##### [[Adaptive Moment Estimation (ADAM)]]

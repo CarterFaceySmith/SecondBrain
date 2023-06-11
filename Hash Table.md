@@ -1,6 +1,7 @@
-# Hash Table
 
 A hash table is a type of data structure which stores data as an [[Arrays]] where each data value has a unique index value, letting us rapidly access data if the index value is known.
+
+Non-generic, not type-safe.
 
 The data item is first defined with some data and key, the key is then hashed.
 

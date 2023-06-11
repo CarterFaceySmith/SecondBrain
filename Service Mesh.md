@@ -1,0 +1,3 @@
+- A configurable low-latency infrastructure layer.
+- Designed to handle volumes of network interprocess communication among services using APIs
+- Ensure sanctity and speed of containerised and other application infrastructure

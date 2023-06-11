@@ -1,0 +1,1 @@
+A key-value database for information storage, multiple replicas enable high-uptime availability.

@@ -1,5 +1,3 @@
-# Linked-Lists
-
 A sequence of data structures linked together via links in some way.
 
 Each link carries a data field and a link field to next, this can depend on the type of linked-list though, see below.

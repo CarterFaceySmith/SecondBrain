@@ -15,7 +15,7 @@ complexity(model) = sum(weights^2) = \lambda(L2Norm^2)
 $$
 Where $\lambda$ is a scalar value that controls how the weights are balanced
 
-This method of regularisation penalises massive weights, encourages weights to be small , butdoesn't force them to exactly 0.0.
+This method of regularisation penalises massive weights, encourages weights to be small , but doesn't force them to exactly 0.0.
 
 We add this term to our loss function, to get:
 `minimise: Loss(Data | Model) + complexity(Model)`
@@ -36,7 +36,7 @@ Let's say you've got a massive fuck-off dataset, you've done a few too many [[Fe
 
 
 See also:
-- https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/video-lecture
+- [Google Machine Learning Crash Course: Regularization](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/video-lecture)
 - [[Feature Cross]]
 - [[One-Hot Encoding]]
 - [[Data Preparation]]

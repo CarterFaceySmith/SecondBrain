@@ -4,7 +4,7 @@ In linear regression, you're attempting to model a relationship between two vari
 
 In this context x is the explanatory var (the factor that can influence the dependent var), y is the dependent var (the val relies upon the explanatory var), the slope of the line is b, and a is the intercept (the val of y when x = 0). Remember back to the maths bootcamp for this concept.
 
-## [[Linear Score Function]]
+## [[Score Function]]
 
 #### Finding a relationship and the correlation coefficient
 
