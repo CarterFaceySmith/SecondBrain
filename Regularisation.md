@@ -34,9 +34,16 @@ Penalises the sum of `abs(weights)`, encouraging sparsity.
 
 Let's say you've got a massive fuck-off dataset, you've done a few too many [[Feature Cross]]es, god that'd be expensive for RAM usage and the like right? It'd be nice if we could encourage weights to go to **zero** where possible/irrelevant, right? Let's force a few to exactly 0.0 using L1 Regularisation.
 
+### Bagging and Ensemble Models
+
+You could also regularise by training multiple models and averaging their results. 
+E.g. Use a different optimisation algorithm or change the objective/loss function.
+
+If errors are uncorrelated, the expected combined error will decrease linearly with the ensemble size.
 
 See also:
 - [Google Machine Learning Crash Course: Regularization](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity/video-lecture)
 - [[Feature Cross]]
 - [[One-Hot Encoding]]
 - [[Data Preparation]]
+- [[Data Augmentation]]

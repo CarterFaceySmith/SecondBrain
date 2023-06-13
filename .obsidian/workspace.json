@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69582b16da5bd9a0",
+            "id": "f68ec820fb9a39e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,91 +20,18 @@
             }
           },
           {
-            "id": "57285ebd3babb9a0",
+            "id": "7d68d98ed6c0ee43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Service Mesh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45412933079f668d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hinge Loss (SVM Loss).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37441e1600e23101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Activation Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f68ec820fb9a39e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weight Initialisation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f097333c4012b17b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cross-Entropy Loss (Maximum Likelihood Estimate).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67ff071c0da35129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L1 Loss.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e3171c22fb0bf8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L2 Loss.md",
+                "file": "Data Preparation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weight Initialisation.md",
+                "file": "Regularisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,6 +138,9 @@
   },
   "active": "f68ec820fb9a39e1",
   "lastOpenFiles": [
+    "Data Augmentation.md",
+    "Data Preparation.md",
+    "Weight Initialisation.md",
     "Activation Function.md",
     "Screenshot 2023-06-11 at 1.07.49 pm.png",
     "Regularisation.md",
@@ -218,7 +148,6 @@
     "Score Function.md",
     "Screenshot 2023-06-11 at 12.42.30 pm.png",
     "Microservices.md",
-    "Weight Initialisation.md",
     "Learning Rate Decay.md",
     "A Practical Recipe for Developing Neural Networks.md",
     "Service Mesh.md",
@@ -237,7 +166,6 @@
     "Cloud Native Applications.md",
     "Hash Table.md",
     "Array Lists.md",
-    "Generics.md",
     "Quick and Dirty Guide to C.pdf",
     "3c table.png",
     "git-cheat-sheet.pdf",
