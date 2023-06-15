@@ -1,4 +1,4 @@
-Given a sufficiently large state space, creating and updating a Q-table becomes inefficient, meaning the best idea is then to apporximate the Q-values instead of a Q-table using a parameterised Q-function $Q_\theta(s,a)$.
+Given a sufficiently large state space, creating and updating a Q-table becomes inefficient, meaning the best idea is then to approximate the Q-values instead of a Q-table using a parameterised Q-function $Q_\theta(s,a)$.
 
 This approximates, given a state, the different Q-values for each possible action at that state, that's all deep Q-Learning is baby.
 
