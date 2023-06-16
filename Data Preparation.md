@@ -1,5 +1,3 @@
-# Data Preparation
-
 it's all in the name baby, you're preparing data for further manipulation or analysis by 'cleaning' it
 
 it basically makes the data usable and sharpens it's relevancy by removing unnecessary shit

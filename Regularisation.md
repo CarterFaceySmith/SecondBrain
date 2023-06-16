@@ -8,6 +8,22 @@ You are effectively forcing the model to learn better features.
 
 Simply stopping the training before you converge on the training data, but this can be difficult to pull off.
 
+### Dropout
+
+Dropout works by randomly dropping units in a network for a single gradient step, the more you drop out the stronger the regularisation.
+
+Works on a scale from 0.0 (drop nothing) to 1.0 (drop everything). Typically 50%.
+
+It is then disabled at testing time, dropout only used in training. This does propose the issue that training and test conditions are different right? So you add a dropout probability offset at test time based on the percentage you dropped out.
+
+#### Monte-Carlo Dropout
+
+Basically you run a network multiple times at training with a low probability of dropout (01 or 0.2) and check its predictions:
+- If it consistently predicts the same thing it is confident
+- Vice versa = not confident
+
+It is producing a confidence estimate you can apply.
+
 ### L2 Regularisation
 
 $$

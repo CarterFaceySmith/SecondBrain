@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Q-Learning.md",
+                "file": "Regularisation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7d68d98ed6c0ee43",
+            "id": "926c585aaa699289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Preparation.md",
+                "file": "Covariate Shift.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Q-Learning.md",
+                "file": "Regularisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,11 +138,15 @@
   },
   "active": "f68ec820fb9a39e1",
   "lastOpenFiles": [
-    "Activation Function.md",
-    "Data Augmentation.md",
-    "Weight Initialisation.md",
-    "Regularisation.md",
+    "Batch Normalisation (BN).md",
+    "Covariate Shift.md",
     "Data Preparation.md",
+    "Regularisation.md",
+    "Backpropagation (Gradient Flow).md",
+    "Weight Initialisation.md",
+    "Data Augmentation.md",
+    "Activation Function.md",
+    "Deep Q-Learning.md",
     "Screenshot 2023-06-11 at 1.07.49 pm.png",
     "Loss Function.md",
     "Score Function.md",
@@ -162,10 +166,6 @@
     "Node.md",
     "Pod.md",
     "Kubernetes.md",
-    "etcd.md",
-    "Cloud Native Applications.md",
-    "Hash Table.md",
-    "Array Lists.md",
     "Quick and Dirty Guide to C.pdf",
     "3c table.png",
     "git-cheat-sheet.pdf",

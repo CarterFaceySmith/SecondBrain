@@ -1,0 +1,1 @@
+Basically if a [[Neural Networks (NN)]] learns a given $x\larr y$ mapping, then if the distribution of $x$ changes (even if the ground truth function to $y$ remains the same, i.e. the purpose of the function ("Is this image a cat?")) you might need to retrain your network.
