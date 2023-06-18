@@ -5,7 +5,7 @@ A formal language has:
 2. Syntax = orderings of those symbols
 3. Possibly semantics = the meaning of those syntax
 
-##### Rigurously defining what constitutes a formal language, because it's fun to suffer and life is pain
+##### Rigorously defining what constitutes a formal language, because it's fun to suffer and life is pain
 
 A language, L, is a possibly infinite set of strings over a finite alphabet 'sigma'. Eg.
 $$
@@ -41,7 +41,7 @@ I.e. a set of rules for creating words from a language.
 #### Syntax
 - Terminals: set of lower case chars from an alphabet $\Sigma$
 - Vars: set of upper case characters, used in production of words but do not appear in the words produced
-- Start symbol: Special symbol denoting start of the grammar, normalling *S*
+- Start symbol: Special symbol denoting start of the grammar, normally *S*
 - Set of rules (*S*): the rules dictating how words may be created
 
 #### Types

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batch Normalisation (BN).md",
+                "file": "Formal Languages and Grammar.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Batch Normalisation (BN).md",
+                "file": "Formal Languages and Grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +138,8 @@
   },
   "active": "f68ec820fb9a39e1",
   "lastOpenFiles": [
-    "Covariate Shift.md",
     "Batch Normalisation (BN).md",
+    "Covariate Shift.md",
     "Regularisation.md",
     "Data Preparation.md",
     "Backpropagation (Gradient Flow).md",
