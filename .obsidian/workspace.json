@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regularisation.md",
+                "file": "Batch Normalisation (BN).md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regularisation.md",
+                "file": "Batch Normalisation (BN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,10 +138,10 @@
   },
   "active": "f68ec820fb9a39e1",
   "lastOpenFiles": [
-    "Batch Normalisation (BN).md",
     "Covariate Shift.md",
-    "Data Preparation.md",
+    "Batch Normalisation (BN).md",
     "Regularisation.md",
+    "Data Preparation.md",
     "Backpropagation (Gradient Flow).md",
     "Weight Initialisation.md",
     "Data Augmentation.md",

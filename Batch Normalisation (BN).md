@@ -26,5 +26,22 @@ Remember this occurs on a *per-batch* basis, i.e. for each batch.
 
 Allowing the [[Neural Networks (NN)]] to change the range $y^{(k)}=\gamma^{(k)}x^{(k)}+\beta^{(k)}$ where $\gamma$ and $\beta$ get optimised during [[Backpropagation (Gradient Flow)]] (they are learned like any other parameter, i.e. the network can shift these values).
 
+## Training and Testing
+
+Train-time: mean and variance is taken over the mini-batch
+Test-time: compute the mean and variance by running an exponentially weighted averaged across training mini-batches. $σ^2_{test}$  and $μ_{test}$:
+$$Var_{running} = \beta_m*Var_{running}+(1-\beta_m)*Var_{minibatch}$$
+$$\mu_{running} = \beta_m*\mu_{running}+(1-\beta_m)*\mu_{minibatch}$$
+Note: $\beta_m$ is normally 0.99 but can be changed as a hyperparameter.
+
+## Drawbacks
+
+As you reduce the batch size (< 8), the statistics for mean and variance get less and less accurate and BN starts to deliver poorer results.
+
+The solution? Use [[Layer Normalisation]], [[Instance Normalisation]], or [[Group Normalisation]] (the error stays quite constant despite the batch size).
+
+The non-linearity of BN during training is due to the fact that each batch out of the whole dataset is normalised by different values (mean and standard deviation (std)). 
+
+During the inference time (testing), it is basically considered a linear function, since those values are a constant (running-mean and running-var), that do not depend on the test input.
 
 
