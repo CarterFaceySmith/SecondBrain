@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "68c942ab75266e1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autoscaling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa7b58aee72c6aa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Load Balancing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32e873b6dffec2df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functional Programming.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41fc2d741228adc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anonymous Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anonymous Methods.md",
+                "file": "Convolutional Neural Networks (CNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +124,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "41fc2d741228adc4",
+  "active": "ea36a0eae352c451",
   "lastOpenFiles": [
-    "Delegates.md",
     "Anonymous Methods.md",
+    "Delegates.md",
     "Functional Programming.md",
     "Object-Oriented Programming.md",
     "Load Balancing.md",
