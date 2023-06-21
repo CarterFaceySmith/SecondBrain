@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.50312423706055,
-    "collapsed": true
+    "width": 392.50312423706055
   },
   "right": {
     "id": "42bc6d669f3f5ba8",
@@ -120,10 +119,10 @@
   },
   "active": "e53b6d02a1157858",
   "lastOpenFiles": [
-    "Images/Pasted image 20220506101900.png",
-    "Images/Screen Shot 2022-08-04 at 10.26.41 am.png",
-    "Images/Pasted image 20220505193846.png",
-    "Images/Algo Example Diagram.png",
+    "External Assets/Pasted image 20220506101900.png",
+    "External Assets/Screen Shot 2022-08-04 at 10.26.41 am.png",
+    "External Assets/Pasted image 20220505193846.png",
+    "External Assets/Algo Example Diagram.png",
     "Convolutional Neural Networks (CNN).md",
     "Untitled",
     "Anonymous Methods.md",
@@ -142,21 +141,21 @@
     "Data Augmentation.md",
     "Activation Function.md",
     "Deep Q-Learning.md",
-    "Images/Screenshot 2023-06-11 at 1.07.49 pm.png",
+    "External Assets/Screenshot 2023-06-11 at 1.07.49 pm.png",
     "Loss Function.md",
     "Score Function.md",
-    "Images/Screenshot 2023-06-11 at 12.42.30 pm.png",
+    "External Assets/Screenshot 2023-06-11 at 12.42.30 pm.png",
     "Microservices.md",
     "Learning Rate Decay.md",
     "A Practical Recipe for Developing Neural Networks.md",
     "Service Mesh.md",
     "Monolithic.md",
     "Cross-Entropy Loss (Maximum Likelihood Estimate).md",
-    "Quick and Dirty Guide to C.pdf",
+    "External Assets/Quick and Dirty Guide to C.pdf",
     "3c table.png",
-    "git-cheat-sheet.pdf",
-    "Images/Screenshot 2023-05-03 at 9.26.51 am.png",
+    "External Assets/git-cheat-sheet.pdf",
+    "External Assets/Screenshot 2023-05-03 at 9.26.51 am.png",
     "Exploration",
-    "Images/Screen Shot 2023-04-06 at 6.01.58 pm.png"
+    "External Assets/Screen Shot 2023-04-06 at 6.01.58 pm.png"
   ]
 }
