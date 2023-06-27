@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transfer Learning.md",
+                "file": "Convolutional Neural Networks (CNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,10 +147,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "84ef67b8b6e4aa5c",
+  "active": "e53b6d02a1157858",
   "lastOpenFiles": [
-    "Convolutional Neural Networks (CNN).md",
     "Transfer Learning.md",
+    "Convolutional Neural Networks (CNN).md",
     "Receptive Field.md",
     "External Assets/Screenshot 2023-06-26 at 2.22.48 pm.png",
     "Autoencoder.md",

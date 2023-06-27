@@ -23,6 +23,10 @@ In a convolution layer we can apply many filters with different weights, so we c
 
 Each filter captures a different characteristic such as: edges, circles, squares, etc.
 
+Imagine the convolutional layer as a tiny detective with a magnifying glass, scanning over an image. This detective is looking for specific features in the image, like edges, corners, or textures. The magnifying glass is like the filter or kernel, which is a small matrix of numbers. 
+
+As the detective moves the magnifying glass across the image, it calculates a dot product between the values in the filter and the pixel values in the image. This process forms a new image, which is a map of where the filter found a match in the image. The cool part is that these filters are not pre-defined; they are learned by the network during training!
+
 ### Dimensions of a Convolutional Layer
 
 $N$: Input width/height 
@@ -43,6 +47,8 @@ $P$: Padding
 	- Same: output size = input size, set $P=\frac{F-1}{2}$
 
 ## CNN Pooling
+
+Next up is the pooling layer, which is like the network's way of squinting. When you squint at something, you lose detail, but you also get a broader view. That's what the pooling layer does. It slides over the image and picks the biggest number from a patch in the previous layer (if we're using max pooling), effectively reducing the size of the image. This helps to make the network more efficient and less prone to overfitting.
 
 Used as a downsampling layer. It picks the strongest activation in a region. Pooling layer goes directly after a convolution layer:
 
