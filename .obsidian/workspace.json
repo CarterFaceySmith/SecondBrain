@@ -20,6 +20,54 @@
             }
           },
           {
+            "id": "455c84cf84ceb343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FaaS (Function as a Service).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dcdc27af8fef932",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Function Delivery Network (FDN).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23e46fb0074bbd4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOLID Principles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9b5e9104547938c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "84ef67b8b6e4aa5c",
             "type": "leaf",
             "state": {
@@ -43,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Convolutional Neural Networks (CNN).md",
+                "file": "SOLID Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,10 +196,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e53b6d02a1157858",
+  "active": "23e46fb0074bbd4a",
   "lastOpenFiles": [
-    "Transfer Learning.md",
+    "Design Patterns.md",
+    "SOLID Principles.md",
+    "Function Delivery Network (FDN).md",
+    "FaaS (Function as a Service).md",
     "Convolutional Neural Networks (CNN).md",
+    "Transfer Learning.md",
     "Receptive Field.md",
     "External Assets/Screenshot 2023-06-26 at 2.22.48 pm.png",
     "Autoencoder.md",
@@ -182,10 +235,6 @@
     "Activation Function.md",
     "Deep Q-Learning.md",
     "Loss Function.md",
-    "Score Function.md",
-    "Microservices.md",
-    "Learning Rate Decay.md",
-    "A Practical Recipe for Developing Neural Networks.md",
     "External Assets/Quick and Dirty Guide to C.pdf",
     "External Assets/git-cheat-sheet.pdf",
     "Exploration"
