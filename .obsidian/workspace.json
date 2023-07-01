@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "0ebc4fc02e6c848b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skip Connections (Residual Block).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1751554cdc2f59a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inception Layers (1x1 Convolutions).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "455c84cf84ceb343",
             "type": "leaf",
             "state": {
@@ -92,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOLID Principles.md",
+                "file": "Inception Layers (1x1 Convolutions).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,13 +220,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "23e46fb0074bbd4a",
+  "active": "1751554cdc2f59a2",
   "lastOpenFiles": [
-    "Design Patterns.md",
+    "Filter Kernel.md",
+    "Inception Layers (1x1 Convolutions).md",
+    "Skip Connections (Residual Block).md",
+    "Convolutional Neural Networks (CNN).md",
+    "Popular CNN Architectures.md",
     "SOLID Principles.md",
+    "Design Patterns.md",
     "Function Delivery Network (FDN).md",
     "FaaS (Function as a Service).md",
-    "Convolutional Neural Networks (CNN).md",
     "Transfer Learning.md",
     "Receptive Field.md",
     "External Assets/Screenshot 2023-06-26 at 2.22.48 pm.png",
@@ -231,10 +259,6 @@
     "Data Preparation.md",
     "Backpropagation (Gradient Flow).md",
     "Weight Initialisation.md",
-    "Data Augmentation.md",
-    "Activation Function.md",
-    "Deep Q-Learning.md",
-    "Loss Function.md",
     "External Assets/Quick and Dirty Guide to C.pdf",
     "External Assets/git-cheat-sheet.pdf",
     "Exploration"

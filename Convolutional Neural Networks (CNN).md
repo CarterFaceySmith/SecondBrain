@@ -81,3 +81,7 @@ Spatial: randomly sets entire feature maps to zero.
 All of this brings us to the overall concept... 
 
 ## ***[[Transfer Learning]]***
+
+
+See also:
+- [[Skip Connections (Residual Block)]]
