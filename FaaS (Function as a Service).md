@@ -30,8 +30,6 @@ There are several big players in the FaaS game:
 
 - **IBM Cloud Functions**: Based on Apache OpenWhisk, IBM's FaaS offering might appeal to you if open source is your thing.
 
-Remember, FaaS is a tool, and like any tool, it's not a one-size-fits-all solution. It's great for some use cases, but not for others. 
-
 ## Use when?
 
 - Easily decomposable functions  

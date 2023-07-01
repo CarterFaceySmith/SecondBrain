@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inception Layers (1x1 Convolutions).md",
+                "file": "FaaS (Function as a Service).md",
                 "mode": "source",
                 "source": false
               }
@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "62050c9d6445aeeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recurrent Neural Networks (RNN).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09e9ad3a03363f4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Long Short-Term Memory (LSTM).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b9b5e9104547938c",
             "type": "leaf",
             "state": {
@@ -116,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -183,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inception Layers (1x1 Convolutions).md",
+                "file": "Long Short-Term Memory (LSTM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,18 +244,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1751554cdc2f59a2",
+  "active": "09e9ad3a03363f4b",
   "lastOpenFiles": [
-    "Filter Kernel.md",
+    "Recurrent Neural Networks (RNN).md",
+    "Long Short-Term Memory (LSTM).md",
+    "Transfer Learning.md",
+    "SOLID Principles.md",
+    "FaaS (Function as a Service).md",
     "Inception Layers (1x1 Convolutions).md",
+    "Filter Kernel.md",
     "Skip Connections (Residual Block).md",
     "Convolutional Neural Networks (CNN).md",
     "Popular CNN Architectures.md",
-    "SOLID Principles.md",
     "Design Patterns.md",
     "Function Delivery Network (FDN).md",
-    "FaaS (Function as a Service).md",
-    "Transfer Learning.md",
     "Receptive Field.md",
     "External Assets/Screenshot 2023-06-26 at 2.22.48 pm.png",
     "Autoencoder.md",
@@ -257,8 +283,6 @@
     "Batch Normalisation (BN).md",
     "Regularisation.md",
     "Data Preparation.md",
-    "Backpropagation (Gradient Flow).md",
-    "Weight Initialisation.md",
     "External Assets/Quick and Dirty Guide to C.pdf",
     "External Assets/git-cheat-sheet.pdf",
     "Exploration"
