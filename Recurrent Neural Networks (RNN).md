@@ -8,6 +8,24 @@ Recurrent Neural Networks, or RNNs, are a type of artificial [[Neural Networks (
 
 RNNs process sequences of inputs by maintaining a 'state' containing information about past elements in the sequence. This state is passed along from one step in the sequence to the next, allowing the network to incorporate information from the past when making predictions about the future.
 
+### Describe the Structure
+
+Inputs -> Hidden states -> Outputs
+
+The hidden state has it's own internal dynamics which vary massively.
+
+Remember, we need a notion of time, here is a diagram of a hidden state:
+
+![[Screenshot 2023-07-07 at 8.44.47 pm.png]]
+
+Here is a formula describing the hidden state at a given time $t$:
+$$A_t=\theta_cA_{t-1}+\theta_xx_t$$
+Where $A_t$ is the previous hidden state and $x_t$ is the input, thetas are of course some learnable parameter for changing by the model.
+
+In the above diagram $h_t = \theta_hA_t$.
+
+***Note***: The parameters, theta, are the same for each time step to allow for generalisation.
+
 ## Why are they useful?
 
 RNNs are particularly useful for tasks that involve sequential data, like language translation, speech recognition, and time series prediction. They're able to capture patterns in the input data that span different points in time, which can be really useful for these kinds of tasks.

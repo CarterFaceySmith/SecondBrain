@@ -19,3 +19,5 @@ In order to use the existing knowledge:
 	- Freeze the CNN weights completely during the new training session.
 	- Slow the learning rate of the CNN only, so it learns a bit more from the new data, but doesn’t make a significant impact, that might hurt the efficiency of the model.
 	- Let it train as usual.
+
+Put simply, freeze the maxpool, conv layers etc and just retrain the fully connected layers are the start of the model, massively shortening the time and resources required if you have pretrained model.

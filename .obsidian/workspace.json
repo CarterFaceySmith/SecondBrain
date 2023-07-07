@@ -4,143 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "63d6ef5a661a9c69",
+        "id": "5b5f517610e68bcb",
         "type": "tabs",
         "children": [
           {
-            "id": "e53b6d02a1157858",
+            "id": "1eae37f42598a348",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Convolutional Neural Networks (CNN).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ebc4fc02e6c848b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skip Connections (Residual Block).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1751554cdc2f59a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FaaS (Function as a Service).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "455c84cf84ceb343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FaaS (Function as a Service).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dcdc27af8fef932",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Function Delivery Network (FDN).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23e46fb0074bbd4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SOLID Principles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62050c9d6445aeeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recurrent Neural Networks (RNN).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09e9ad3a03363f4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Long Short-Term Memory (LSTM).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9b5e9104547938c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84ef67b8b6e4aa5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transfer Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "362ed15bdb8ab2ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Receptive Field.md",
+                "file": "Attention.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Long Short-Term Memory (LSTM).md",
+                "file": "Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,11 +123,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "09e9ad3a03363f4b",
+  "active": "1eae37f42598a348",
   "lastOpenFiles": [
-    "Recurrent Neural Networks (RNN).md",
+    "External Assets/Screenshot 2023-07-07 at 9.11.12 pm.png",
     "Long Short-Term Memory (LSTM).md",
+    "Attention.md",
+    "Automated Build Configurations.md",
+    "Screenshot 2023-07-07 at 8.58.36 pm 1.png",
+    "External Assets/Screenshot 2023-07-07 at 8.58.36 pm.png",
+    "Receptive Field.md",
+    "Recurrent Neural Networks (RNN).md",
+    "External Assets/Screenshot 2023-07-07 at 8.44.47 pm.png",
+    "Transformer.md",
     "Transfer Learning.md",
+    "Representation Learning.md",
     "SOLID Principles.md",
     "FaaS (Function as a Service).md",
     "Inception Layers (1x1 Convolutions).md",
@@ -258,7 +146,6 @@
     "Popular CNN Architectures.md",
     "Design Patterns.md",
     "Function Delivery Network (FDN).md",
-    "Receptive Field.md",
     "External Assets/Screenshot 2023-06-26 at 2.22.48 pm.png",
     "Autoencoder.md",
     "External Assets/Pasted image 20230626135308.png",
@@ -268,9 +155,6 @@
     "External Assets/Pasted image 20220506102104.png",
     "External Assets/Pasted image 20230626135201.png.md",
     "External Assets/Pasted image 20220506101900.png",
-    "External Assets/Screen Shot 2022-08-04 at 10.26.41 am.png",
-    "External Assets/Pasted image 20220505193846.png",
-    "External Assets/Algo Example Diagram.png",
     "Untitled",
     "Anonymous Methods.md",
     "Delegates.md",
@@ -278,11 +162,6 @@
     "Object-Oriented Programming.md",
     "Load Balancing.md",
     "Autoscaling.md",
-    "Formal Languages and Grammar.md",
-    "Covariate Shift.md",
-    "Batch Normalisation (BN).md",
-    "Regularisation.md",
-    "Data Preparation.md",
     "External Assets/Quick and Dirty Guide to C.pdf",
     "External Assets/git-cheat-sheet.pdf",
     "Exploration"

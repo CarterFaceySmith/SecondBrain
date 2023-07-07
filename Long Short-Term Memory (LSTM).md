@@ -1,4 +1,8 @@
-Long Short-Term Memory (LSTM) networks are a type of [[Recurrent Neural Networks (RNN)]] designed to remember data over long periods of time. Unlike standard RNNs, which can struggle with learning long-term dependencies due to the vanishing gradient problem, LSTMs are designed to handle this like a champ.
+Long Short-Term Memory (LSTM) networks are a type of [[Recurrent Neural Networks (RNN)]] designed to remember data over long periods of time. 
+
+Unlike standard RNNs, which can struggle with learning long-term dependencies due to the vanishing gradient problem, LSTMs are designed to handle this like a champ.
+
+More or less though these strictly improve the concept of [[Recurrent Neural Networks (RNN)]], and are therefore used for the same tasks like sequencing.
 
 ## How do they work?
 
@@ -21,6 +25,8 @@ LSTM solved the vanishing gradient problem because:
 - Activation functions act through a summation, therefore vanishing gradients are not propagated through the whole cell state.
 
 Note: Input, states, and gates are not limited to 1st-order tensors. Gate functions can consist of FC and CNN layers.
+
+![[Screenshot 2023-07-07 at 8.58.36 pm.png]]
 
 ## Why are they useful?
 
