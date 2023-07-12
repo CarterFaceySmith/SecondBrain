@@ -15,7 +15,7 @@ $$F(x) = max(0,x)$$
 
 ##### Leaky ReLU
 - Combats Dead ReLU by changing the func to $F(x) = max(0.01,x,x)$
-- Common in [[Generative Adversarial Networks]]
+- Common in [[Generative Adversarial Networks (GAN)]]
 
 ##### Parametric ReLU
 - Parameter $\alpha$ instead of 0.01 in Leaky ReLU, that is trained of neural network (One more parameter to [[Backpropagation (Gradient Flow)]] into)

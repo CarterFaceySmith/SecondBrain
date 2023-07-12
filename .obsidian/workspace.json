@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attention.md",
+                "file": "Generative Adversarial Networks (GAN).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2375be43d09e66b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GAN Loss Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention.md",
+                "file": "GAN Loss Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,11 +136,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1eae37f42598a348",
+  "active": "f2375be43d09e66b",
   "lastOpenFiles": [
+    "Generative Adversarial Networks (GAN).md",
+    "GAN Loss Functions.md",
+    "Autoencoder.md",
+    "Attention.md",
+    "blahblahblah.md",
     "External Assets/Screenshot 2023-07-07 at 9.11.12 pm.png",
     "Long Short-Term Memory (LSTM).md",
-    "Attention.md",
     "Automated Build Configurations.md",
     "Screenshot 2023-07-07 at 8.58.36 pm 1.png",
     "External Assets/Screenshot 2023-07-07 at 8.58.36 pm.png",
@@ -147,21 +164,17 @@
     "Design Patterns.md",
     "Function Delivery Network (FDN).md",
     "External Assets/Screenshot 2023-06-26 at 2.22.48 pm.png",
-    "Autoencoder.md",
     "External Assets/Pasted image 20230626135308.png",
     "Pasted image 20230626135225.png",
     "Pasted image 20230626135201.png",
     "External Assets/Pasted image 20220506113401.png",
     "External Assets/Pasted image 20220506102104.png",
     "External Assets/Pasted image 20230626135201.png.md",
-    "External Assets/Pasted image 20220506101900.png",
     "Untitled",
     "Anonymous Methods.md",
     "Delegates.md",
     "Functional Programming.md",
     "Object-Oriented Programming.md",
-    "Load Balancing.md",
-    "Autoscaling.md",
     "External Assets/Quick and Dirty Guide to C.pdf",
     "External Assets/git-cheat-sheet.pdf",
     "Exploration"

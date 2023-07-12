@@ -1,5 +1,3 @@
-# Generative Adversarial Networks (GAN)
-
 Generative means the network/model is able to generate new data instances, put simply this network makes new shit from old shit.
 
 ### The structure of a GAN
@@ -23,7 +21,7 @@ Simply a classifier, it can use any network architecture appropriate for the typ
 
 The discrim. connects two [[Loss Function]]s, during training the generator loss is ignored and only discrim. loss is used.
 
-First, the discrim. calssifies both real and fake data from the generator.
+First, the discrim. classifies both real and fake data from the generator.
 
 Then, discrim. loss penalises the discrim. for misclassifying (giving a false pos. or neg. either way).
 
@@ -48,7 +46,7 @@ The recipe for a good generator:
 2. produce generator ouput from sampled random noise;
 3. get discrim. real and fake classifications;
 4. calculate loss from discrim. classification;
-5. backprop through both the discrim. and generator to obtain gradients; and
+5. [[Backpropagation (Gradient Flow)]] through both the discrim. and generator to obtain gradients; and
 6. use gradients to change only the generators weights.
 
 ### But can we train the GAN as a whole?
