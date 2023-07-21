@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GAN Loss Functions.md",
+                "file": "Grover's Search Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GAN Loss Functions.md",
+                "file": "Grover's Search Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +138,9 @@
   },
   "active": "f2375be43d09e66b",
   "lastOpenFiles": [
-    "Generative Adversarial Networks (GAN).md",
+    "Quantum Logic Gates.md",
     "GAN Loss Functions.md",
+    "Generative Adversarial Networks (GAN).md",
     "Autoencoder.md",
     "Attention.md",
     "blahblahblah.md",
@@ -174,7 +175,6 @@
     "Anonymous Methods.md",
     "Delegates.md",
     "Functional Programming.md",
-    "Object-Oriented Programming.md",
     "External Assets/Quick and Dirty Guide to C.pdf",
     "External Assets/git-cheat-sheet.pdf",
     "Exploration"
