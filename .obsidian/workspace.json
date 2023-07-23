@@ -20,19 +20,14 @@
             }
           },
           {
-            "id": "f2375be43d09e66b",
+            "id": "b234dd1ab6b71f79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grover's Search Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grover's Search Algorithm.md",
+                "file": "Generative Adversarial Networks (GAN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,11 +131,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f2375be43d09e66b",
+  "active": "04cda325f86a54f7",
   "lastOpenFiles": [
+    "External Assets/Screenshot 2023-07-23 at 12.30.14 pm.png",
+    "Generative Adversarial Networks (GAN).md",
+    "Grover's Search Algorithm.md",
     "Quantum Logic Gates.md",
     "GAN Loss Functions.md",
-    "Generative Adversarial Networks (GAN).md",
     "Autoencoder.md",
     "Attention.md",
     "blahblahblah.md",
@@ -173,8 +170,6 @@
     "External Assets/Pasted image 20230626135201.png.md",
     "Untitled",
     "Anonymous Methods.md",
-    "Delegates.md",
-    "Functional Programming.md",
     "External Assets/Quick and Dirty Guide to C.pdf",
     "External Assets/git-cheat-sheet.pdf",
     "Exploration"

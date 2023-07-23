@@ -2,6 +2,8 @@ Generative means the network/model is able to generate new data instances, put s
 
 ### The structure of a GAN
 
+![[Screenshot 2023-07-23 at 12.30.14 pm.png]]
+
 This is a two parter:
 1. The generator: learns how to generate plausible data, this data becomes negative training examples for the discriminator; and
 2. The discriminator: learns how to distinguish the generator's fake data from real data, penalises the generator for producing implausible results.
@@ -10,12 +12,13 @@ You can see how running both results in a cycle of exponentially improving data 
 
 Both parts are [[Neural Networks (NN)]], with the generator output being directly connected to the discriminator input. [[Backpropagation (Gradient Flow)]] is used to send a signal from the discriminator's classification to the generator that is used to update it's weights.
 
-
 ### The Discriminator (discrim. cos it's a long fkn word)
 
 What a name lol.
 
 Simply a classifier, it can use any network architecture appropriate for the type of data it's classifying.
+
+*It's a learnable [[Loss Function]].
 
 #### Training one
 
