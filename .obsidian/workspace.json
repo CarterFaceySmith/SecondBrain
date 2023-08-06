@@ -8,39 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1eae37f42598a348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Practical Recipe for Developing Neural Networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b234dd1ab6b71f79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0c13362af038926b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "A Practical Recipe for Developing Neural Networks.md",
-                "mode": "source",
-                "source": false
+                "file": "Job Search Kanban.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Practical Recipe for Developing Neural Networks.md",
+                "file": "Job Search Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,10 +121,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0c13362af038926b",
+  "active": "04cda325f86a54f7",
   "lastOpenFiles": [
-    "Action Space.md",
+    "Job Search Kanban",
+    "Untitled.md",
+    "Job Search Kanban.md",
     "A Practical Recipe for Developing Neural Networks.md",
+    "Untitled.canvas",
+    "Action Space.md",
     "Generative Adversarial Networks (GAN).md",
     "Pages",
     "External Assets/Screenshot 2023-07-23 at 12.30.14 pm.png",
@@ -174,14 +156,11 @@
     "Skip Connections (Residual Block).md",
     "Convolutional Neural Networks (CNN).md",
     "Popular CNN Architectures.md",
-    "Design Patterns.md",
-    "Function Delivery Network (FDN).md",
     "External Assets/Screenshot 2023-06-26 at 2.22.48 pm.png",
     "External Assets/Pasted image 20230626135308.png",
     "Pasted image 20230626135225.png",
     "Pasted image 20230626135201.png",
     "External Assets/Pasted image 20220506113401.png",
-    "External Assets/Pasted image 20230626135201.png.md",
     "External Assets/Quick and Dirty Guide to C.pdf",
     "External Assets/git-cheat-sheet.pdf",
     "Exploration"
