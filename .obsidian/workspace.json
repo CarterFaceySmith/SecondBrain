@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pages/A Practical Recipe for Developing Neural Networks.md",
+                "file": "A Practical Recipe for Developing Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,8 +26,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "0c13362af038926b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Practical Recipe for Developing Neural Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/A Practical Recipe for Developing Neural Networks.md",
+                "file": "A Practical Recipe for Developing Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,44 +143,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "04cda325f86a54f7",
+  "active": "0c13362af038926b",
   "lastOpenFiles": [
-    "Pages/Generative Adversarial Networks (GAN).md",
+    "Action Space.md",
+    "A Practical Recipe for Developing Neural Networks.md",
+    "Generative Adversarial Networks (GAN).md",
     "Pages",
     "External Assets/Screenshot 2023-07-23 at 12.30.14 pm.png",
-    "Pages/Grover's Search Algorithm.md",
-    "Pages/Quantum Logic Gates.md",
-    "Pages/GAN Loss Functions.md",
-    "Pages/Autoencoder.md",
-    "Pages/Attention.md",
+    "Grover's Search Algorithm.md",
+    "Quantum Logic Gates.md",
+    "GAN Loss Functions.md",
+    "Autoencoder.md",
+    "Attention.md",
     "blahblahblah.md",
     "External Assets/Screenshot 2023-07-07 at 9.11.12 pm.png",
-    "Pages/Long Short-Term Memory (LSTM).md",
-    "Pages/Automated Build Configurations.md",
+    "Long Short-Term Memory (LSTM).md",
+    "Automated Build Configurations.md",
     "Screenshot 2023-07-07 at 8.58.36 pm 1.png",
     "External Assets/Screenshot 2023-07-07 at 8.58.36 pm.png",
-    "Pages/Receptive Field.md",
-    "Pages/Recurrent Neural Networks (RNN).md",
+    "Receptive Field.md",
+    "Recurrent Neural Networks (RNN).md",
     "External Assets/Screenshot 2023-07-07 at 8.44.47 pm.png",
-    "Pages/Transformer.md",
-    "Pages/Transfer Learning.md",
-    "Pages/Representation Learning.md",
-    "Pages/SOLID Principles.md",
-    "Pages/FaaS (Function as a Service).md",
-    "Pages/Inception Layers (1x1 Convolutions).md",
-    "Pages/Filter Kernel.md",
-    "Pages/Skip Connections (Residual Block).md",
-    "Pages/Convolutional Neural Networks (CNN).md",
+    "Transformer.md",
+    "Transfer Learning.md",
+    "Representation Learning.md",
+    "SOLID Principles.md",
+    "FaaS (Function as a Service).md",
+    "Inception Layers (1x1 Convolutions).md",
+    "Filter Kernel.md",
+    "Skip Connections (Residual Block).md",
+    "Convolutional Neural Networks (CNN).md",
     "Popular CNN Architectures.md",
-    "Pages/Design Patterns.md",
-    "Pages/Function Delivery Network (FDN).md",
+    "Design Patterns.md",
+    "Function Delivery Network (FDN).md",
     "External Assets/Screenshot 2023-06-26 at 2.22.48 pm.png",
     "External Assets/Pasted image 20230626135308.png",
     "Pasted image 20230626135225.png",
     "Pasted image 20230626135201.png",
     "External Assets/Pasted image 20220506113401.png",
     "External Assets/Pasted image 20230626135201.png.md",
-    "Pages/Anonymous Methods.md",
     "External Assets/Quick and Dirty Guide to C.pdf",
     "External Assets/git-cheat-sheet.pdf",
     "Exploration"
