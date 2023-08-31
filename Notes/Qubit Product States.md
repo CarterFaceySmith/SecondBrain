@@ -23,17 +23,17 @@ So the amplitude of state 00 is the amp. of qubit $a$ being 0 multiplied by the 
 
 ## Entangled states?
 
-Let's get ready for some Jada Smith style [[Entanglement]].
+Let's get ready for some [[Entanglement]].
 
 Quantum computations generally start in a product state where all qubits are in the state |0>.
 
 We can then apply single qubit gates to manipulate these single qubit states, rotating them, but they will remain in a product state.
 
-To create entanglement we apply multi-qubit gates ([[Quantum Logic Gates]]), e.g cx (CNOT) or cz (performs a Z gate on the target qubit if the control qubit is 1) gates.
+To create entanglement we apply multi-qubit gates ([[Quantum Logic Gates]]), e.g $cx$ (CNOT) or $cz$ (performs a Z gate on the target qubit if the control qubit is 1) gates.
 
 Note that the control qubit is the left qubit and the right qubit is the target: $|00>$
 
-So we can do $qc.cx(1,0)$ to generate an entangled [[Quantum Circuits]] using Qiskit, where the two singular qubits are passed through a cx gate resulting in entanglement demonstrated below.
+So we can do $qc.cx(1,0)$ to generate an entangled [[Quantum Circuits]] using [[Qiskit]], where the two singular qubits are passed through a $cx$ gate resulting in [[Entanglement]] demonstrated below.
 
 ![[Screen Shot 2022-10-30 at 6.58.36 pm.png]]
 

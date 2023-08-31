@@ -1,6 +1,6 @@
 An emerging field of computing that uses bleeding-edge tech to attempt to improve upon existing computing capabilities in certain areas, mainly those relating to exponential algorithms/intractable problems.
 
-They pull this crazy shit off using qubits, a bit variant that uses quantum mechanics to represent any state of a bit simultaenously until measured, think [[Probability]]. This is called [[Superposition]], allowing groups of qubits to create wildly complex multi-dimensional computational spaces which we can represent problems in new ways in.
+They pull this crazy shit off using [[Qubits]], a bit variant that uses quantum mechanics to represent any state of a bit simultaneously until measured, think [[Probability]]. This is called [[Superposition]], allowing groups of qubits to create wildly complex multi-dimensional computational spaces which we can represent problems in new ways in.
 
 ## How is [[Entanglement]] relevant here?
 

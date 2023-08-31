@@ -16,4 +16,3 @@ File ends:
 	
 #### But Carter what the fuck does that do?
 
-Basically, 

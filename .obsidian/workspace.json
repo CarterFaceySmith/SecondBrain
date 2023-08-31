@@ -8,16 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b234dd1ab6b71f79",
+            "id": "d0c2e65f90a64522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/C++ Header Files.md",
+                "file": "Notes/Qubit Product States.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "be40b9ab50458b7f"
+          }
+        ]
+      },
+      {
+        "id": "1ab1cb5b471dd4d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9df03fdab1a8482d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/Qubit Product States.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "be40b9ab50458b7f"
           }
         ]
       }
@@ -48,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "example ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +108,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 392.50312423706055
+    "width": 392.50312423706055,
+    "collapsed": true
   },
   "right": {
     "id": "42bc6d669f3f5ba8",
@@ -85,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/C++ Header Files.md",
+                "file": "Notes/Qubit Product States.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,8 +168,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b234dd1ab6b71f79",
+  "active": "d0c2e65f90a64522",
   "lastOpenFiles": [
+    "Notes/Entanglement.md",
+    "Notes/Qubits.md",
+    "Notes/Quantum Circuits.md",
+    "Notes/Parameterised Quantum Circuits.md",
+    "Notes/Quantum Logic Gates.md",
+    "Notes/Opaque Quantum Gates.md",
+    "Notes/Qubit Product States.md",
+    "Notes/Probability Amplitudes.md",
+    "Notes/Quantum Operations.md",
+    "Notes/Quantum Computing.md",
+    "German Tenses.md",
+    "German A1 Vocabulary",
+    "Notes/German.md",
+    "Notes/Cloud Computing.md",
+    "Notes/Cloud Monitoring.md",
+    "Notes/Computer System Structure.md",
+    "Notes/Stochastic Gradient Descent Convergence.md",
+    "Eszter Reti (Eszti).md",
+    "Notes/C++ Header Files.md",
     "README.md",
     "Job Search Kanban.md",
     "Notes/Zero-Knowledge Proofs.md",
@@ -133,24 +197,6 @@
     "Notes/Weight Initialisation.md",
     "Notes/Wave Function.md",
     "Notes/VMWare vMotion.md",
-    "Notes/Virtualisation.md",
-    "Notes/Vectors.md",
-    "Notes/Vectors in C++.md",
-    "Notes/Variational Quantum Eigensolver.md",
-    "Notes/Utility Functions.md",
-    "Notes/User Stories.md",
-    "Notes/Unsupervised Learning.md",
-    "Notes/Unstructured Search.md",
-    "Notes/Unrestricted Grammars.md",
-    "Notes/Unix Variables.md",
-    "Notes/Unix Permissions.md",
-    "Notes/Unix Commands.md",
-    "Notes/Universality.md",
-    "Notes/Universal Turing Machines.md",
-    "Notes/Universal Approximation Theorem.md",
-    "Notes/Uniform Cost Search.md",
-    "Notes/Unary Operators.md",
-    "Notes/Turing Machines.md",
     "Notes",
     "untitled folder",
     "Job Search Kanban",
