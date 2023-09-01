@@ -18,14 +18,20 @@ Standardly though, we can simply rotate the qubit itself. By performing single q
 
 Common implementation: Apply an $h$-gate immediately before measurement, this gives us something known as an *x measurement*.
 
+### [[Qiskit]] Example
+
+```python
 	meas_x = QuantumCircuit(1,1)
 	meas_x.h(0)
 	meas_x.measure(0,0)
+```
 
 Standard measurement done with just a measure gate is known as *z measurement*.
 
+```python
 	meas_z = QuantumCircuit(1,1)
 	meas_z.measure(0,0)
+```
 
 ## [[The Uncertainty Principle]]
 

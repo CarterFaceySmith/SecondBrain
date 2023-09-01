@@ -13,7 +13,7 @@ Note the normal notation is limited by Latex commands here and the $ba$ pairs ar
 
 ## That's great and all, but how do we use this?
 
-The practicality of this stems from probability calculations, you see, if we want to find the probability of two unrelated things occuring we multiply their probabilities together.
+The practicality of this stems from probability calculations, you see, if we want to find the probability of two unrelated things occurring we multiply their probabilities together.
 
 With [[Quantum Mechanics]] we multiply their [[Probability Amplitudes]].
 

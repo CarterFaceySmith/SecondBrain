@@ -4,63 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b5f517610e68bcb",
+        "id": "ec0244561a2b878a",
         "type": "tabs",
         "children": [
           {
-            "id": "d0c2e65f90a64522",
+            "id": "4479f1539d53536b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Qubit Product States.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "be40b9ab50458b7f"
-          }
-        ]
-      },
-      {
-        "id": "1ab1cb5b471dd4d1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9df03fdab1a8482d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Notes/Qubit Product States.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "be40b9ab50458b7f"
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -108,13 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 392.50312423706055,
-    "collapsed": true
+    "width": 392.50312423706055
   },
   "right": {
     "id": "42bc6d669f3f5ba8",
@@ -130,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Qubit Product States.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,18 +118,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d0c2e65f90a64522",
+  "active": "04cda325f86a54f7",
   "lastOpenFiles": [
+    "Notes/The Uncertainty Principle.md",
+    "Notes/The Hardy Paradox.md",
+    "Notes/Quantum Communication.md",
+    "Notes/Quantum Computing.md",
+    "Notes/Quantum Operations.md",
+    "Notes/Qubit Product States.md",
     "Notes/Entanglement.md",
     "Notes/Qubits.md",
     "Notes/Quantum Circuits.md",
     "Notes/Parameterised Quantum Circuits.md",
     "Notes/Quantum Logic Gates.md",
     "Notes/Opaque Quantum Gates.md",
-    "Notes/Qubit Product States.md",
     "Notes/Probability Amplitudes.md",
-    "Notes/Quantum Operations.md",
-    "Notes/Quantum Computing.md",
     "German Tenses.md",
     "German A1 Vocabulary",
     "Notes/German.md",
@@ -194,9 +147,6 @@
     "Notes/Zero-Knowledge Proofs.md",
     "Notes/Wrapper Functions.md",
     "Notes/Wireshark.md",
-    "Notes/Weight Initialisation.md",
-    "Notes/Wave Function.md",
-    "Notes/VMWare vMotion.md",
     "Notes",
     "untitled folder",
     "Job Search Kanban",
