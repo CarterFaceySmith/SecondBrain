@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ec0244561a2b878a",
+        "id": "1de1f52c4c482e0a",
         "type": "tabs",
         "children": [
           {
-            "id": "4479f1539d53536b",
+            "id": "b34b004162043d11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/German Tenses.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/German Tenses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +138,7 @@
     "Notes/Quantum Logic Gates.md",
     "Notes/Opaque Quantum Gates.md",
     "Notes/Probability Amplitudes.md",
-    "German Tenses.md",
+    "Notes/German Tenses.md",
     "German A1 Vocabulary",
     "Notes/German.md",
     "Notes/Cloud Computing.md",
