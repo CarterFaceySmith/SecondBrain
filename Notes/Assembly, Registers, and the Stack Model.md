@@ -1,5 +1,3 @@
-# Assembly, Registers and the Stack Model
-
 ##### Registers:
 - small storage areas in your processor
 - used to store memory addresses, values or anything 8 bytes or less
@@ -9,7 +7,7 @@
 - first in first out model
 - uses pointer movement to add or subtract from the stack
 
-#### Assembly instructions format:
+#### [[Assembly]] instructions format:
 - each instruction has an operation and either one or two arguments
 - assembly has various operations (ops) that do different things, reference a fucking sheet man there are too many to try to remember
 - they all execute the op on the registers mentioned above

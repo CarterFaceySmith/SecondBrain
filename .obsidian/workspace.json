@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "1de1f52c4c482e0a",
+        "id": "fbb12b3aa9b7ddeb",
         "type": "tabs",
         "children": [
           {
-            "id": "b34b004162043d11",
+            "id": "556d09190d31fa96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/German Tenses.md",
+                "file": "Notes/A Practical Guide to Clothing - Brands and Pieces That Aren't Shit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "602e5a3495d9ceeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Executable and Linkable Format (ELF) Files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ecffdf4f1e68f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Linkers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.50312423706055
+    "width": 392.50312423706055,
+    "collapsed": true
   },
   "right": {
     "id": "42bc6d669f3f5ba8",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/German Tenses.md",
+                "file": "Notes/Linkers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +128,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "3c676c04013e2562",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -123,8 +159,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "04cda325f86a54f7",
+  "active": "0ecffdf4f1e68f5b",
   "lastOpenFiles": [
+    "Notes/Executable and Linkable Format (ELF) Files.md",
+    "Notes/Linkers.md",
+    "Notes/Assembly, Registers, and the Stack Model.md",
+    "Notes/Application Binary Interface (ABI).md",
+    "Notes/Linkers and Loaders.md",
+    "Notes/LC-3 Memory.md",
+    "Notes/Memory.md",
+    "Notes/Two-pass Linking.md",
+    "Notes/Compiler Drivers.md",
+    "Notes/Compilation in C++.md",
+    "Notes/Relocation.md",
+    "Notes/Object Code Libraries.md",
+    "Notes/A Practical Guide to Clothing - Brands and Pieces That Aren't Shit.md",
+    "Alpaca.md",
+    "Job Search Kanban/Job Search Kanban.md",
+    "Job Search Kanban/Alpaca.md",
+    "Notes/German Tenses.md",
     "Notes/The Uncertainty Principle.md",
     "Notes/The Hardy Paradox.md",
     "Notes/Quantum Communication.md",
@@ -134,24 +187,7 @@
     "Notes/Entanglement.md",
     "Notes/Qubits.md",
     "Notes/Quantum Circuits.md",
-    "Notes/Parameterised Quantum Circuits.md",
-    "Notes/Quantum Logic Gates.md",
-    "Notes/Opaque Quantum Gates.md",
-    "Notes/Probability Amplitudes.md",
-    "Notes/German Tenses.md",
     "German A1 Vocabulary",
-    "Notes/German.md",
-    "Notes/Cloud Computing.md",
-    "Notes/Cloud Monitoring.md",
-    "Notes/Computer System Structure.md",
-    "Notes/Stochastic Gradient Descent Convergence.md",
-    "Eszter Reti (Eszti).md",
-    "Notes/C++ Header Files.md",
-    "README.md",
-    "Job Search Kanban.md",
-    "Notes/Zero-Knowledge Proofs.md",
-    "Notes/Wrapper Functions.md",
-    "Notes/Wireshark.md",
     "Notes",
     "untitled folder",
     "Job Search Kanban",

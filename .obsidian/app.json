@@ -14,5 +14,7 @@
   "spellcheckDictionary": [
     "Blackbox",
     "Whitebox"
-  ]
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes"
 }
