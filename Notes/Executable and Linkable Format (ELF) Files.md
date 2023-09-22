@@ -36,6 +36,14 @@ ELF header
 .strtab
 (section table, not considered to be a section)
 ```
+### Specific Sections
+
+- **`.text`**: Contains the executable code.
+- **`.data`**: Holds initialized global and static variables.
+- **`.bss`**: Contains uninitialized global and static variables.
+- **`.rodata`**: Holds read-only data like constants and string literals.
+- **`.symtab`**: Stores symbol information.
+- **`.rel.text` and `.rel.data`**: Contain relocation information for code and data.
 
 ## A Practical Example of an ELF Header
 
@@ -73,15 +81,6 @@ char bind:4; // local, global, or weak
 char other; // spare
 short sect; // section number, ABS, COMMON or UNDEF
 ```
-
-### Specific Sections
-
-- **`.text`**: Contains the executable code.
-- **`.data`**: Holds initialized global and static variables.
-- **`.bss`**: Contains uninitialized global and static variables.
-- **`.rodata`**: Holds read-only data like constants and string literals.
-- **`.symtab`**: Stores symbol information.
-- **`.rel.text` and `.rel.data`**: Contain relocation information for code and data.
 
 ## Manipulating ELF Files
 

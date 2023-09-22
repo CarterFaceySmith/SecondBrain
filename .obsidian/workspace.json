@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "0ecffdf4f1e68f5b",
+            "id": "0067e60aa3b669c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Paging and Virtual Memory.md",
+                "file": "Notes/Linkers and Loaders.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ed073341f682bea2",
+            "id": "672f72f8ea46340e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "aaf91bbc5e984899",
+            "id": "6e2908fb05346965",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Object Files.md",
+                "file": "Notes/Executable and Linkable Format (ELF) Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Object Files.md",
+                "file": "Notes/Executable and Linkable Format (ELF) Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,34 +183,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aaf91bbc5e984899",
+  "active": "6e2908fb05346965",
   "lastOpenFiles": [
     "Notes/Linkers.md",
-    "Notes/Paging and Virtual Memory.md",
+    "Notes/Linkers and Loaders.md",
+    "Notes/Self-hosting.md",
+    "Notes/Compiler Drivers.md",
     "Notes/Executable and Linkable Format (ELF) Files.md",
+    "Notes/Paging and Virtual Memory.md",
+    "Job Search Kanban/Job Search Kanban.md",
     "Notes/Object Files.md",
     "Notes/Segmentation.md",
     "Notes/Position-Independent Code (PIC).md",
     "Notes/Assembly, Registers, and the Stack Model.md",
     "Notes/Application Binary Interface (ABI).md",
-    "Notes/Linkers and Loaders.md",
     "Notes/LC-3 Memory.md",
     "Notes/Memory.md",
     "Notes/Two-pass Linking.md",
-    "Notes/Compiler Drivers.md",
     "Notes/Compilation in C++.md",
     "Notes/Relocation.md",
     "Notes/Object Code Libraries.md",
     "Notes/A Practical Guide to Clothing - Brands and Pieces That Aren't Shit.md",
     "Alpaca.md",
-    "Job Search Kanban/Job Search Kanban.md",
     "Job Search Kanban/Alpaca.md",
     "Notes/German Tenses.md",
     "Notes/The Uncertainty Principle.md",
     "Notes/The Hardy Paradox.md",
     "Notes/Quantum Communication.md",
     "Notes/Quantum Computing.md",
-    "Notes/Quantum Operations.md",
     "German A1 Vocabulary",
     "Notes",
     "untitled folder",
