@@ -2,7 +2,7 @@ One of the elements of [[Linkers and Loaders]].
 
 ## A Practical Example from *Linkers & Loaders* (J.R. Levine)
 
-"Consider this snippet of x86 code that moves the contents of variable `a` to variable `b` using the eax register.
+"Consider this snippet of x86 code that moves the contents of variable `a` to variable `b` using the `eax` register.
 ```
 mov a,%eax
 mov %eax,b
@@ -33,4 +33,26 @@ That is, it adds 10000 to the address in the first instruction so now it refers
 to `a`’s relocated address which is 11234, and it patches in the address for
 `b`. These adjustments affect instructions, but any pointers in the data part
 of an object file have to be adjusted as well."
+
+## Link Time and Load Time Relocation
+
+Linker combines the input object files into a single output file for loading at a specific address, if when the program is loaded storage at that address isn't available the loader has to relocate the loaded program to reflect the actual load address.
+
+Easier because at load time the program is just treated as one big segment and the loader just needs to adjust addresses by the difference between the nominal and actual load addresses.
+
+## Basic Relocation Techniques
+
+The linker reads in the contents of the relocation table segment, applies the relocation items and then disposes of the segment (usually by writing to the output file).
+
+> As the linker processes the segment, it adds the base position of the segment to the value at each location identified by a relocation entry. This handles direct addressing and pointer values in memory for a single segment. (*Linkers & Loaders*, John R. Levine)
+
+Here's an example of a relocation entry for a [[UNIX]] a.out file format:
+
+```
+int address /* offset in text or data segment */
+unsigned int r_symbolnum : 24, /* ordinal number of add symbol */
+r_pcrel : 1, /* 1 if value should be pc-relative */
+r_length : 2, /* log base 2 of value’s width */
+r_extern : 1, /* 1 if need to add symbol to value */
+```
 

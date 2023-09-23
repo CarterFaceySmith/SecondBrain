@@ -97,9 +97,19 @@ SECTIONS
 
 > Linkers for embedded systems provide script languages that let the programmer define areas of the address space, and to allocate particular segments or object files into those areas, also specifying the alignment requirements for segments in each area. (*Linkers & Loaders*, John R. Levine)
 
-Linkers for specialised processors normally have special features to support the peculiarities of that processor and these must be taken into account.
+[[Linkers]] for specialised processors normally have special features to support the peculiarities of that processor and these must be taken into account.
 
+### [[Executable and Linkable Format (ELF) Files]] Storage Allocation
 
+Generally considered more complex than a.out linking due to the set of input segments (sections in ELF terminology) being so-and-so large, they need to be turned into loadable segments (sections in ELF terminology).
+
+The linker also needs to create the program header table for the program loader, and certain special sections needed for [[Dynamic Linking]].
+
+Although the linking process remains about the same. But unlike a.out, ELF objects are not loaded near address zero but somewhere in the middle of the address space so the [[Stack]] can grow down below the text segment and the [[Heap]] up from the end of the data.
+
+ELF does use the trick from [[QMAGIC]] of including the header  in the `.text` segment so the actual text segment starts are the ELF header and program table.d
+
+## [[Symbol Management]]
 
 See also:
 - [[Compilation in C++]]
