@@ -35,11 +35,9 @@
             "id": "0067e60aa3b669c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Notes/Linkers and Loaders.md",
-                "mode": "source",
-                "source": false
+                "file": "Job Search Kanban/Job Search Kanban.md"
               }
             }
           },
@@ -159,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Linkers and Loaders.md",
+                "file": "Job Search Kanban/Job Search Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,12 +207,12 @@
   },
   "active": "0067e60aa3b669c0",
   "lastOpenFiles": [
+    "Notes/Linkers and Loaders.md",
     "Job Search Kanban/Job Search Kanban.md",
     "Notes/Relocation.md",
     "Notes/Symbol Management.md",
     "Notes/Object Code Libraries.md",
     "Notes/Name Mangling.md",
-    "Notes/Linkers and Loaders.md",
     "Notes/Linkers.md",
     "Notes/Executable and Linkable Format (ELF) Files.md",
     "Notes/Self-hosting.md",
