@@ -39,8 +39,8 @@ ELF header
 ### Specific Sections
 
 - **`.text`**: Contains the executable code.
-- **`.data`**: Holds initialized global and static variables.
-- **`.bss`**: Contains uninitialized global and static variables.
+- **`.data`**: Holds initialised global and static variables.
+- **`.bss`**: Contains uninitialised global and static variables.
 - **`.rodata`**: Holds read-only data like constants and string literals.
 - **`.symtab`**: Stores symbol information.
 - **`.rel.text` and `.rel.data`**: Contain relocation information for code and data.
@@ -109,7 +109,7 @@ readelf -S your_executable  # Display ELF sections`
 ### Libraries for ELF Manipulation
 #### **libc**
 - **Description**: The C standard library (`libc`) provides essential functions and utilities for various operations, including file I/O, memory allocation, string manipulation, and system calls.
-- **Usage**: Utilize functions like `mmap` for memory mapping ELF files, `dlopen` for dynamic loading, and others for general file operations.
+- **Usage**: Utilise functions like `mmap` for memory mapping ELF files, `dlopen` for dynamic loading, and others for general file operations.
 
 ### Memory Management Libraries
 #### **libmman**

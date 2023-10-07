@@ -12,5 +12,6 @@
   "bookmarks",
   "markdown-importer",
   "word-count",
-  "file-recovery"
+  "file-recovery",
+  "sync"
 ]
