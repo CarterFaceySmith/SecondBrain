@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fbb12b3aa9b7ddeb",
+        "id": "f7bddf8ff2b9021b",
         "type": "tabs",
         "children": [
           {
-            "id": "672f72f8ea46340e",
+            "id": "4a79a260283c2ec2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Notes/Linkers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e2908fb05346965",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Linkers and Loaders.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87bc086471668bda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Object Code Libraries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "602e5a3495d9ceeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Executable and Linkable Format (ELF) Files.md",
-                "mode": "source",
-                "source": false
+                "file": "Job Search Kanban/Job Search Kanban.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.50312423706055,
-    "collapsed": true
+    "width": 392.50312423706055
   },
   "right": {
     "id": "42bc6d669f3f5ba8",
@@ -123,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Object Code Libraries.md",
+                "file": "Job Search Kanban/Job Search Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,12 +131,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "87bc086471668bda",
+  "active": "4a79a260283c2ec2",
   "lastOpenFiles": [
-    "Notes/FIeld Programmable Gate Array (FPGA).md",
+    "Job Search Kanban/Job Search Kanban.md",
     "Notes/Linkers.md",
     "Notes/Object Code Libraries.md",
-    "Job Search Kanban/Job Search Kanban.md",
+    "Notes/FIeld Programmable Gate Array (FPGA).md",
     "Notes/Executable and Linkable Format (ELF) Files.md",
     "Notes/Growth Rate.md",
     "Notes/Name Mangling.md",
