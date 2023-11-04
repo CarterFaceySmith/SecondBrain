@@ -14,7 +14,7 @@ A command language controls the linking process, this normally includes a list o
 - Command line: A mixture of files names and switches can be passed into the linker via the command line when called, a file containing names/switches can be run through and input in sequence if the command line has a command length limit.
 - Intermixing with object files: Alternating object files and linker commands in a single input file.
 - Embedded in object files: Passing the options needed to link an object file within the file itself.
-- Seperate configuration language: Some have a full language to control linking, e.g. GNU linker.
+- Separate configuration language: Some have a full language to control linking, e.g. GNU linker.
 
 ## Adherence to [[Application Binary Interface (ABI)]]
 

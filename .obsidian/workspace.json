@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7bddf8ff2b9021b",
+        "id": "32f7e262c56e2cee",
         "type": "tabs",
         "children": [
           {
-            "id": "4a79a260283c2ec2",
+            "id": "1ba969fed20783ba",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -131,8 +131,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4a79a260283c2ec2",
+  "active": "1ba969fed20783ba",
   "lastOpenFiles": [
+    "Notes/A Practical Guide to Clothing - Brands and Pieces That Aren't Shit.md",
     "Job Search Kanban/Job Search Kanban.md",
     "Notes/Linkers.md",
     "Notes/Object Code Libraries.md",
@@ -142,7 +143,6 @@
     "Notes/Name Mangling.md",
     "Notes/Field Programmable Gate Array (FPGA).md",
     "Notes/Linkers and Loaders.md",
-    "Notes/A Practical Guide to Clothing - Brands and Pieces That Aren't Shit.md",
     "Notes/Relocation.md",
     "Notes/Symbol Management.md",
     "Notes/Self-hosting.md",
