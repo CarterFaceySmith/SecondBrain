@@ -11,9 +11,11 @@
             "id": "1ba969fed20783ba",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Job Search Kanban/Job Search Kanban.md"
+                "file": "Notes/Big-O Notation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.50312423706055
+    "width": 392.50312423706055,
+    "collapsed": true
   },
   "right": {
     "id": "42bc6d669f3f5ba8",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Job Search Kanban/Job Search Kanban.md",
+                "file": "Notes/Big-O Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,10 +134,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1ba969fed20783ba",
+  "active": "04cda325f86a54f7",
   "lastOpenFiles": [
-    "Notes/A Practical Guide to Clothing - Brands and Pieces That Aren't Shit.md",
     "Job Search Kanban/Job Search Kanban.md",
+    "Notes/A Practical Guide to Clothing - Brands and Pieces That Aren't Shit.md",
     "Notes/Linkers.md",
     "Notes/Object Code Libraries.md",
     "Notes/FIeld Programmable Gate Array (FPGA).md",
