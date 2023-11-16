@@ -12,7 +12,7 @@
 
 ### Things We Do Before We Commence
 1. Double check we have everything in version control, incl. tests
-2. [[Automated Build Configurations]]
+2. [[Build Systems]]
 3. Agreement of the team
 
 ### A Continuous Integration System
