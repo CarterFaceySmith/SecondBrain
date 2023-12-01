@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Bubble Sort.md",
+                "file": "Notes/gRPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +171,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "21fb1ea0543fd1c7",
+  "active": "29a0550b870ab74f",
   "lastOpenFiles": [
+    "Notes/Bubble Sort.md",
     "Notes/Makefiles.md",
     "Notes/Build Systems.md",
     "Notes/RPC (Remote Procedure Call).md",
@@ -198,7 +199,6 @@
     "Notes/Symbol Management.md",
     "Notes/Self-hosting.md",
     "Notes/Compiler Drivers.md",
-    "Notes/Paging and Virtual Memory.md",
     "German A1 Vocabulary",
     "Notes",
     "untitled folder",
