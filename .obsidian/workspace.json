@@ -4,59 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "32f7e262c56e2cee",
+        "id": "bb3b2e3e44bb0994",
         "type": "tabs",
         "children": [
           {
-            "id": "1ba969fed20783ba",
+            "id": "571e2475c8d32237",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Binary Search.md",
+                "file": "Notes/Transmission Control Protocol (TCP).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "21fb1ea0543fd1c7",
+            "id": "0ea088f48b3b1add",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bubble Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a6d5372db13558e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Build Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29a0550b870ab74f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/gRPC.md",
+                "file": "Notes/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/gRPC.md",
+                "file": "Notes/Transmission Control Protocol (TCP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,12 +123,14 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -171,39 +148,41 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "29a0550b870ab74f",
+  "active": "571e2475c8d32237",
   "lastOpenFiles": [
+    "Notes/JavaScript.md",
+    "Notes/User Datagram Protocol (UDP).md",
+    "Notes/Transmission Control Protocol (TCP).md",
+    "Notes/Smart Pointers.md",
+    "Notes/C++.md",
+    "Notes/Binary Search.md",
     "Notes/Bubble Sort.md",
+    "Job Search Kanban/Job Search Kanban.md",
+    "README.md",
+    "Projects/Projects.md",
+    "Notes/Untitled Kanban.md",
+    "Untitled.canvas",
+    "Notes/gRPC.md",
+    "Untitled",
+    "Projects",
     "Notes/Makefiles.md",
     "Notes/Build Systems.md",
     "Notes/RPC (Remote Procedure Call).md",
-    "Notes/gRPC.md",
     "Notes/JSON.md",
     "Notes/REST Architectural Style.md",
     "Notes/Big-O Notation.md",
-    "Notes/Binary Search.md",
     "Notes/Linear Search.md",
     "Notes/Arrays.md",
     "Notes/Hash Table.md",
-    "Job Search Kanban/Job Search Kanban.md",
     "Notes/A Practical Guide to Clothing - Brands and Pieces That Aren't Shit.md",
     "Notes/Linkers.md",
     "Notes/Object Code Libraries.md",
     "Notes/FIeld Programmable Gate Array (FPGA).md",
     "Notes/Executable and Linkable Format (ELF) Files.md",
-    "Notes/Growth Rate.md",
-    "Notes/Name Mangling.md",
-    "Notes/Field Programmable Gate Array (FPGA).md",
-    "Notes/Linkers and Loaders.md",
-    "Notes/Relocation.md",
-    "Notes/Symbol Management.md",
-    "Notes/Self-hosting.md",
-    "Notes/Compiler Drivers.md",
     "German A1 Vocabulary",
     "Notes",
     "untitled folder",
     "Job Search Kanban",
-    "Untitled.canvas",
     "Pages",
     "External Assets/Screenshot 2023-07-23 at 12.30.14 pm.png",
     "External Assets/Screenshot 2023-07-07 at 9.11.12 pm.png",

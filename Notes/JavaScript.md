@@ -1,0 +1,5 @@
+**Core Concepts:**
+    - **DOM Manipulation:** Interacting with the [[Document Object Model (DOM)]] to dynamically modify HTML elements, attributes, and styles using JavaScript methods like `getElementById`, `querySelector`, `appendChild`, etc.
+    - **Event Handling:** Capturing and responding to user interactions (e.g., clicks, mouse movements, keypresses) by attaching event listeners to DOM elements using methods like `addEventListener`.
+    - [[**Asynchronous Programming]]:** Using asynchronous techniques like callbacks, Promises, or async/await to manage non-blocking operations such as fetching data from servers (AJAX), performing animations, or handling user input.
+    - **Cross-Browser Compatibility:** Writing JavaScript code that works consistently across different web browsers by considering variations in JavaScript implementations, DOM APIs, and CSS rendering engines.
