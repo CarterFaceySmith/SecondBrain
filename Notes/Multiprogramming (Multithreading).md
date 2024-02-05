@@ -1,4 +1,4 @@
-Running multiple programs simultaenously.
+Running multiple programs or [[Threads]] simultaneously.
 
 We allocate more than one concurrent program and it's resources, allowing the CPU to be used by various users and I/O devices and therefore ensuring it always has something to execute (high utilisation).
 
@@ -9,7 +9,6 @@ Concurrent access to shared data has challenges though, such as 'Race Condition'
 What is it?
 
 It's when multiple processes access and manipulate the same data concurrently, meaning the outcome of execution depends solely on the order of access.
-
 
 ## Critical Selection Problem
 
@@ -46,8 +45,7 @@ Basically the processes need system permission to enter the next phase as they g
 - Bounded Waiting (Prevents starvation)
 	- A bound needs to exist on the number of times other processes are allowed to enter their critical sections after a process has already made a request to enter critical and it is yet to be granted
 
-
-## Synchronization Hardware
+## Synchronisation Hardware
 
 On most modern computers we have special hardware instructions that allow for testing/modifying the content of a word or swapping the contents of two words *atomically*, one uninterruptible unit. We can use these to solve the critical section problem.
 
@@ -62,7 +60,6 @@ See the below mutual exlcusion implementation using a figurative test_and_set in
 	
 			/* remainder section */
 	} while(true);
-
 
 ## The *Mutex* Lock
 

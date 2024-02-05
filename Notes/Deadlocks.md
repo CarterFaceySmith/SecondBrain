@@ -10,7 +10,7 @@ The best way to avoid this is to avoid having processes cross over in this way, 
 
 ## Handling Deadlocks
 
-1. Prevention, see Mutex in [[Multiprogramming]]
+1. Prevention, see Mutex in [[Multiprogramming (Multithreading)]]
 2. Avoidance
 3. Ignore the possibility and handle if arises
 
@@ -18,4 +18,4 @@ The best way to avoid this is to avoid having processes cross over in this way, 
 See also:
 - [[Computer System Structure]]
 - [[CPU Scheduling]]
-- [[Multiprogramming]]
+- [[Multiprogramming (Multithreading)]]

@@ -2,7 +2,7 @@ A basic unit of CPU utilisation, comprised of an ID, program counter, register s
 
 Threads can share with other threads belonging to the same process, allowing the process to perform more than one task at a time.
 
-This is where the term "multithreading" comes from.
+This is where the term "[[Multiprogramming (Multithreading)]]" comes from.
 
 ## Multithreading Models
 
