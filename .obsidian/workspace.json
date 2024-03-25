@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Elastic File System (EFS).md",
+                "file": "Notes/Amazon Elastic File System (EFS).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Elastic File System (EFS).md",
+                "file": "Notes/Amazon Elastic File System (EFS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Elastic File System (EFS).md",
+                "file": "Notes/Amazon Elastic File System (EFS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Elastic File System (EFS).md"
+                "file": "Notes/Amazon Elastic File System (EFS).md"
               }
             }
           }
@@ -149,14 +149,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "308591ac84bf526a",
+  "active": "01950a6da9e9729c",
   "lastOpenFiles": [
-    "Amazon Simple Storage Service (S3).md",
-    "Amazon Elastic Block Store (EBS).md",
+    "Notes/Amazon Simple Storage Service (S3).md",
+    "Notes/Amazon Elastic Block Store (EBS).md",
     "Notes/Amazon Elastic Compute Cloud (EC2).md",
-    "Amazon Elastic File System (EFS).md",
-    "Virtual Machines.md",
-    "AWS.md",
+    "Notes/Amazon Elastic File System (EFS).md",
+    "Notes/Virtual Machines.md",
+    "Notes/AWS.md",
     "Notes/Edge Computing.md",
     "Notes/Fog Computing.md",
     "Notes/Cloud Computing.md",
