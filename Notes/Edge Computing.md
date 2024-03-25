@@ -1,0 +1,1 @@
+Local processing with/without [[Cloud Computing]] involved, 

@@ -1,0 +1,1 @@
+A form of [[Cloud Computing]] wherein there is a smaller cloud before the data goes to the actual cloud, it generally provides computing, storage and/or networking for data processing.
