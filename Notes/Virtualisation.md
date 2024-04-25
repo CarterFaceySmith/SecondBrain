@@ -8,6 +8,8 @@ A computer architecture wherein multiple [[Virtual Machines]] are on the same ha
 - Reduces downtime
 - Etc.
 
+Note: VMM and [[Hypervisor]] are used interchangeably.
+
 ## Kinds
 
 ### Bare-Metal Virtualisation (Type 1)
@@ -19,6 +21,8 @@ Hardware and VMM (Virtual Machine Manager) located on 'Ring 0' (highest privileg
 Hypervisor loaded on top of OS, the guest OS runs on the hosted Hypervisor.
 
 E.g. Parallels or VirtualBox
+
+Generally an organisation will prefer type 1 as type 2 is more inefficient but general users will often use type 2 due to ease of use and setup, minimal expertise required.
 
 ### Full Virtualisation (Type 3)
 
