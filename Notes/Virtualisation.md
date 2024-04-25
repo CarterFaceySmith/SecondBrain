@@ -12,7 +12,7 @@ A computer architecture wherein multiple [[Virtual Machines]] are on the same ha
 
 ### Bare-Metal Virtualisation (Type 1)
 
-Hardware and VMM (Virtual Machine Manager) located on 'Ring 0' (highest priveleges), with guest OSs and applications located on 'Ring 1' and 'Ring 3', what the fuck are rings? Just another term for system privilege levels.
+Hardware and VMM (Virtual Machine Manager) located on 'Ring 0' (highest privileges), with guest OSs and applications located on 'Ring 1' and 'Ring 3', what the fuck are rings? Just another term for system privilege levels.
 
 ### Hosted Virtualisation (Type 2)
 
