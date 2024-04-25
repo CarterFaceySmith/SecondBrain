@@ -1,0 +1,1 @@
+Range of [[IP Address]]es that divide a [[Amazon Virtual Private Cloud (VPC)]] and belong to a single availability zone, they can be public or private.
