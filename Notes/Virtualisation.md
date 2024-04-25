@@ -16,6 +16,10 @@ Note: VMM and [[Hypervisor]] are used interchangeably.
 
 Hardware and VMM (Virtual Machine Manager) located on 'Ring 0' (highest privileges), with guest OSs and applications located on 'Ring 1' and 'Ring 3', what the fuck are rings? Just another term for system privilege levels.
 
+#### Types of type 1
+1. Monolithic: single kernel containing basically all functionality of the OS, single binary program
+2. Microkernel: provides only critical services, e.g process scheduling and interrupt handling
+
 ### Hosted Virtualisation (Type 2)
 
 Hypervisor loaded on top of OS, the guest OS runs on the hosted Hypervisor.
@@ -34,10 +38,13 @@ Privileged instructions used to be trapped via software interrupt, the VMM inter
 
 Guest OS modified at source code level so trapping and binary rewriting is no longer necessary, runtime changes can be avoided.
 
-Hypervisor provides interfaces to accomodate critical kernal operations.
+[[Hypervisor]] provides interfaces to accommodate critical kernel operations.
 
 ## [[Containers]]
 
+## Trap-and-emulate
+
+When the [[Operating Systems]] want to run a kernel only instruction in a VM, it traps to the hypervisor which then emulates that instruction.
 
 See also:
 - [[Hardware]]
