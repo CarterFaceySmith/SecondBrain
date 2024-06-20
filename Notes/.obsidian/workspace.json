@@ -8,13 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b548964dc0787c64",
+            "id": "1f1659c7bbb2026f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack.md",
+                "file": "Q-Learning.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stack.md",
+                "file": "Q-Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stack.md",
+                "file": "Q-Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stack.md"
+                "file": "Q-Learning.md"
               }
             }
           }
@@ -146,34 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b548964dc0787c64",
+  "active": "1f1659c7bbb2026f",
   "lastOpenFiles": [
+    "Pumping Lemma for Context-free Languages.md",
+    "Pushdown Automata.md",
+    "Qt GUI Development.md",
+    "Python.md",
+    "Qt Slots.md",
+    "Qt Signals.md",
+    "Qt QML.md",
+    "Qt Meta Object Compiler (Qt MOC).md",
+    "Signals.md",
+    "Slots.md",
+    "Qt Object Trees.md",
+    "User Interface (UI).md",
+    "Stack.md",
     "CPU.md",
     "RISC-V Architecture.md",
     "x86 Architecture.md",
     "ARM Architecture.md",
     "RAM.md",
-    "Qt QML.md",
     "Hertz.md",
-    "Signals.md",
     "Anonymous Methods.md",
     "Delegates.md",
-    "Stack.md",
     "Functions.md",
     "A Practical Guide to Clothing - Brands and Pieces That Aren't Shit.md",
     "Interrupt.md",
     "Hinge Loss (SVM Loss).md",
     "German Tenses.md",
-    "Hypervisor.md",
-    "Money.md",
-    "Principal Component Analysis.md",
-    "Virtualisation.md",
-    "Designing CD Pipelines.md",
-    "Designing CI Pipelines.md",
-    "Jenkins.md",
-    "Designing CI/CD Pipelines.md",
-    "Designing CI",
-    "Groovy.md",
-    "Amazon Elastic Compute Cloud (EC2).md"
+    "Designing CI"
   ]
 }

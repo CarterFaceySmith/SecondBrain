@@ -1,5 +1,3 @@
-# Pumping Lemma for Context-free Languages
-
 Let $L$ be a context-free language (see [[Formal Languages and Grammar]]), there is some $n \geq 1$ such that for all strings $w \in L$ such that $|w| \geq n$, there exists strings $x, y, z, u$ and $v$ such that $w = xyzuv$ and:
 
 1. $|yzu| \leq n$

@@ -4,28 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "7062acfb20968ac9",
+        "id": "a355b5d912b87d30",
         "type": "tabs",
         "children": [
           {
-            "id": "308591ac84bf526a",
+            "id": "b319d4829c9d1e7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Amazon Elastic File System (EFS).md",
+                "file": "Notes/Qt GUI Development.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8851bda92e7a4ad8",
+            "id": "b20deea68a0d2a50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Open Systems Interconnection (OSI).md",
+                "file": "Notes/Qt Positioners and Layouts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "054971085f999ca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Qt Signals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b95c4ab21c912f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Qt Slots.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Open Systems Interconnection (OSI).md",
+                "file": "Notes/Qt Positioners and Layouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Open Systems Interconnection (OSI).md",
+                "file": "Notes/Qt Positioners and Layouts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Open Systems Interconnection (OSI).md"
+                "file": "Notes/Qt Positioners and Layouts.md"
               }
             }
           }
@@ -161,13 +185,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "01950a6da9e9729c",
+  "active": "b20deea68a0d2a50",
   "lastOpenFiles": [
+    "Notes/Qt GUI Development.md",
+    "Notes/Qt Positioners and Layouts.md",
+    "Notes/Qt Signals.md",
+    "Notes/Qt Slots.md",
+    "Notes/Amazon Elastic File System (EFS).md",
     "Notes/Classless Inter-Domain Routing (CIDR).md",
     "Notes/Open Systems Interconnection (OSI).md",
     "Notes/IP Address.md",
     "Notes/AWS.md",
-    "Notes/Amazon Elastic File System (EFS).md",
     "Notes/Amazon Simple Storage Service (S3).md",
     "Notes/Amazon Elastic Block Store (EBS).md",
     "Notes/Amazon Elastic Compute Cloud (EC2).md",
@@ -185,11 +213,7 @@
     "Notes/Smart Pointers.md",
     "Notes/The Halting Problem.md",
     "Notes/Observation Space.md",
-    "Notes/Principal Component Analysis.md",
-    "Notes/Planning Agents.md",
-    "Notes/Makefiles.md",
     "External Assets/Screenshot 2023-06-11 at 1.07.49 pm.png",
-    "Notes/Kernel Trick.md",
     "External Assets/Screenshot 2023-05-03 at 9.26.51 am.png",
     "External Assets/Screen Shot 2023-04-06 at 6.01.58 pm.png",
     "External Assets/Pasted image 20230626135308.png",

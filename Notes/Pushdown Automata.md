@@ -1,8 +1,6 @@
-# Pushdown [[Automata]]
-
 Think Finite State Automata + the [[Stack]].
 
-Input string accepted if execution finshes in an accepting state *and* the stack is empty.
+Input string accepted if execution finishes in an accepting state *and* the stack is empty.
 
 ### Mathematical definition 
 $$
@@ -16,6 +14,6 @@ $Q_0$ = the starting state of M
 $F \subseteq Q$ = Final states (AKA accept states), a subset of all possible states
 $\delta$ = the set of transitions in M
 
+
 See also:
 - [[Automata]]
-- 
