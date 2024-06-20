@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7bdad277b84b9846",
+        "id": "8fb983133f671e72",
         "type": "tabs",
         "children": [
           {
-            "id": "da9f3f3cea894a45",
+            "id": "b548964dc0787c64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Designing CI Pipelines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "635ac7cb0b6af21a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Principal Component Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7874ff92d2ca533",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Money.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a25f88890b79849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hypervisor.md",
+                "file": "Stack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "004477be875d243b",
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hypervisor.md",
+                "file": "Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hypervisor.md",
+                "file": "Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hypervisor.md"
+                "file": "Stack.md"
               }
             }
           }
@@ -184,25 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a25f88890b79849",
+  "active": "b548964dc0787c64",
   "lastOpenFiles": [
+    "CPU.md",
+    "RISC-V Architecture.md",
+    "x86 Architecture.md",
+    "ARM Architecture.md",
+    "RAM.md",
+    "Qt QML.md",
+    "Hertz.md",
+    "Signals.md",
+    "Anonymous Methods.md",
+    "Delegates.md",
+    "Stack.md",
+    "Functions.md",
+    "A Practical Guide to Clothing - Brands and Pieces That Aren't Shit.md",
+    "Interrupt.md",
+    "Hinge Loss (SVM Loss).md",
+    "German Tenses.md",
+    "Hypervisor.md",
     "Money.md",
     "Principal Component Analysis.md",
     "Virtualisation.md",
-    "Hypervisor.md",
     "Designing CD Pipelines.md",
     "Designing CI Pipelines.md",
     "Jenkins.md",
     "Designing CI/CD Pipelines.md",
     "Designing CI",
     "Groovy.md",
-    "Amazon Elastic Compute Cloud (EC2).md",
-    "Amazon Cloudfront.md",
-    "Content Delivery Network (CDN).md",
-    "Amazon Route 53.md",
-    "Domain Name System (DNS).md",
-    "Network Address Translation (NAT) Gateway.md",
-    "Subnets.md",
-    "Amazon Virtual Private Cloud (VPC).md"
+    "Amazon Elastic Compute Cloud (EC2).md"
   ]
 }

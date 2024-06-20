@@ -1,6 +1,6 @@
 A feature of [[Delegates]] that can speed up coding.
 
-There are two syntaxes for anonymous methods:
+There are two syntax for anonymous methods:
 - One using the delegate-keyword
 - Another one using the Lambda-Operator (‘$=>$‘)
 

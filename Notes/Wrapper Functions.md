@@ -13,4 +13,4 @@ We can do a number of things with wrapper functions:
 
 
 See also:
-- [[C++ Functions]]
+- [[Functions]]
