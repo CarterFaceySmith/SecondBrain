@@ -234,6 +234,13 @@ ApplicationWindow {
 
 ```
 
+Further: [Qt Model-View Controller: How to Add C++ Models in QML App | Qt QML Tutorial #13](https://www.youtube.com/watch?v=xVZx57kxgyg&list=PLP7UmEJ9z4mpi0JXcPS0VRK-7eFAfROZI&index=14)
+
+### Notes on QAbstractItemModel
+
+- Roles define the different properties of an item in a model, each can have multiple, they are used to access and manipulate data from QML.
+
+
 See also:
 - [Qt Signals and Slots](https://doc.qt.io/qt-6/signalsandslots.html)
 - [Qt Documentation](https://doc.qt.io/)
