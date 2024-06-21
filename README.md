@@ -10,13 +10,12 @@ This is my combined vault of knowledge on several varied concepts and subjects g
 The main topics covered include:
 - General Programming
 - Mathematics
-- Genetics
 - Machine Learning
 - Quantum Computing
 
 The notes themselves are written conceptually, with a casual and stream-of-consciousness style of writing to deformalise concepts and assist with quick high-level understanding of complex subjects.
 
-As learning is a constant process, so to is the expansion of this knowledge base, I intend to opensource these for the remainder of my life in the hopes that they assist others in the same way they have assisted me.
+As learning is a constant process, so to is the expansion of this knowledge base, I intend to open source these for the remainder of my life in the hopes that they assist others in the same way they have assisted me.
 
 Please be aware that notes on more complex topics may include swearing.
 <br></br>
@@ -57,6 +56,3 @@ If you find any errors, issues or something of note for a different reason pleas
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 If you use any of the files directly please link and credit my GitHub profile.
-
-Godspeed.
-
