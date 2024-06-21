@@ -33,6 +33,8 @@ You can integrate QML with C++ by exposing C++ classes to QML and accessing QML 
 
 class Backend : public QObject {
     Q_OBJECT
+    /* Add other QML flags here, e.g. QML_ELEMENT, QML_UNCREATABLE */
+    
 public:
     Q_INVOKABLE QString greet() {
         return "Hello from C++!";
@@ -101,8 +103,8 @@ class Company : public QObject {
 Company myCompany;
 qmlRegisterSingletonInstance(
 	"MyImport",
-	1,
-	0,
+	1, // Major version num
+	0, // Minor version num
 	"MyCompany",
 	&myCompany
 );
@@ -171,3 +173,5 @@ See also:
 - [Qt Signals and Slots](https://doc.qt.io/qt-6/signalsandslots.html)
 - [Qt Documentation](https://doc.qt.io/)
 - [[Qt GUI Development]]
+- [Scythe Studio GitHub: qt-qml-tutorial](https://github.com/scytheStudio/qt-qml-tutorial)
+- [How to Register C++ Class in your QML Application | Qt QML Tutorial #12](https://www.youtube.com/watch?v=NrUK_ds1_t4)
