@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a355b5d912b87d30",
+        "id": "21815513137b6b50",
         "type": "tabs",
         "children": [
           {
-            "id": "b319d4829c9d1e7a",
+            "id": "7c05c8529a9ca511",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Qt GUI Development.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b20deea68a0d2a50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Signals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a28596722d360ac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/C.md",
+                "file": "Notes/Stack.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,37 +21,27 @@
             }
           },
           {
-            "id": "0002c995da6eca25",
+            "id": "195ededdfbde7297",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Qt Custom Items.md",
+                "file": "Notes/Qt QML.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "054971085f999ca7",
+            "id": "da04ae331f2cc8aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Qt Signals.md",
+                "file": "Notes/C++ malloc.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b95c4ab21c912f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Qt Slots.md",
-                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -148,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Signals.md",
+                "file": "Notes/Qt QML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Signals.md",
+                "file": "Notes/Qt QML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Signals.md"
+                "file": "Notes/Qt QML.md"
               }
             }
           }
@@ -211,16 +177,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b20deea68a0d2a50",
+  "active": "195ededdfbde7297",
   "lastOpenFiles": [
+    "Notes/Heap.md",
+    "Notes/C++ malloc.md",
+    "Notes/Stack.md",
+    "Notes/Compiler.md",
+    "Notes/Qt Slots.md",
+    "Notes/Qt Signals.md",
+    "Notes/Qt Custom Items.md",
     "Notes/C.md",
     "Notes/Signals.md",
+    "Notes/Qt Tips.md",
     "Notes/Qt QML.md",
     "Notes/Untitled.md",
     "Notes/Qt GUI Development.md",
-    "Notes/Qt Slots.md",
-    "Notes/Qt Custom Items.md",
-    "Notes/Qt Signals.md",
     "Notes/Qt Meta Object Compiler (Qt MOC).md",
     "Notes/Qt Object Trees.md",
     "Notes/Qt Positioners and Layouts.md",
@@ -234,11 +205,6 @@
     "Notes/Amazon Elastic Compute Cloud (EC2).md",
     "Notes/Virtual Machines.md",
     "Notes/Edge Computing.md",
-    "Notes/Fog Computing.md",
-    "Notes/Cloud Computing.md",
-    "Notes/A-Star Search.md",
-    "Notes/A Practical Guide to Clothing - Brands and Pieces That Aren't Shit.md",
-    "Notes/A Practical Recipe for Developing Neural Networks.md",
     "External Assets/Screenshot 2023-06-11 at 1.07.49 pm.png",
     "External Assets/Screenshot 2023-05-03 at 9.26.51 am.png",
     "External Assets/Screen Shot 2023-04-06 at 6.01.58 pm.png",

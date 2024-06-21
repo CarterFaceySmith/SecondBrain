@@ -169,8 +169,70 @@ if (item) {
 
 ## Adding C++ models in a QML app
 
+1. Create a C++ data model
+```cpp
+class MyModel : public QAbstractListModel /* also QAbstractItemModel */{
+    Q_OBJECT
+public:
+    enum Roles {
+        NameRole = Qt::UserRole + 1,
+        AgeRole
+    };
 
+    // Constructor, destructor, and necessary methods for exposure to QML
+};
 
+```
+
+2. Register it with QML
+```cpp
+#include <QQmlApplicationEngine>
+#include "mymodel.h" // Include the C++ model header file
+
+int main(int argc, char *argv[]) {
+    QGuiApplication app(argc, argv);
+
+    // Register the C++ model class for QML
+    qmlRegisterType<MyModel>("MyApp", 1, 0, "MyModel");
+
+    QQmlApplicationEngine engine;
+    engine.load(QUrl(QStringLiteral("qrc:/main.qml")));
+    if (engine.rootObjects().isEmpty())
+        return -1;
+
+    return app.exec();
+}
+
+```
+
+3. Use the C++ model in QML
+```qml
+import QtQuick 2.15
+import QtQuick.Controls 2.15
+import MyApp 1.0 // Import the module where MyModel is registered
+
+ApplicationWindow {
+    visible: true
+    width: 640
+    height: 480
+    title: "Using C++ Models in QML"
+
+    MyModel {
+        id: myCppModel
+        // Optionally, populate the model or set properties
+    }
+
+    ListView {
+        width: parent.width
+        height: parent.height
+        model: myCppModel // Bind the C++ model to the ListView
+        delegate: ItemDelegate {
+            text: model.name // Access properties defined in your C++ model
+        }
+    }
+}
+
+```
 
 See also:
 - [Qt Signals and Slots](https://doc.qt.io/qt-6/signalsandslots.html)
