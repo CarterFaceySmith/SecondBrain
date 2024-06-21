@@ -25,8 +25,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Qt QML.md",
+                "file": "Notes/Signals.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a28596722d360ac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/C.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -135,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Qt QML.md",
+                "file": "Notes/Signals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Qt QML.md",
+                "file": "Notes/Signals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Qt QML.md"
+                "file": "Notes/Signals.md"
               }
             }
           }
@@ -200,8 +213,11 @@
   },
   "active": "b20deea68a0d2a50",
   "lastOpenFiles": [
-    "Notes/Qt GUI Development.md",
+    "Notes/C.md",
+    "Notes/Signals.md",
     "Notes/Qt QML.md",
+    "Notes/Untitled.md",
+    "Notes/Qt GUI Development.md",
     "Notes/Qt Slots.md",
     "Notes/Qt Custom Items.md",
     "Notes/Qt Signals.md",
@@ -223,9 +239,6 @@
     "Notes/A-Star Search.md",
     "Notes/A Practical Guide to Clothing - Brands and Pieces That Aren't Shit.md",
     "Notes/A Practical Recipe for Developing Neural Networks.md",
-    "Notes/Blackbox and Whitebox Monitoring.md",
-    "Notes/Universal Approximation Theorem.md",
-    "Notes/The Post Correspondence Problem.md",
     "External Assets/Screenshot 2023-06-11 at 1.07.49 pm.png",
     "External Assets/Screenshot 2023-05-03 at 9.26.51 am.png",
     "External Assets/Screen Shot 2023-04-06 at 6.01.58 pm.png",

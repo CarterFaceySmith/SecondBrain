@@ -167,6 +167,9 @@ if (item) {
 }
 ```
 
+## Adding C++ models in a QML app
+
+
 
 
 See also:

@@ -20,4 +20,7 @@ In [[C++]], various versions of this signal are offered which can be caught and 
 
 See also:
 - [[Kernel]]
+- [[C]]
 - [Signals: I Spent 2 years to understand this part.](https://www.youtube.com/watch?v=d0gS5TXarXc)
+- [Sending and Handling Signals in C (kill, signal, sigaction)](https://www.youtube.com/watch?v=83M5-NPDeWs)
+- [Short introduction to signals in C](https://www.youtube.com/watch?v=5We_HtLlAbs)
