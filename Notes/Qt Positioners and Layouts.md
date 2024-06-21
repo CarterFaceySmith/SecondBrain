@@ -11,16 +11,13 @@ There is a `mapToGlobal` function if you need to get the global placement based 
 Allows the programmer to define an anchor point for some item relative to some other item as long as it is a parent or sibling of the item being anchored.
 
 ## Positioner Items (A.K.A Containers)
-
 - Row
 - Column
 - Flow
 - Grid
 
-Self explanatory really, use them to pre-define a container area for a number of elements.
-
+Self explanatory really, use them to predefine a container area for a number of elements.
 ## Layouts
-
 Layouts auto-adjust and resize the position of encompassed children based on their preferred size and space.
 
 What's the difference between this and positioners? Layouts are more flexible and responsive, they allow for more granular control over the relativity of your items.

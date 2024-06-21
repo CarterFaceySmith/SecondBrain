@@ -1,4 +1,19 @@
+## Adding to your CMake for compilation
+```
+qt_add_executable(appExampleName
+	main.cpp
+)
 
+qt_add_qml_module(appExampleName
+	URI ExampleName
+	VERSION 1.0
+	QML_FILES main.qml xyz1.qml
+	
+	RESOURCES
+	assets/images/image1.png
+	// ...
+)
+```
 ## Example UI element using [[Qt QML]]
 ```qml
 import QtQuick
@@ -40,6 +55,9 @@ ApplicationWindow {
                     parent.color = "lightgreen"; // Example of visual feedback
                 }
             }
+
+			// Can add images with the following
+			// imageSource: "<path to image>"
 
             function generateRandomPerson() {
                 var names = ["Alice", "Bob", "Charlie", "David", "Emma", "Frank", "Grace", "Henry", "Ivy"];

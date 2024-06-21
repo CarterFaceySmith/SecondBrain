@@ -1,4 +1,4 @@
-Qt QML (Qt Quick) is a powerful framework for creating modern, fluid [[User Interface (UI)]]. It allows you to define user interfaces using a declarative language (QML) and extend it with C++ logic.
+Qt QML (Qt Quick) is a framework for creating [[User Interface (UI)]]. It allows you to define user interfaces using a declarative language (QML) and extend it with C++ logic.
 
 ### Declarative UI with QML
 
@@ -21,7 +21,7 @@ Rectangle {
 }
 ```
 
-### 2. Integrating QML with C++
+### Integrating QML with C++
 
 You can integrate QML with C++ by exposing C++ classes to QML and accessing QML objects from C++.
 
@@ -53,7 +53,7 @@ int main(int argc, char *argv[]) {
 #include "main.moc"
 ```
 
-### 3. Exposing C++ to QML
+### Exposing C++ to QML
 
 To expose C++ classes to QML, use `Q_INVOKABLE` methods and properties.
 
@@ -88,9 +88,39 @@ Text {
 }
 ```
 
-### 4. Handling Events and Signals
+### qmlRegisterSingletonInstance
 
-Signals and slots can be used to communicate between QML and C++.
+```c++
+class Company : public QObject {
+	Q_OBJECT
+	Q_PROPERTY(double income)
+	Q_PROPERTY(double losses)
+	Q_PROPERTY(bool isOpened)
+}
+
+Company myCompany;
+qmlRegisterSingletonInstance(
+	"MyImport",
+	1,
+	0,
+	"MyCompany",
+	&myCompany
+);
+```
+
+```qml
+import MyImport
+
+Text {
+	text: "Current profit: " +
+	(MyCompany.income -
+	 MyCompany.losses)
+}
+```
+
+### Handling Events and Signals
+
+[[Qt Signals]] and [[Qt Slots]] can be used to communicate between QML and C++.
 
 **Example (Backend class):**
 ```cpp
@@ -115,7 +145,7 @@ Button {
 }
 ```
 
-### 5. Dynamic QML Component Creation
+### Dynamic QML Component Creation
 
 You can create QML components dynamically from C++.
 
@@ -140,3 +170,4 @@ if (item) {
 See also:
 - [Qt Signals and Slots](https://doc.qt.io/qt-6/signalsandslots.html)
 - [Qt Documentation](https://doc.qt.io/)
+- [[Qt GUI Development]]
