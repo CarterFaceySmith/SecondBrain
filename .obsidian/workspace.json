@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ec33ea83d0efbc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/C++ Templates.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/C++ malloc.md",
+                "file": "Notes/C++ Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/C++ malloc.md",
+                "file": "Notes/C++ Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/C++ malloc.md"
+                "file": "Notes/C++ Templates.md"
               }
             }
           }
@@ -190,12 +203,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "da04ae331f2cc8aa",
+  "active": "2ec33ea83d0efbc1",
   "lastOpenFiles": [
+    "Notes/Metaprogramming.md",
+    "Notes/C++ Templates.md",
+    "Notes/C++ malloc.md",
     "Notes/Qt Networking.md",
     "Notes/Qt QML.md",
     "Notes/Heap.md",
-    "Notes/C++ malloc.md",
     "Notes/Stack.md",
     "Notes/Compiler.md",
     "Notes/Qt Slots.md",
@@ -216,8 +231,6 @@
     "Notes/Amazon Simple Storage Service (S3).md",
     "Notes/Amazon Elastic Block Store (EBS).md",
     "Notes/Amazon Elastic Compute Cloud (EC2).md",
-    "Notes/Virtual Machines.md",
-    "Notes/Edge Computing.md",
     "External Assets/Screenshot 2023-06-11 at 1.07.49 pm.png",
     "External Assets/Screenshot 2023-05-03 at 9.26.51 am.png",
     "External Assets/Screen Shot 2023-04-06 at 6.01.58 pm.png",
