@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -201,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cbd09fa92fe238f4",
@@ -218,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/C++ Safety.md",
+                "file": "Notes/C++ Dynamic Casts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/C++ Safety.md",
+                "file": "Notes/C++ Dynamic Casts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/C++ Safety.md"
+                "file": "Notes/C++ Dynamic Casts.md"
               }
             }
           }
@@ -281,10 +280,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0cf70327cafb6acb",
+  "active": "f34486066ac01cbf",
   "lastOpenFiles": [
-    "Notes/Typecasting.md",
     "Notes/C++ Safety.md",
+    "Notes/Typecasting.md",
     "Notes/C++ Dynamic Casts.md",
     "Notes/C++ Virtual Destructor.md",
     "Notes/C++ Virtual Function.md",
