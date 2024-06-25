@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/C++ Networking.md",
+                "file": "Notes/C++ Networking and Boost.Asio.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "917ea0cdf674a32f",
+            "id": "b4df9c4cb963b419",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/C++ friend.md",
+                "file": "Notes/Coroutines.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/C++ Networking.md",
+                "file": "Notes/C++ Networking and Boost.Asio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/C++ Networking.md",
+                "file": "Notes/C++ Networking and Boost.Asio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/C++ Networking.md"
+                "file": "Notes/C++ Networking and Boost.Asio.md"
               }
             }
           }
@@ -165,8 +165,10 @@
   },
   "active": "91f00c9f827a6638",
   "lastOpenFiles": [
+    "Notes/Coroutines.md",
+    "Notes/C++ Networking and Boost.Asio.md",
+    "Notes/Networking.md",
     "Notes/C++ friend.md",
-    "Notes/C++ Networking.md",
     "Notes/C++ malloc.md",
     "Notes/Caching.md",
     "Notes/Smart Pointers.md",
@@ -191,8 +193,6 @@
     "Notes/Typecasting.md",
     "Notes/C++ Virtual Destructor.md",
     "Notes/C++ Virtual Function.md",
-    "Notes/C++ Unions.md",
-    "Notes/C++ Type Punning.md",
     "External Assets/Screenshot 2023-06-11 at 1.07.49 pm.png",
     "External Assets/Screenshot 2023-05-03 at 9.26.51 am.png",
     "External Assets/Screen Shot 2023-04-06 at 6.01.58 pm.png",
