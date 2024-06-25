@@ -34,5 +34,5 @@ Many ways son.
 
 See also:
 - [[Computer Science Fundamentals]]
-- [[Continuous Integration and Deployment]]
+- [[Continuous Integration and Deployment (CICD)]]
 - [[Interface Architecture]]

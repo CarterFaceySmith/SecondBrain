@@ -10,4 +10,4 @@ The CD pipeline pushes the image via some mechanism (git push or whatever) to yo
 
 
 See also:
-- [[Continuous Integration and Deployment]]
+- [[Continuous Integration and Deployment (CICD)]]

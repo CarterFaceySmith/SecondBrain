@@ -1,5 +1,5 @@
 
-An automation platform commonly used for [[Continuous Integration and Deployment]] pipelines, i.e. automated building, testing and deployment of code.
+An automation platform commonly used for [[Continuous Integration and Deployment (CICD)]] pipelines, i.e. automated building, testing and deployment of code.
 
 ## Build Types
 

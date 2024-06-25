@@ -1,5 +1,3 @@
-# Continuous Integration and Deployment
-
 ## A Review: The Principles of Software Delivery
 
 - Automate almost everything

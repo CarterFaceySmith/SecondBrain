@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21815513137b6b50",
+        "id": "f8a1b97b3460614b",
         "type": "tabs",
         "children": [
           {
-            "id": "7c05c8529a9ca511",
+            "id": "a26f67aa0ff245e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Stack.md",
+                "file": "Notes/Qt Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "195ededdfbde7297",
+            "id": "68809ae182e12bb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Qt QML.md",
+                "file": "Notes/Dependency Injection.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "70b824262b272d17",
+            "id": "f33178729e848dc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/C++ Virtual Function.md",
+                "file": "Notes/Regular Expressions (Regex).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "0cf70327cafb6acb",
+            "id": "5aa8f4b1c688ff6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/C++ Safety.md",
+                "file": "Notes/Unit Testing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,98 +60,19 @@
             }
           },
           {
-            "id": "f34486066ac01cbf",
+            "id": "42de5cdfde092989",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/C++ Dynamic Casts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bc569d500c35511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/C++ Dynamic Casts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da04ae331f2cc8aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/C++ malloc.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ec33ea83d0efbc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/C++ Templates.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6899867c0e478066",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/C++ auto.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca67c9f5f95e361b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Pass-by-value.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adb0aea013ea5b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/C++ Lambdas.md",
+                "file": "Notes/Fragmentation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cbd09fa92fe238f4",
@@ -217,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/C++ Dynamic Casts.md",
+                "file": "Notes/Qt Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/C++ Dynamic Casts.md",
+                "file": "Notes/Qt Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/C++ Dynamic Casts.md"
+                "file": "Notes/Qt Test.md"
               }
             }
           }
@@ -280,34 +202,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f34486066ac01cbf",
+  "active": "a26f67aa0ff245e9",
   "lastOpenFiles": [
+    "Notes/Continuous Integration and Deployment (CICD).md",
+    "Notes/Qt Test.md",
+    "Notes/Dependency Injection.md",
+    "Notes/Regular Expressions (Regex).md",
+    "Notes/Unit Testing.md",
+    "Notes/C++ malloc.md",
+    "Notes/Qt Positioners and Layouts.md",
+    "External Assets/Pasted image 20240624144451.png",
+    "External Assets/Pasted image 20240624144305.png",
+    "Notes/Fragmentation.md",
+    "Notes/Qt Networking.md",
     "Notes/C++ Safety.md",
-    "Notes/Typecasting.md",
+    "Notes/C++ Lambdas.md",
+    "Notes/Pass-by-value.md",
+    "Notes/C++ auto.md",
+    "Notes/C++ Templates.md",
     "Notes/C++ Dynamic Casts.md",
+    "Notes/Typecasting.md",
     "Notes/C++ Virtual Destructor.md",
     "Notes/C++ Virtual Function.md",
     "Notes/C++ Unions.md",
     "Notes/C++ Type Punning.md",
-    "Notes/Qt Networking.md",
     "Notes/Qt QML.md",
-    "Notes/C++ Lambdas.md",
     "Notes/Pass-by-reference.md",
-    "Notes/Pass-by-value.md",
-    "Notes/C++ auto.md",
-    "Notes/C++ Templates.md",
     "Notes/Compilation.md",
     "Notes/C++ Macros.md",
     "Notes/Optimisation.md",
     "Notes/Metaprogramming.md",
-    "Notes/C++ malloc.md",
-    "Notes/Heap.md",
-    "Notes/Stack.md",
-    "Notes/Compiler.md",
-    "Notes/Qt Slots.md",
-    "Notes/Qt Signals.md",
-    "Notes/Qt Custom Items.md",
-    "Notes/C.md",
     "External Assets/Screenshot 2023-06-11 at 1.07.49 pm.png",
     "External Assets/Screenshot 2023-05-03 at 9.26.51 am.png",
     "External Assets/Screen Shot 2023-04-06 at 6.01.58 pm.png",
@@ -317,8 +241,6 @@
     "External Assets/Screen Shot 2022-10-30 at 6.58.36 pm.png",
     "External Assets/Screen Shot 2022-10-29 at 10.47.18 pm.png",
     "External Assets/Quick and Dirty Guide to C.pdf",
-    "External Assets/Pasted image 20220506113401.png",
-    "External Assets/Screen Shot 2022-03-12 at 1.47.37 pm.png",
     "External Assets/git-cheat-sheet.pdf",
     "LICENSE.txt"
   ]

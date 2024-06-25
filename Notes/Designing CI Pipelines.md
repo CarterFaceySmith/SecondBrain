@@ -23,4 +23,4 @@ Now go read [[Designing CD Pipelines]] for the next step.
 
 
 See also:
-- [[Continuous Integration and Deployment]]
+- [[Continuous Integration and Deployment (CICD)]]
