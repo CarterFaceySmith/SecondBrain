@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a26f67aa0ff245e9",
+            "id": "91f00c9f827a6638",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Qt Test.md",
+                "file": "Notes/C++ Networking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,51 +21,12 @@
             }
           },
           {
-            "id": "68809ae182e12bb4",
+            "id": "917ea0cdf674a32f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Dependency Injection.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f33178729e848dc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Regular Expressions (Regex).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5aa8f4b1c688ff6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Unit Testing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42de5cdfde092989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Fragmentation.md",
+                "file": "Notes/C++ friend.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Qt Test.md",
+                "file": "Notes/C++ Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Qt Test.md",
+                "file": "Notes/C++ Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Qt Test.md"
+                "file": "Notes/C++ Networking.md"
               }
             }
           }
@@ -202,14 +163,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a26f67aa0ff245e9",
+  "active": "91f00c9f827a6638",
   "lastOpenFiles": [
-    "Notes/Continuous Integration and Deployment (CICD).md",
+    "Notes/C++ friend.md",
+    "Notes/C++ Networking.md",
+    "Notes/C++ malloc.md",
+    "Notes/Caching.md",
+    "Notes/Smart Pointers.md",
+    "Notes/Resource Acquisition Is Initialization (RAII).md",
+    "Notes/Mutex.md",
     "Notes/Qt Test.md",
+    "Notes/Continuous Integration and Deployment (CICD).md",
     "Notes/Dependency Injection.md",
     "Notes/Regular Expressions (Regex).md",
     "Notes/Unit Testing.md",
-    "Notes/C++ malloc.md",
     "Notes/Qt Positioners and Layouts.md",
     "External Assets/Pasted image 20240624144451.png",
     "External Assets/Pasted image 20240624144305.png",
@@ -226,12 +193,6 @@
     "Notes/C++ Virtual Function.md",
     "Notes/C++ Unions.md",
     "Notes/C++ Type Punning.md",
-    "Notes/Qt QML.md",
-    "Notes/Pass-by-reference.md",
-    "Notes/Compilation.md",
-    "Notes/C++ Macros.md",
-    "Notes/Optimisation.md",
-    "Notes/Metaprogramming.md",
     "External Assets/Screenshot 2023-06-11 at 1.07.49 pm.png",
     "External Assets/Screenshot 2023-05-03 at 9.26.51 am.png",
     "External Assets/Screen Shot 2023-04-06 at 6.01.58 pm.png",

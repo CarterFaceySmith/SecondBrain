@@ -22,6 +22,19 @@ Available chunks are maintained in size ordered bins. Searches for available chu
 
 ![[Pasted image 20240624144451.png]]
 
+## [[Caching]]
+
+>In the most straightforward version of the basic algorithm, each freed chunk is immediately coalesced with neighbors to form the largest possible unused chunk. Similarly, chunks are created (by splitting larger chunks) only when explicitly requested.
+>
+>Operations to split and to coalesce chunks take time. This time overhead can sometimes be avoided by using either of both of two _caching_ strategies:
+>
+>**Deferred Coalescing**
+>
+>Rather than coalescing freed chunks, leave them at their current sizes in hopes that another request for the same size will come along soon. This saves a coalesce, a later split, and the time it would take to find a non-exactly-matching chunk to split.
+>
+>**Preallocation**
+>
+>Rather than splitting out new chunks one-by one, pre-split many at once. This is normally faster than doing it one-at-a-time.
 
 
 See also:
