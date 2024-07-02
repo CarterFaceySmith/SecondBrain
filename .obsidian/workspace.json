@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f8a1b97b3460614b",
+        "id": "e15e3cb19b04f5f6",
         "type": "tabs",
         "children": [
           {
-            "id": "91f00c9f827a6638",
+            "id": "b44d713a6ab65eeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/C++ Networking and Boost.Asio.md",
+                "file": "Notes/Qt Proxy Models.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4df9c4cb963b419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Coroutines.md",
-                "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/C++ Networking and Boost.Asio.md",
+                "file": "Notes/Qt Proxy Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/C++ Networking and Boost.Asio.md",
+                "file": "Notes/Qt Proxy Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/C++ Networking and Boost.Asio.md"
+                "file": "Notes/Qt Proxy Models.md"
               }
             }
           }
@@ -163,7 +149,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "91f00c9f827a6638",
+  "active": "b44d713a6ab65eeb",
   "lastOpenFiles": [
     "Notes/Coroutines.md",
     "Notes/C++ Networking and Boost.Asio.md",
