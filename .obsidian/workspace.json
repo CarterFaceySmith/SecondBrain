@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e15e3cb19b04f5f6",
+        "id": "31a682fc7f3d7e07",
         "type": "tabs",
         "children": [
           {
-            "id": "b44d713a6ab65eeb",
+            "id": "178c998cd53dae94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Qt Proxy Models.md",
+                "file": "Notes/C++ Dynamic Casting.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Qt Proxy Models.md",
+                "file": "Notes/C++ Dynamic Casting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Qt Proxy Models.md",
+                "file": "Notes/C++ Dynamic Casting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Qt Proxy Models.md"
+                "file": "Notes/C++ Dynamic Casting.md"
               }
             }
           }
@@ -149,8 +150,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b44d713a6ab65eeb",
+  "active": "178c998cd53dae94",
   "lastOpenFiles": [
+    "Notes/C++ Dynamic Casting.md",
+    "Notes/Qt Proxy Models.md",
     "Notes/Coroutines.md",
     "Notes/C++ Networking and Boost.Asio.md",
     "Notes/Networking.md",
@@ -175,10 +178,8 @@
     "Notes/Pass-by-value.md",
     "Notes/C++ auto.md",
     "Notes/C++ Templates.md",
-    "Notes/C++ Dynamic Casts.md",
     "Notes/Typecasting.md",
     "Notes/C++ Virtual Destructor.md",
-    "Notes/C++ Virtual Function.md",
     "External Assets/Screenshot 2023-06-11 at 1.07.49 pm.png",
     "External Assets/Screenshot 2023-05-03 at 9.26.51 am.png",
     "External Assets/Screen Shot 2023-04-06 at 6.01.58 pm.png",

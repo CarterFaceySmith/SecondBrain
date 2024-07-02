@@ -12,10 +12,10 @@ C++ style casts are casts as follows: `double s = static_cast<int>(value);`
 
 - `static`: See above example
 - `reinterpret`: Interpret existing [[Memory]] as a different type (see [[C++ Type Punning]])
-- `dynamic`: See [[C++ Dynamic Casts]]
+- `dynamic`: See [[C++ Dynamic Casting]]
 - `const`: Add remove *const* to something
 
-The other C++ casts cannot do anything that cannot be done by C style casts, they are mainly syntactic sugar and checking (see [[C++ Dynamic Casts]]).
+The other C++ casts cannot do anything that cannot be done by C style casts, they are mainly syntactic sugar and checking (see [[C++ Dynamic Casting]]).
 
 
 See also:
