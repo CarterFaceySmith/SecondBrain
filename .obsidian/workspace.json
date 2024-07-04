@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65077118cf58839e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/CMake.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -152,8 +165,9 @@
   },
   "active": "178c998cd53dae94",
   "lastOpenFiles": [
-    "Notes/Benchmarking.md",
+    "Notes/CMake.md",
     "Notes/C++ Benchmarking.md",
+    "Notes/Benchmarking.md",
     "Notes/Static Analysis.md",
     "Notes/C++ Dynamic Casting.md",
     "Notes/Qt Proxy Models.md",
@@ -179,7 +193,6 @@
     "Notes/C++ Safety.md",
     "Notes/C++ Lambdas.md",
     "Notes/Pass-by-value.md",
-    "Notes/C++ auto.md",
     "External Assets/Screenshot 2023-06-11 at 1.07.49 pm.png",
     "External Assets/Screenshot 2023-05-03 at 9.26.51 am.png",
     "External Assets/Screen Shot 2023-04-06 at 6.01.58 pm.png",
