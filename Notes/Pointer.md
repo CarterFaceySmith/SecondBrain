@@ -1,5 +1,3 @@
-# Pointer
-
 a director to something, ie a file pointer can point to the prev file
 
 remember used in [[Linked-Lists]] to direct prev and next
@@ -17,13 +15,11 @@ ppter = &ptr //the pointer to the address of ptr
 
 So to get a new pointer to retrieve val of x you have two layers to get through, therefore layers of abstraction, so you would say ***ptr = &pptr
 
-
 ### The triple-ref technique (Triple reference pointers)
 
 how it's written in C: p**
 
 what it is: a pointer to a pointer to a thing, commonly referenced as tracer. allows you to know where you have come from in a heap, ie the prev. node in memory and it's contents
-
 
 ### Key info and specific terminology
 
@@ -45,7 +41,11 @@ the above can be used to reassign data values and manipulate them overall
 
 
 ### How are pointers regularly used in programming though?
+
 - referring to new memory reserved during program runtime
 - refer and share large data structures without having to make copies of the data structures and clog the program up
 - specify relationships among data, eg linked lists, graphs, trees, etc.
 
+
+See also:
+- [Explaining Pointers Until I Go Insane](https://www.youtube.com/watch?v=qclZUQYZTzg)

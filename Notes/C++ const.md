@@ -26,9 +26,9 @@ Note, a `const` function *can only call another `const` function to maintain the
 
 Although, you can use [[Function Overloading]] to add a non-const variant for use, also a function that takes a `const` reference parameter (`void setAge(const int &a)`) can be overloaded with a function that takes a reference parameter (`void setAge(int &a)`).
 
-## Logical `const`ness & Bitwise `const`ness
+## Logical `const`ness & [[Bitwise]] `const`ness
 
-x
+
 
 
 See also:
