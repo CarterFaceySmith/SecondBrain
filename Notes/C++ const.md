@@ -28,8 +28,10 @@ Although, you can use [[Function Overloading]] to add a non-const variant for us
 
 ## Logical `const`ness & [[Bitwise]] `const`ness
 
+You need to make member functions `mutable` for them to be used in a public `const` function.
 
-
+Further: [Advanced C++: Logic Constness and Bitwise Constness](https://www.youtube.com/watch?v=8A5AwX6XExw&list=PLE28375D4AC946CC3&index=3&pp=iAQB)
 
 See also:
 - [[C++]]
+- [Advanced C++: const](https://www.youtube.com/watch?v=7arYbAhu0aw&list=PLE28375D4AC946CC3&index=1&pp=iAQB)
