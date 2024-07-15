@@ -90,7 +90,7 @@ Text {
 }
 ```
 
-### qmlRegisterSingletonInstance
+### `qmlRegisterSingletonInstance`
 
 ```c++
 class Company : public QObject {

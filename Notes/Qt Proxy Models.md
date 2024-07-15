@@ -16,7 +16,7 @@ Proxy models in Qt act as intermediaries between your original data (let's call 
 
 3. **Item Handling**: They can handle things like changing how items are selected or managing multiple views of the same data differently.
 
-`QAbstractProxyModel` is the base proxy model class and allows for more customisation than the pre-made proxy models like `QSortFilterProxyModel` and `QIdentityProxyModel`.
+`QAbstractProxyModel` is the base proxy model class and allows for more customisation than the premade proxy models like `QSortFilterProxyModel` and `QIdentityProxyModel`.
 
 Example:
 ```qml
