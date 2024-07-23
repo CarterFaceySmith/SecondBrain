@@ -14,7 +14,7 @@ qt_add_qml_module(appExampleName
 	// ...
 )
 ```
-## Example UI element using [[Qt QML]]
+## Example UI element using [[Qt QML (Qt Quick)]]
 ```qml
 import QtQuick
 import QtQuick.Controls

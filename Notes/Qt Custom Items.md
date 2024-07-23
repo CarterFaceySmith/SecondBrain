@@ -35,4 +35,4 @@ Item {
 ```
 
 See also:
-- [[Qt QML]]
+- [[Qt QML (Qt Quick)]]

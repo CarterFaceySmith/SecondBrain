@@ -1,4 +1,4 @@
-When dealing with [[Qt QML]] items, the $x$ and $y$ properties are relative to the parent of whatever that child is. 
+When dealing with [[Qt QML (Qt Quick)]] items, the $x$ and $y$ properties are relative to the parent of whatever that child is. 
 
 Another thing of note is $y$ goes down, not up.
 

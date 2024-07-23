@@ -6,7 +6,7 @@ QML allows you to define UI components declaratively, which are then rendered by
 
 **Example (main.qml):**
 ```qml
-import QtQuick 2.15
+import QtQuick
 
 Rectangle {
     width: 400
@@ -207,8 +207,8 @@ int main(int argc, char *argv[]) {
 
 3. Use the C++ model in QML
 ```qml
-import QtQuick 2.15
-import QtQuick.Controls 2.15
+import QtQuick
+import QtQuick.Controls
 import MyApp 1.0 // Import the module where MyModel is registered
 
 ApplicationWindow {

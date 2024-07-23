@@ -1,4 +1,4 @@
-Qt Test is a testing framework for [[Qt QML]] designed for [[Unit Testing]] of Qt GUI applications.
+Qt Test is a testing framework for [[Qt QML (Qt Quick)]] designed for [[Unit Testing]] of Qt GUI applications.
 
 ## Creating a Qt test
 

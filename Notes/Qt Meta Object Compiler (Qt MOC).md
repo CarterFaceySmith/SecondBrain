@@ -1,4 +1,4 @@
-The Qt Meta Object Compiler, often referred to as MOC, is a key tool in Qt's architecture that handles the integration between [[C++]] and Qt's meta-object system. Here are the key points about MOC and its role in [[Qt QML]] development:
+The Qt Meta Object Compiler, often referred to as MOC, is a key tool in Qt's architecture that handles the integration between [[C++]] and Qt's meta-object system. Here are the key points about MOC and its role in [[Qt QML (Qt Quick)]] development:
 
 ### Meta-Object System
 

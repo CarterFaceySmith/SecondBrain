@@ -1,3 +1,3 @@
-A signal in a [[Qt QML]] context is simply a signal which gets emitted when the state of some Qt object changes in a certain way, e.g. on click.
+A signal in a [[Qt QML (Qt Quick)]] context is simply a signal which gets emitted when the state of some Qt object changes in a certain way, e.g. on click.
 
 >"Signals are emitted by an object when its internal state has changed in some way that might be interesting to the object's client or owner. Signals are public access functions and can be emitted from anywhere, but we recommend to only emit them from the class that defines the signal and its subclasses."

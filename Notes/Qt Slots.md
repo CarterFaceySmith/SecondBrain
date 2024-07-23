@@ -1,4 +1,4 @@
-In a [[Qt QML]] context, slots are [[Functions]] called in response to certain [[Qt Signals]].
+In a [[Qt QML (Qt Quick)]] context, slots are [[Functions]] called in response to certain [[Qt Signals]].
 
 >"A slot is called when a signal connected to it is emitted. Slots are normal [[C++]] functions and can be called normally; their only special feature is that signals can be connected to them.
 >

@@ -10,7 +10,7 @@ void MyClass::onFinished() /* Feed to */ m_reply
 QByteArray result = m_reply->readAll(); /* Outputs all data as a byte array */
 ```
 
-You can also use a [[JSON]] object instead of a byte array, or any other alternative provided by [[Qt QML]] for your purposes.
+You can also use a [[JSON]] object instead of a byte array, or any other alternative provided by [[Qt QML (Qt Quick)]] for your purposes.
 
 `QUdpSocket` and `QTcpSocket` enable [[Networking]] via [[Transmission Control Protocol (TCP)]] and [[User Datagram Protocol (UDP)]].
 

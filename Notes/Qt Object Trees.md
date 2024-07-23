@@ -1,4 +1,4 @@
-Each [[Qt QML]] object can have one parent which gets set by the [[Constructor]], each child can then of course become a parent to their own children. This defines the basic concept behind Qt object trees.
+Each [[Qt QML (Qt Quick)]] object can have one parent which gets set by the [[Constructor]], each child can then of course become a parent to their own children. This defines the basic concept behind Qt object trees.
 
 This is useful because when a [[Destructor]] is called, it will iterate over the object tree and destroy all children of the object as well.
 

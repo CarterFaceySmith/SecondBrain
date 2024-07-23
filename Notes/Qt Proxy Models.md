@@ -1,4 +1,4 @@
-Imagine you have some data, like a list of names or numbers, and you want to show it in a [[Qt QML]] widget, like a table or list view. Sometimes, you might want to tweak how that data appears without changing the original data itself. That's where proxy models come into play.
+Imagine you have some data, like a list of names or numbers, and you want to show it in a [[Qt QML (Qt Quick)]] widget, like a table or list view. Sometimes, you might want to tweak how that data appears without changing the original data itself. That's where proxy models come into play.
 
 ## What are Proxy Models?
 
