@@ -4,18 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "7ceca4c58434ead8",
+        "id": "95e3d89bb22b6d13",
         "type": "tabs",
         "children": [
           {
-            "id": "ff29e45d36b4f9af",
+            "id": "858fe004cec482a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "React Native Platform Specific Code.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5a219b9b003ae21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React Native Push Notifications.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69709bc0848ed61f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Websockets.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94b3ae929569d12d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axios.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4e6b9777b4c0f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React Native Push Notifications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React Native Push Notifications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React Native Push Notifications.md"
+              }
             }
           }
         ]
@@ -138,34 +200,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff29e45d36b4f9af",
+  "active": "e5a219b9b003ae21",
   "lastOpenFiles": [
-    "Assembly.md",
-    "Q-Learning.md",
-    "Pumping Lemma for Context-free Languages.md",
-    "Pushdown Automata.md",
-    "Qt GUI Development.md",
-    "Python.md",
-    "Qt Slots.md",
-    "Qt Signals.md",
-    "Qt QML.md",
-    "Qt Meta Object Compiler (Qt MOC).md",
-    "Signals.md",
-    "Slots.md",
-    "Qt Object Trees.md",
-    "User Interface (UI).md",
-    "Stack.md",
-    "CPU.md",
-    "RISC-V Architecture.md",
-    "x86 Architecture.md",
-    "ARM Architecture.md",
-    "RAM.md",
-    "Hertz.md",
-    "Anonymous Methods.md",
-    "Delegates.md",
-    "Functions.md",
-    "A Practical Guide to Clothing - Brands and Pieces That Aren't Shit.md",
-    "Interrupt.md",
+    "React Native Networking.md",
+    "React Native Push Notifications.md",
+    "Websockets.md",
+    "Axios.md",
+    "React Native Platform Specific Code.md",
+    "React Native Accessibility.md",
+    "React Native Styling.md",
+    "CSS.md",
+    "React Native Web.md",
+    "React Native Listings.md",
+    "React Native Core Components.md",
+    "React Native - View Component.md",
+    "React.md",
+    "Mobile App Development.md",
+    "iOS.md",
+    "XML.md",
+    "Document Object Model (DOM).md",
+    "JSX.md",
+    "React Props.md",
+    "React State.md",
+    "HTML.md",
+    "Android.md",
+    "React Native Debugging.md",
+    "React Native.md",
+    "Expo.md",
+    "Compilation in C++.md",
     "Designing CI"
   ]
 }

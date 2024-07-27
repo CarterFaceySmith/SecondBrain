@@ -19,7 +19,7 @@ You can also make libraries using this method, a library is typically an object 
 
 ### Stages of Compilation in C++
 
-Remember, the process of compilation in C++ can be divided into four primary stages: 
+Remember, the process of [[Compilation]] in C++ can be divided into four primary stages: 
 1. Preprocessing
 2. Compilation
 3. Assembly
