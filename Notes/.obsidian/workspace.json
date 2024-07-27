@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8fb983133f671e72",
+        "id": "7ceca4c58434ead8",
         "type": "tabs",
         "children": [
           {
-            "id": "1f1659c7bbb2026f",
+            "id": "ff29e45d36b4f9af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Q-Learning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q-Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Q-Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Q-Learning.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f1659c7bbb2026f",
+  "active": "ff29e45d36b4f9af",
   "lastOpenFiles": [
+    "Assembly.md",
+    "Q-Learning.md",
     "Pumping Lemma for Context-free Languages.md",
     "Pushdown Automata.md",
     "Qt GUI Development.md",
@@ -173,8 +166,6 @@
     "Functions.md",
     "A Practical Guide to Clothing - Brands and Pieces That Aren't Shit.md",
     "Interrupt.md",
-    "Hinge Loss (SVM Loss).md",
-    "German Tenses.md",
     "Designing CI"
   ]
 }
