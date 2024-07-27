@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React Native Push Notifications.md",
+                "file": "React Native Deep Linking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e652d4fac5102141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React Native Animations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Native Push Notifications.md",
+                "file": "React Native Deep Linking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Native Push Notifications.md",
+                "file": "React Native Deep Linking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Native Push Notifications.md"
+                "file": "React Native Deep Linking.md"
               }
             }
           }
@@ -202,8 +215,14 @@
   },
   "active": "e5a219b9b003ae21",
   "lastOpenFiles": [
-    "React Native Networking.md",
+    "React Native Screen Navigation.md",
+    "React Native Deep Linking.md",
+    "React Native Interactions.md",
+    "React Native Animations.md",
     "React Native Push Notifications.md",
+    "React Native Interactions/User Input.md",
+    "React Native Interactions",
+    "React Native Networking.md",
     "Websockets.md",
     "Axios.md",
     "React Native Platform Specific Code.md",
@@ -223,11 +242,6 @@
     "React Props.md",
     "React State.md",
     "HTML.md",
-    "Android.md",
-    "React Native Debugging.md",
-    "React Native.md",
-    "Expo.md",
-    "Compilation in C++.md",
     "Designing CI"
   ]
 }
