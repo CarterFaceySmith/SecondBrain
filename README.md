@@ -16,9 +16,9 @@ The main topics covered include:
 - Machine Learning/AI
 - Quantum Computing
 
-Going further you'll see notes ranging from clothing brand recommendations to understanding the sharpe ratio of an financial investment.
+Going further you'll see notes ranging from clothing brand recommendations to understanding the sharpe ratio of a financial investment.
 
-The notes themselves are written conceptually, with a casual and stream-of-consciousness style of writing to deformalise concepts and assist with quick high-level understanding of complex subjects.
+Most notes are written conceptually, with a casual and stream-of-consciousness style of writing to deformalise concepts and assist with quick high-level understanding of complex subjects.
 
 As learning is a constant process, so to is the expansion of this knowledge base, I intend to open source these for the remainder of my life in the hopes that they assist others in the same way they have assisted me.
 
@@ -39,8 +39,6 @@ Obsidian is a Markdown based knowledge base application, it revolves around the 
 I personally use this application for notetaking and organisation because I enjoy the features and keybindings but you can effectively use whatever allows for Markdown importing.
 
 #### Obsidian Installation
-
-Please note that this will also configure your Obsidian with my extensions, this can be prevented by deleting the `.obsidian` folder in the directory after cloning.
 
 1. Download the latest Obsidian release for your operating system [here](https://obsidian.md/).
 2. Clone the repository as above: `git clone https://github.com/CarterFaceySmith/SecondBrain.git`
