@@ -16,9 +16,10 @@ The main topics covered include:
 - Mathematics
 - Machine Learning/AI
 - React Native
+- Qt/QML
 - Quantum Computing
 
-Going further you'll see notes ranging from clothing brand recommendations to understanding the sharpe ratio of a financial investment.
+Going further you'll see notes ranging from clothing brand recommendations to understanding the Sharpe ratio of a financial investment.
 
 Most notes are written conceptually, with a casual and stream-of-consciousness style of writing to deformalise concepts and assist with quick high-level understanding of complex subjects.
 
