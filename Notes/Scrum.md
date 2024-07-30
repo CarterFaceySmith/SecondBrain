@@ -1,5 +1,3 @@
-# Scrum
-
 An [[Agile Programming]] methodology.
 
 Initial phase is an outline planning phase, general objectives are established and software architecture is designed.

@@ -1,5 +1,3 @@
-# Wireshark
+Used for [[Packet Sniffing]].
 
-used for [[Packet Sniffing]]
-
-part of Kali Linux base install
+Part of the [[Kali Linux]] base install.

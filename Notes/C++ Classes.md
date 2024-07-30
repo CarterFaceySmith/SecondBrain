@@ -2,13 +2,26 @@ A type of [[Abstract Data Type (ADT) in C++]], and a core aspect of [[Object-Ori
 
 Example:
 ```cpp
-class Person {
-	std::string name_; // Private
-	unsigned int age_;
+class Student {
+    int roll_no;
+    std::string name;
+    float marks;
 
 public:
-	unsigned age() const { return age_; } // Getter function - immutable therefore const
-}
+    void set_data(int r, std::string n, float m) {
+        roll_no = r;
+        name = n;
+        marks = m;
+    }
+
+    void display() {
+        std::cout << "Roll no: " << roll_no
+                  << "\nName: " << name
+                  << "\nMarks: " << marks << std::endl;
+    }
+};
+
+Student s1; // create an object of the 'Student' class
 ```
 
 

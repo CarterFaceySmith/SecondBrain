@@ -1,5 +1,3 @@
-# Unix Commands
-
 So ya wanna use the terminal, the command line, the big daddy programmer hacker interface? Well it's kinda shit for human legibility so use this cheatsheet.
 
 - ls: listings, displays things in current directory location

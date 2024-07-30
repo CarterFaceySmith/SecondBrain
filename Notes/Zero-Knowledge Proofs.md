@@ -1,5 +1,3 @@
-# Zero-Knowledge Proofs
-
 A proof in which one party (Prover) can prove to another party (Verifier) that a statement is true without conveying any extra information except that the statement is true.
 
 Pretty wild, there's one of those Wired Expert Explains vidss on this shit.

@@ -10,6 +10,20 @@ Better used with iterators: `for(auto it = strings.begin(); it != strings.end();
 
 Note: It is important to remember to use `const auto &<your variable>` ([[Pass-by-reference]]) to avoid copying the entire variable you are attempting to assign or whatever, if you have a massive vector this is crucial.
 
+Keep in mind that `auto` deduces the type based on the initialising expression, so if you don’t provide an initial value, you will get a [[Compilation]] error:
+
+```cpp
+auto myVar; // Error: Cannot deduce the type without initialiser
+```
+
+In [[C++14]], you can also use `auto` with [[Functions]] return types to let the [[Compiler]] automatically deduce the return type based on the returned expression:
+
+```cpp
+auto add(int x, int y) {
+    return x + y; // The compiler deduces the return type as 'int'
+}
+```
+
 
 See also:
 - [[C++]]

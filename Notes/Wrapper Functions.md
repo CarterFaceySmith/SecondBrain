@@ -1,5 +1,3 @@
-# Wrapper Functions
-
 A wrapper func. is a function in software whose main purpose is to call a second function or system call with no additional computation, ie wrapping the second call.
 
 ### But why?

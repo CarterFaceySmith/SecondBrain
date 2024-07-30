@@ -2,13 +2,21 @@ A type of [[Abstract Data Type (ADT) in C++]], and a core aspect of [[Object-Ori
 
 Example:
 ```cpp
-struct Person_t {
-	std::string name; // Public
-	unsigned int age;
-
-private:
-	unsigned int socialSecurityNum_;
+struct Employee {
+    int id;
+    std::string name;
+    float salary;
 };
+
+Employee e1; // create an object of the 'Employee' structure
+```
+
+You can access the members of a structure using the dot operator `.`:
+
+```cpp
+e1.id = 1;
+e1.name = "John Doe";
+e1.salary = 40000;
 ```
 
 ## Why Use a Struct Instead of [[C++ Classes]]?

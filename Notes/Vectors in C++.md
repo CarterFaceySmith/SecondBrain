@@ -1,4 +1,4 @@
-# Vectors in [[C++]]
+
 
 
 

@@ -1,5 +1,3 @@
-# User Stories	
-
 A primary development resource of [[Agile Programming]] teams, eg scrum style.
 
 Simple, customer-centric one- or two-line descriptions of work the team should produce.

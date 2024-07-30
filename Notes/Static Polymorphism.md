@@ -1,0 +1,1 @@
+Static [[Polymorphism]], also known as compile-time polymorphism, is a type of polymorphism that resolves the types and method calls at [[Compilation]] time rather than at runtime. This is commonly achieved through the use of [[Function Overloading]] and [[C++ Templates]].

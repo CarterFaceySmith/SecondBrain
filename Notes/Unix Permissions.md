@@ -1,5 +1,3 @@
-# Unix Permissions
-
 RWX means read, write and execute, permissions diplayed in the command line interface will be in this form.
 
 We can change permissions with the chmod command:
