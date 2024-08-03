@@ -1,7 +1,7 @@
 A [[Quantum Algorithms]] that demonstrated advantages over classical computers.
 
 ## Concept
-There is a function returning the bitwise product of the input with a hidden string of bits 𝑠. Its length is 𝑛.
+There is a function returning the [[Bitwise]] product of the input with a hidden string of bits 𝑠. Its length is 𝑛.
 
 $$𝑓(𝑥)=𝑠⋅𝑥(mod2)$$
 
@@ -11,7 +11,7 @@ However, using a quantum computer, we can solve this problem with 100% confidenc
 
 The quantum Bernstein-Vazirani algorithm to find the hidden bit string is very simple:
 
-1. Initialize the inputs qubits to the state |0⟩⊗𝑛, and output qubit to |−⟩-   .
+1. Initialise the inputs [[Qubits]] to the state |0⟩⊗𝑛, and output qubit to |−⟩-   .
 2. Apply Hadamard gates to the input register
 3. Query the oracle
 4. Apply Hadamard gates to the input register
