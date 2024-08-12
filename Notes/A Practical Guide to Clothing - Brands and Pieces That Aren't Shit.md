@@ -11,17 +11,18 @@ x
 
 ## General Brand Recommendations
 
-[Acne Studios](www.acnestudios.com)
-[AS Colour](ascolour.com)
-[ASKET](www.asket.com)
-[Carhartt](www.carhartt.com)
-[Dickies](www.dickies.com)
-[Dries Van Noten](www.driesvannoten.com)
-[Dr. Martens](www.drmartens.com) (Made in England line only)
-[Maison Margiela](www.maisonmargeila.com)
-[M.J. Bale](www.mjbale.com)
-[OLIVE](www.oliveclothing.com)
-[Uniqlo](www.uniqlo.com)
+[Acne Studios](https://www.acnestudios.com)
+[AS Colour](https://ascolour.com)
+[ASKET](https://www.asket.com)
+[Carhartt](https://www.carhartt.com)
+[Dickies](https://www.dickies.com)
+[Dries Van Noten](https://www.driesvannoten.com)
+[Dr. Martens](https://www.drmartens.com) (Made in England line only)
+[Maison Margiela](https://www.maisonmargeila.com)
+[M.J. Bale](https://www.mjbale.com)
+[OLIVE](https://www.oliveclothing.com)
+[Patagonia](https://patagonia.com)
+[Uniqlo](https://www.uniqlo.com)
 
 ## Specific Item Recommendations
 ### Shirts
