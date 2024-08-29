@@ -4,7 +4,7 @@ Commonly used as middleware or an API, for routing of client requests to a parti
 
 ## Setup and Rendering
 
-Initialise and run Express:
+Initialise and run Express (Definitely want to install and run nodemon too):
 
 server.js
 ```js
@@ -115,6 +115,78 @@ function logger(req, res, next) {
   console.log(req.originalUrl)
   next()
 }
+```
+
+## Integrating Express with [[GraphQL]]
+
+```js
+const express = require('express');
+const { graphqlHTTP } = require('express-graphql');
+const { buildSchema } = require('graphql');
+
+// Define the GraphQL schema
+const schema = buildSchema(`
+  type Query {
+    getUser(id: ID!): User
+    listUsers: [User]
+  }
+
+  type Mutation {
+    createUser(name: String!, age: Int!): User
+    updateUser(id: ID!, name: String, age: Int): User
+  }
+
+  type User {
+    id: ID!
+    name: String!
+    age: Int!
+  }
+`);
+
+// Sample data
+let users = [
+  { id: '1', name: 'Alice', age: 25 },
+  { id: '2', name: 'Bob', age: 30 },
+];
+
+// Define the root resolver
+const root = {
+  getUser: ({ id }) => {
+    return users.find(user => user.id === id);
+  },
+  listUsers: () => {
+    return users;
+  },
+  createUser: ({ name, age }) => {
+    const newUser = { id: String(users.length + 1), name, age };
+    users.push(newUser);
+    return newUser;
+  },
+  updateUser: ({ id, name, age }) => {
+    const user = users.find(user => user.id === id);
+    if (user) {
+      if (name) user.name = name;
+      if (age !== undefined) user.age = age;
+      return user;
+    }
+    throw new Error('User not found');
+  }
+};
+
+// Create an Express application
+const app = express();
+
+// Set up the /graphql endpoint
+app.use('/graphql', graphqlHTTP({
+  schema: schema,
+  rootValue: root,
+  graphiql: true, // Enables the GraphiQL interface for testing queries
+}));
+
+// Start the server
+app.listen(4000, () => {
+  console.log('Server is running on http://localhost:4000/graphql');
+});
 ```
 
 
