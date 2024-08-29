@@ -30,7 +30,7 @@ export default App;
 
 ### SafeAreaView
 
-A variant that helps to adjust UI elements and layout to accomodate stupid shit like notches, etc.
+A variant that helps to adjust UI elements and layout to accommodate stupid shit like notches, etc.
 
 ```jsx
 import React from 'react';
