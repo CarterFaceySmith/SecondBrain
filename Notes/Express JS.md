@@ -4,7 +4,7 @@ Commonly used as middleware or an API, for routing of client requests to a parti
 
 ## Setup and Rendering
 
-Initialise and run Express (Definitely want to install and run nodemon too):
+Initialise and run Express (Definitely want to install and run `nodemon` too):
 
 server.js
 ```js
@@ -12,8 +12,8 @@ const express = require("express")
 const app = express()
 
 app.use(express.static("public")) // takes folder name to serve file from
-app.use(express.urlencoded({ extended: true }))
-app.use(express.json())
+app.use(express.urlencoded({ extended: true })) 
+app.use(express.json()) // Enables parsing of JSON data
 
 app.set("view engine", "ejs")
 
@@ -51,6 +51,8 @@ Create a routes folder and a .js file for any route you need, these can be impor
 
 Remember routes are evaluated *in order of definition*, if you redefine a route somewhere below an existing one it won't work.
 
+Routes can be fixed or dynamic, the difference being what arguments they do or do not take, for example a fixed route is one that takes no parameter and returns a list of users, a dynamic route is one that takes some ID and only returns the user that matches that.
+
 routes/users.js
 ```js
 const express = require("express")
@@ -83,6 +85,9 @@ router
   .get((req, res) => {
     console.log(req.user)
     res.send(`Get User With ID ${req.params.id}`)
+    // WITHOUT router.param middleware func below you could do as follows
+    // let user = users.find(u => u.id === parseInt(req.params.id))
+    // if (!user) return res.status(404).send('No user found for ID ${req.params.id}')
   })
   .put((req, res) => {
     res.send(`Update User With ID ${req.params.id}`)
@@ -106,7 +111,9 @@ function logger(req, res, next) {
 module.exports = router
 ```
 
-## Express Middleware In-depth
+## Express Middleware
+
+You can define middleware as functions to run between each function call of your core node application, below is an example that logs the URI of the last request and then continues the code via `next()`.
 
 ```js
 app.use(logger)
@@ -114,6 +121,34 @@ app.use(logger)
 function logger(req, res, next) {
   console.log(req.originalUrl)
   next()
+}
+```
+
+## Input Validation with Joi
+
+You can import the Joi module and use it within routes to validate POST parameter inputs or the like and increase security.
+
+Example:
+```js
+const schema = Joi.object({
+	name: Joi.string().min(3).required()
+});
+
+const res = Joi.validate(req.body, schema);
+console.log(res);
+```
+
+Standard Validation Example:
+```js
+const { error } = validateCourse(req.body);
+if (error) return res.status(400).send(error.details[0].message);
+
+function validateCourse(course) {
+	const schema = Joi.object({
+		name: Joi.string().min(3).required()
+	});
+
+	const res = Joi.validate(req.body, schema);
 }
 ```
 
@@ -191,4 +226,8 @@ app.listen(4000, () => {
 
 
 See also:
-[Learn Express Js in 35 Minutes - Web Dev Simplified](https://www.youtube.com/watch?v=SccSCuHhOw0)
+- [Learn Express Js in 35 Minutes](https://www.youtube.com/watch?v=SccSCuHhOw0)
+- [How to build a REST API with Node js & Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+- [Express JS Documentation](https://expressjs.com/en/guide/routing.html)
+- [Nodemon NPM Page](https://www.npmjs.com/package/nodemon)
+- [Node.js SQLite: Build a simple REST API with Express](https://geshan.com.np/blog/2021/10/nodejs-sqlite/)
