@@ -13,3 +13,9 @@ Need to `#include <memory>` at the top of the file to access smart pointers.
 C++ does recommend using smart pointers as standard, and it's a good call, but they can have issues with circular references and leaking memory, plus not every other [[Object-Oriented Programming]] language supports smart pointers.
 
 [[Resource Acquisition Is Initialization (RAII)]]: Smart pointers adhere to the RAII principle, where resource management is tied to object lifetime. Memory deallocation occurs automatically when the smart pointer object goes out of scope.
+
+
+See also:
+- [[C++ Weak Pointer]]
+- [[C++ Unique Pointer]]
+- [[C++ Shared Pointer]]
