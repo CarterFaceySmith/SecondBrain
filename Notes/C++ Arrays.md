@@ -1,5 +1,3 @@
-# C++ Arrays
-
 The main difference between arrays in a lang like Java and arrays in C++ is bounds checking.
 
 C++ arrays don't have automatic bounds checking, and as such the length cannot be checked with built in functions, more importantly, C++ won't stop you from checking/requesting index positions that don't exist in the array, causing a potential buffer overflow.

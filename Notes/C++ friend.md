@@ -1,4 +1,4 @@
-A declaration which appears in a class body to grant a [[Functions]] or another class access to private or protected members of the class it the friend declaration appears in.
+A declaration which appears in a class body to grant [[Functions]] or another class access to private or protected members of the class the friend declaration appears in.
 
 ```cpp
 class Y
