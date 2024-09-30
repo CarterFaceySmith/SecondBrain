@@ -178,3 +178,8 @@ ld -m elf_i386 -s -o example example.o  # Link to create ELF executable
 ```
 
 3. You're now free to analyse or use your ELF file using `readelf` or `objdump`.
+
+
+See also:
+- Linkers and Loaders Book
+- [Crafting executables from raw bytes](https://www.youtube.com/watch?v=cX5tQJhuNeY&t=1s)

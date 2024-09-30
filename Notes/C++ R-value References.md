@@ -10,6 +10,8 @@ int&& rref{ 5 }; // r-value reference initialized with r-value 5
 
 R-values references cannot be initialised with l-values.
 
+***Fuck man, basically it is just a way of assigning some value without naming it.***
+
 ## Why Do We Care?
 
 1. They extend the lifespan of the object they are initialised with to the lifespan of the r-value reference
