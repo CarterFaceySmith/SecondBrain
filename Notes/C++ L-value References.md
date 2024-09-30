@@ -5,3 +5,11 @@ L-value references to [[[C++ const]]] objects can be initialised with modifiable
 ````cpp
 int& lref{ x }; // l-value reference initialized with l-value x
 ````
+
+**TLDR**: L-values evaluate to an *identifiable object*.
+
+A rule of thumb to identify lvalue and rvalue expressions:
+
+- Lvalue expressions are those that evaluate to functions or identifiable objects (including variables) that persist beyond the end of the expression.
+
+- Rvalue expressions are those that evaluate to values, including literals and temporary objects that do not persist beyond the end of the expression.
