@@ -1,5 +1,3 @@
-Here's the note converted to Australian English:
-
 ## Information
 
 - Paper Title: Semi-Autonomous Continuous Robotic Arm Control Using an Augmented Reality Brain-Computer Interface
@@ -40,7 +38,7 @@ Therefore, users of SC can control the robot effectively, while experiencing inc
 - The CCA decoding used the following correlation calculation: $$\rho_j = \max_{W_Z,W_Y} \frac{E[W_Z^T Z_k Y_j^T W_Y]}{\sqrt{E[W_Z^T Z_k Z_k^T W_Z]E[W_Y^T Y_j Y_j^T W_Y]}}$$ where $Z_k \in \mathbb{R}^{9\times256}$ is the filtered EEG data and $Y_j \in \mathbb{R}^{4\times256}$ is the template for each target frequency.
 
 - The shared control command was generated using: $$u = \alpha u_a + (1 - \alpha)u_b$$ where $u_a$ is the autonomous assistance command, $u_b$ is the BCI output, and $\alpha \in [0, 0.7]$ is the assistance level.
-    
+
 
 ### Results
 
