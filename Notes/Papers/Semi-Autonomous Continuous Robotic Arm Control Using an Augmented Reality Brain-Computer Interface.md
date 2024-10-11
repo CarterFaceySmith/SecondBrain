@@ -26,19 +26,12 @@ Therefore, users of SC can control the robot effectively, while experiencing inc
 ### Methodology
 
 - 18 healthy participants completed 24 reaching trials each using DC and SC
-
 - Used HoloLens 2 for AR display of SSVEP stimuli
-
 - EEG recorded using g.USBamp amplifier with 9 electrodes
-
 - Canonical Correlation Analysis (CCA) used for SSVEP decoding
-
 - Shared control system used angular policy for prediction and confidence-based assistance
-
 - The CCA decoding used the following correlation calculation: $$\rho_j = \max_{W_Z,W_Y} \frac{E[W_Z^T Z_k Y_j^T W_Y]}{\sqrt{E[W_Z^T Z_k Z_k^T W_Z]E[W_Y^T Y_j Y_j^T W_Y]}}$$ where $Z_k \in \mathbb{R}^{9\times256}$ is the filtered EEG data and $Y_j \in \mathbb{R}^{4\times256}$ is the template for each target frequency.
-
 - The shared control command was generated using: $$u = \alpha u_a + (1 - \alpha)u_b$$ where $u_a$ is the autonomous assistance command, $u_b$ is the BCI output, and $\alpha \in [0, 0.7]$ is the assistance level.
-
 
 ### Results
 
@@ -101,7 +94,9 @@ Therefore, users of SC can control the robot effectively, while experiencing inc
 
 ## Synthesis
 
-The integration of augmented reality with SSVEP-based BCIs represents a promising direction for improving the usability of BCI-controlled assistive devices. By presenting stimuli in the user's field of view, these systems can potentially reduce the cognitive load associated with traditional screen-based interfaces. The shared control approach developed in this study addresses a critical challenge in BCI research: balancing user agency with task performance. By dynamically adjusting the level of assistance based on prediction confidence, the system aims to provide a more natural and effective control experience.
+The integration of augmented reality with SSVEP-based BCIs represents a promising direction for improving the usability of BCI-controlled assistive devices. By presenting stimuli in the user's field of view, these systems can potentially reduce the cognitive load associated with traditional screen-based interfaces. 
+
+The shared control approach developed in this study addresses a critical challenge in BCI research: balancing user agency with task performance. By dynamically adjusting the level of assistance based on prediction confidence, the system aims to provide a more natural and effective control experience.
 
 ## Ideas for Future Research
 

@@ -100,7 +100,11 @@ Additionally, strong interest was noted in bionic technology for sensory and aut
 
 ## Synthesis
 
-The development of Brain-Computer Interfaces for people with Multiple Sclerosis represents a promising avenue for enhancing independence and quality of life. This study highlights the importance of adopting a user-centred design approach in BCI research, particularly for populations with complex and progressive neurological conditions like MS. The preference for non-invasive or minimally invasive BCIs among MS patients challenges assumptions about user willingness to adopt more invasive technologies for improved performance. Furthermore, the strong interest in bionic technologies for managing autonomic functions suggests that future research should consider a more holistic approach to assistive technologies, integrating BCIs with other bionic solutions to address the diverse symptoms of MS.
+The development of Brain-Computer Interfaces for people with Multiple Sclerosis represents a promising avenue for enhancing independence and quality of life. This study highlights the importance of adopting a user-centred design approach in BCI research, particularly for populations with complex and progressive neurological conditions like MS. 
+
+The preference for non-invasive or minimally invasive BCIs among MS patients challenges assumptions about user willingness to adopt more invasive technologies for improved performance. 
+
+Furthermore, the strong interest in bionic technologies for managing autonomic functions suggests that future research should consider a more holistic approach to assistive technologies, integrating BCIs with other bionic solutions to address the diverse symptoms of MS.
 
 ## Ideas for Future Research
 
