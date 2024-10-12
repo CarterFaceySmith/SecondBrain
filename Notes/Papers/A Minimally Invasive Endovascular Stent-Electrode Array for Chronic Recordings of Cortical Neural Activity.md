@@ -3,7 +3,7 @@
 - Paper Title: A Minimally Invasive Endovascular Stent-Electrode Array for Chronic Recordings of Cortical Neural Activity
 - Author(s): Thomas J. Oxley, Nicholas L. Opie, Sam E. John, Gil S. Rind, Stephen M. Ronayne, Anthony N. Burkitt, David B. Grayden, Clive N. May, Terence J. O'Brien
 - Year: 2017
-- Journal: SpringerBriefs in Electrical and Computer Engineering
+- Journal: [[SpringerBriefs in Electrical and Computer Engineering]]
 - DOI: Not provided
 
 ### Abstract

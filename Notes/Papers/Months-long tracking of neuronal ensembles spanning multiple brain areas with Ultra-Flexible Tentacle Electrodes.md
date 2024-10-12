@@ -3,7 +3,7 @@
 - Paper Title: Months-long tracking of neuronal ensembles spanning multiple brain areas with Ultra-Flexible Tentacle Electrodes
 - Author(s): Tansel Baran Yasar, Peter Gombkoto, Alexei L. Vyssotski, Angeliki D. Vavladeli, Christopher M. Lewis, Bifeng Wu, Linus Meienberg, Valter Lundegardh, Fritjof Helmchen, Wolfger von der Behrens, Mehmet Fatih Yanik
 - Year: 2024
-- Journal: Nature Communications
+- Journal: [[Nature Communications]]
 - DOI: https://doi.org/10.1038/s41467-024-49226-9
 
 ### Abstract

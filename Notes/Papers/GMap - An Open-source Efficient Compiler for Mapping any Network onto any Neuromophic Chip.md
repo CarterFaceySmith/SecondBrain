@@ -3,7 +3,7 @@
 - Paper Title: GMap: An Open-source Efficient Compiler for Mapping any Network onto any Neuromophic Chip
 - Author(s): Jimmy Weber, Chenxi Wu, Melika Payvand
 - Year: 2023
-- Conference: International Conference on Neuromorphic Systems (ICONS '23)
+- Conference: [[International Conference on Neuromorphic Systems]] (ICONS '23)
 - DOI: https://doi.org/10.1145/3589737.3605997
 
 ### Abstract

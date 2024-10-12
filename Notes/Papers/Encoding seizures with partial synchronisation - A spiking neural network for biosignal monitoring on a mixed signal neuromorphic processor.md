@@ -3,7 +3,7 @@
 - Paper Title: Encoding seizures with partial synchronisation: A spiking neural network for biosignal monitoring on a mixed signal neuromorphic processor
 - Author(s): Jim Bartels, Olympia Gallou, Hiroyuki Ito, Matthew Cook, Johannes Sarnthein, Giacomo Indiveri, and Saptarshi Ghosh
 - Year: 2024
-- Journal: bioRxiv
+- Journal: [[bioRxiv]]
 - DOI: https://doi.org/10.1101/2024.05.22.595225
 
 ### Abstract

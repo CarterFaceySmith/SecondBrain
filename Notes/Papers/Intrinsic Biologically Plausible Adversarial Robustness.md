@@ -3,7 +3,7 @@
 - Paper Title: Intrinsic Biologically Plausible Adversarial Robustness
 - Author(s): Matilde Tristany Farinha, Thomas Ortner, Giorgia Dellaferrera, Benjamin Grewe, Angeliki Pantazi
 - Year: 2024
-- Journal: arXiv preprint
+- Journal: [[arXiv]] preprint
 - DOI: Not provided (arXiv preprint)
 
 ### Abstract

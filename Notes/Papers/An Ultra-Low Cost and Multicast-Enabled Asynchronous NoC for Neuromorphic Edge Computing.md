@@ -3,7 +3,7 @@
 - Paper Title: An Ultra-Low Cost and Multicast-Enabled Asynchronous NoC for Neuromorphic Edge Computing
 - Author(s): Zhe Su, Simone Ramini, Demetra Coffen Marcolin, Alessandro Veronesi, Milos Krstic, Giacomo Indiveri, Davide Bertozzi, Steven M. Nowick
 - Year: 2024
-- Journal: IEEE Journal on Emerging and Selected Topics in Circuits and Systems
+- Journal: [[IEEE Journal on Emerging and Selected Topics in Circuits and Systems]]
 - DOI: 10.1109/JETCAS.2024.3433427
 
 ### Abstract

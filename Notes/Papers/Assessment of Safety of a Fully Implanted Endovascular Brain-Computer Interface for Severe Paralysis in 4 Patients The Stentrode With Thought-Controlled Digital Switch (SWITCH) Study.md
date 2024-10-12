@@ -3,7 +3,7 @@
 - Paper Title: Assessment of Safety of a Fully Implanted Endovascular Brain-Computer Interface for Severe Paralysis in 4 Patients: The Stentrode With Thought-Controlled Digital Switch (SWITCH) Study
 - Author(s): Peter Mitchell, Sarah C. M. Lee, Peter E. Yoo, et al.
 - Year: 2023
-- Journal: JAMA Neurology
+- Journal: [[JAMA Neurology]]
 - DOI: 10.1001/jamaneurol.2022.4847
 
 ### Abstract

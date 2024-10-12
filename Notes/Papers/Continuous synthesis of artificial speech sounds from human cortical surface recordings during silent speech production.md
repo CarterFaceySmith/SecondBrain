@@ -3,7 +3,7 @@
 - Paper Title: Continuous synthesis of artificial speech sounds from human cortical surface recordings during silent speech production
 - Author(s): Kevin Meng, Farhad Goodarzy, EuiYoung Kim, Ye Jin Park, June Sic Kim, Mark J Cook, Chun Kee Chung, David B Grayden
 - Year: 2023
-- Journal: Journal of Neural Engineering
+- Journal: [[Journal of Neural Engineering]]
 - DOI: https://doi.org/10.1088/1741-2552/ace7f6
 
 ### Abstract

@@ -3,7 +3,7 @@
 - Paper Title: Neural activity shaping in visual prostheses with deep learning
 - Author(s): Domingos Castro, David B Grayden, Hamish Meffin, and Martin Spencer
 - Year: 2024
-- Journal: Journal of Neural Engineering
+- Journal: [[Journal of Neural Engineering]]
 - DOI: https://doi.org/10.1088/1741-2552/ad6186
 
 ### Abstract

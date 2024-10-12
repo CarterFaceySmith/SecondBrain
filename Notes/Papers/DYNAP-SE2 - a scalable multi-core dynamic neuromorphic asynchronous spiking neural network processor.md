@@ -3,7 +3,7 @@
 - Paper Title: DYNAP-SE2: a scalable multi-core dynamic neuromorphic asynchronous spiking neural network processor
 - Author(s): Ole Richter, Chenxi Wu, Adrian M Whatley, German Köstinger, Carsten Nielsen, Ning Qiao, Giacomo Indiveri
 - Year: 2024
-- Journal: Neuromorphic Computing and Engineering
+- Journal: [[Neuromorphic Computing and Engineering Journal]]
 - DOI: https://doi.org/10.1088/2634-4386/ad1cd7
 
 ### Abstract

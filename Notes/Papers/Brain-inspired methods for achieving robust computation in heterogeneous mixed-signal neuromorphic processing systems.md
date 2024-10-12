@@ -3,7 +3,7 @@
 - Paper Title: Brain-inspired methods for achieving robust computation in heterogeneous mixed-signal neuromorphic processing systems
 - Author(s): Dmitrii Zendrikov, Sergio Solinas, Giacomo Indiveri
 - Year: 2023
-- Journal: Neuromorphic Computing and Engineering
+- Journal: [[Neuromorphic Computing and Engineering Journal]]
 - DOI: https://doi.org/10.1088/2634-4386/ace64c
 
 ### Abstract
