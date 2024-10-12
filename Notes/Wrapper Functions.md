@@ -2,7 +2,7 @@ A wrapper func. is a function in software whose main purpose is to call a second
 
 ### But why?
 
-We can do a number of things with wrapper functions:
+We can do a number of things with wrapper [[Functions]]:
 1. extend the functionality of the secondary function without modifying it;
 2. hide 'unpretty' stuff from the original func.;
 3. run multiple funcs as a routine, ie execute this func then this func then this func and give me the results;

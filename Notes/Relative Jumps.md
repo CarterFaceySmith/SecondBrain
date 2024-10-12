@@ -1,1 +1,1 @@
-A [[CPU]] instruction telling the process to jump to some [[Memory]] address using a relative position to the current one, i.e. jump to the memory address of the current + 3 or something.
+A [[CPU]] instruction telling the process to jump to some [[Memory]] address using a relative position to the current one, i.e. jump to the [[Memory]] address of the current + 3 or something.

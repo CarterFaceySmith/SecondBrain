@@ -1,6 +1,6 @@
 ## Information
 
-- Paper Title: Online Epileptic Seizure Detection in Long-term iEEG Recordings Using Mixed-signal Neuromorphic Circuits
+- Paper Title: Online Epileptic [[Seizure]] Detection in Long-term iEEG Recordings Using Mixed-signal [[Neuromorphic Circuits]]
 - Author(s): Olympia Gallou, Jim Bartels, Saptarshi Ghosh, Kaspar Schindler, Johannes Sarnthein, Giacomo Indiveri
 - Year: 2024
 - Journal: [[medRxiv]]
@@ -8,7 +8,7 @@
 
 ### Abstract
 
-This paper presents a mixed-signal hardware implementation of a biologically realistic [[Spiking Neural Network (SNN)]] for always-on monitoring with online [[Seizure]] detection. The system was validated using wideband [[Electroencephalography (EEG)]]signal recordings with over 122 continuous hours of data, without pre-filtering. 
+This paper presents a mixed-signal hardware implementation of a biologically realistic [[Spiking Neural Network (SNN)]] for always-on monitoring with online [[Seizure]] detection. The system was validated using wideband [[Electroencephalography (EEG)]] signal recordings with over 122 continuous hours of data, without pre-filtering. 
 
 The network was tested with a cohort of 5 patients and a total of 22 seizures including generalised and focal onsets. The system effectively captures spatiotemporal features based on synchronised multichannel intracranial EEG activity, achieving 100% sensitivity across all patients and near zero false alarms. 
 
@@ -28,9 +28,9 @@ Notably, inference across patients required only calibrating the parameters of t
 - Used SWEC-ETHZ iEEG database for long-term recordings
 - Implemented adaptive ADM for signal encoding
 - Designed SNN architecture with two layers:
-  1. Hidden layer with excitatory and inhibitory neuron ensembles
+  1. Hidden layer with excitatory and inhibitory [[Artificial Neurons]] ensembles
   2. Output layer with inhibitory cluster and readout neuron
-- Configured SNN on DYNAP-SE neuromorphic processor
+- Configured SNN on DYNAP-SE [[Neuromorphic]] processor
 - Analysed synchronisation using correlation matrices and coincidence index
 - Evaluated performance using sensitivity, false alarm rate, and detection delay
 
@@ -82,15 +82,17 @@ Notably, inference across patients required only calibrating the parameters of t
 
 - How does the performance of this neuromorphic system compare to state-of-the-art digital seizure detection methods in clinical settings?
 - Can the detection delay be reduced while maintaining high sensitivity and low false alarm rates?
+	- What challenges does this involve?
 - How well does the system generalise to different types of seizures and patients not included in the initial cohort?
 - Is it possible to incorporate online learning mechanisms to improve performance over time?
+- How does this compare when used with less invasive, external EEG recording data?
 
 ## Gaps in the Literature
 
 - Limited exploration of the system's performance on different types of seizures (e.g., absence seizures)
 - Lack of direct comparison with other commercial seizure detection devices
 - Insufficient investigation of the system's long-term stability and performance drift
-- Limited discussion on the potential for this approach to be applied to non-invasive EEG recordings
+- Limited discussion on the potential for this approach to be applied to non-invasive EEG recordings 
 
 ## Synthesis
 
@@ -104,6 +106,6 @@ This approach demonstrates the potential of neuromorphic systems to enable alway
 
 - Investigate the incorporation of online learning mechanisms to adapt the SNN to patient-specific seizure patterns over time
 - Explore the application of this neuromorphic approach to non-invasive EEG recordings for broader clinical use
-- Develop a fully integrated system-on-chip combining the adaptive ADM, SNN, and potential stimulation circuitry for closed-loop neuromodulation
+- Develop a fully integrated system-on-chip combining the adaptive ADM, SNN, and potential stimulation circuitry for closed-loop [[Neuromodulation]]
 - Conduct long-term clinical trials to assess the system's performance and stability over extended periods (months to years)
 - Investigate the potential of this approach for detecting or predicting other neurological events beyond epileptic seizures

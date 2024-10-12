@@ -8,13 +8,13 @@
 
 ### Abstract
 
-This study focuses on the use of a neural mass model to investigate potential relationships between functional connectivity and seizure frequency in epilepsy. We fitted a three-layer neural mass model of a cortical column to intracranial EEG (iEEG) data from a Tetanus Toxin rat model of epilepsy, which also included responses to periodic electrical stimulation. 
+This study focuses on the use of a neural mass model to investigate potential relationships between functional connectivity and seizure frequency in epilepsy. We fitted a three-layer neural mass model of a cortical column to [[intracranial EEG (iEEG)]] data from a Tetanus Toxin rat model of [[Epilepsy]], which also included responses to periodic electrical stimulation. 
 
-Our results show that some of the connectivity weights between different neural populations correlate significantly with the number of seizures each day, offering valuable insights into the dynamics of neural circuits during epileptogenesis. We also simulated single-pulse electrical stimulation of the neuronal populations to observe their responses after the connectivity weights were optimized to fit background (non-seizure) EEG data. 
+Our results show that some of the connectivity weights between different neural populations correlate significantly with the number of seizures each day, offering valuable insights into the dynamics of neural circuits during [[Epileptogenesis]]. We also simulated single-pulse electrical stimulation of the neuronal populations to observe their responses after the connectivity weights were optimised to fit background (non-seizure) EEG data. 
 
-The recovery time, defined as the time from stimulation until the membrane potential returns to baseline, was measured as a representation of the critical slowing down phenomenon observed in nonlinear systems operating near a bifurcation boundary. The results revealed that recovery times in the responses of the computational model fitted to the EEG data were longer during 5 min periods preceding seizures compared to 1 hr before seizures in four out of six rats. 
+The recovery time, defined as the time from stimulation until the membrane potential returns to baseline, was measured as a representation of the critical slowing down phenomenon observed in nonlinear systems operating near a bifurcation boundary. The results revealed that recovery times in the responses of the computational model fitted to the EEG data were longer during 5 min periods preceding [[Seizure]]s compared to 1 hr before seizures in four out of six rats. 
 
-Analysis of the iEEG recorded in response to electrical stimulation revealed results similar to the computational model in four out of six rats. This study supports the potential use of this computational model as a model-based biomarker for seizure prediction when direct electrical stimulation to the brain is not feasible.
+Analysis of the iEEG recorded in response to electrical stimulation revealed results similar to the computational model in four out of six rats. This study supports the potential use of this computational model as a model-based biomarker for [[Seizure Prediction]] when direct electrical stimulation to the brain is not feasible.
 
 ### Key Points
 
@@ -31,10 +31,10 @@ Analysis of the iEEG recorded in response to electrical stimulation revealed res
 - Each layer consisted of excitatory and inhibitory neuron populations
 - Model included synaptic connections within and between layers
 - Fitted model to iEEG data using Unscented Kalman Filter (UKF)
-- Analyzed correlations between model parameters and daily seizure counts
+- Analysed correlations between model parameters and daily seizure counts
 - Simulated single-pulse electrical stimulation in the model
 - Compared recovery times 5 minutes before seizures vs 1 hour before seizures
-- Analyzed actual iEEG responses to electrical stimulation for comparison
+- Analysed actual iEEG responses to electrical stimulation for comparison
 
 ### Results
 
@@ -58,7 +58,7 @@ Analysis of the iEEG recorded in response to electrical stimulation revealed res
 - The correlation between connectivity weights and seizure frequency provides interesting insights into epileptogenesis
 - The observation of critical slowing down in both the model and actual data is promising for seizure prediction
 - The discrepancies in results between rats highlight the complexity of epilepsy and the need for further investigation
-- The potential use of the model as a biomarker without direct brain stimulation could be valuable for non-invasive applications
+- The potential use of the model as a [[Biomarker]] without direct brain stimulation could be valuable for non-invasive applications
 
 ### Quotations
 
@@ -95,11 +95,15 @@ Analysis of the iEEG recorded in response to electrical stimulation revealed res
 - Limited understanding of the relationship between functional connectivity changes and seizure frequency in epilepsy
 - Lack of non-invasive methods for assessing critical slowing down as a biomarker for seizure prediction
 - Need for further validation of computational models as proxies for direct brain stimulation in epilepsy research
-- Limited exploration of the variability in neural dynamics across different individuals with epilepsy
+- Limited exploration of the variability in neural dynamics across different individuals with [[Epilepsy]]
 
 ## Synthesis
 
-This study bridges the gap between computational modeling and experimental neuroscience in epilepsy research. By using a neural mass model to analyze iEEG data from a Tetanus Toxin rat model, the authors provide insights into the relationship between functional connectivity and seizure frequency. The observation of critical slowing down in both the model and actual data supports the potential use of this phenomenon as a biomarker for seizure prediction. The study also highlights the complexity of epilepsy, as evidenced by the variability in results across different rats. The approach of using a computational model as a proxy for direct brain stimulation opens up new possibilities for non-invasive epilepsy research and potential clinical applications.
+This study bridges the gap between computational modeling and experimental neuroscience in epilepsy research. By using a neural mass model to analyse iEEG data from a Tetanus Toxin rat model, the authors provide insights into the relationship between functional connectivity and seizure frequency. 
+
+The observation of critical slowing down in both the model and actual data supports the potential use of this phenomenon as a biomarker for seizure prediction. The study also highlights the complexity of epilepsy, as evidenced by the variability in results across different rats. 
+
+The approach of using a computational model as a proxy for direct brain stimulation opens up new possibilities for non-invasive epilepsy research and potential clinical applications.
 
 ## Ideas for Future Research
 

@@ -19,7 +19,7 @@ Canonical Correlation Analysis (CCA) is like a matchmaker for datasets. It's a s
 Without getting too deep into the weeds:
 
 1. CCA solves an eigenvalue problem involving the covariance matrices of X and Y.
-2. The eigenvectors give us the coefficients for our linear combinations.
+2. The [[Eigenvectors]] give us the coefficients for our linear combinations.
 3. The square roots of the eigenvalues are the canonical correlations.
 
 ## Why It's Cool
