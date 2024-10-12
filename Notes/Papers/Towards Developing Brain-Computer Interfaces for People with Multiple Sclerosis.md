@@ -8,11 +8,11 @@
 
 ### Abstract
 
-Multiple Sclerosis (MS) is a severely disabling condition that leads to various neurological symptoms. A Brain-Computer Interface (BCI) may substitute some lost function; however, there is a lack of BCI research in people with MS. To progress this research area effectively and efficiently, we aimed to evaluate user needs and assess the feasibility and user-centric requirements of a BCI for people with MS. 
+[[Multiple Sclerosis (MS)]] is a severely disabling condition that leads to various neurological symptoms. A [[Brain-Computer Interface (BCI)]] may substitute some lost function; however, there is a lack of BCI research in people with MS. To progress this research area effectively and efficiently, we aimed to evaluate user needs and assess the feasibility and user-centric requirements of a BCI for people with MS. 
 
 We conducted an online survey of 34 people with MS to qualitatively assess user preferences and establish the initial steps of user-centred design. The survey aimed to understand their interest and preferences in BCI and bionic applications. We demonstrated widespread interest for BCI applications in all stages of MS, with a preference for a non-invasive (n = 12) or minimally invasive (n = 15) BCI over carer assistance (n = 6). Qualitative assessment indicated that this preference was not influenced by level of independence. 
 
-Additionally, strong interest was noted in bionic technology for sensory and autonomic functions. Considering the potential to enhance independence and quality of life for people living with MS, the results emphasise the importance of user-centred design for future advancement of BCIs that account for the unique pathological changes associated with MS.
+Additionally, strong interest was noted in [[Bionic Technology]] for sensory and autonomic functions. Considering the potential to enhance independence and quality of life for people living with MS, the results emphasise the importance of user-centred design for future advancement of BCIs that account for the unique pathological changes associated with MS.
 
 ### Key Points
 
@@ -57,6 +57,7 @@ Additionally, strong interest was noted in bionic technology for sensory and aut
 - The preference for non-invasive or minimally invasive BCIs is interesting and challenges assumptions about users' willingness to undergo more invasive procedures for better performance
 - The interest in bionic technologies for autonomic functions highlights the need for a broader approach to assistive technologies beyond traditional BCI applications
 - The lack of influence of independence level on BCI preferences is surprising and warrants further investigation
+	- Higher independence did not correlate to a less invasive design preference, and vice versa
 - The study's limitations, particularly the potential bias towards more technologically adept participants, should be considered when interpreting results
 
 ### Quotations
@@ -78,6 +79,7 @@ Additionally, strong interest was noted in bionic technology for sensory and aut
   - Limited studies on BCI applications specifically for MS patients
   - Previous work focused on communication and assistive technology control
   - Potential for BCIs to alleviate fatigue, a common symptom in MS
+	  - What aspect of MS explicitly provides the most user fatigue?
 
 - User-Centred Design in BCI Development
   - Importance of involving end-users in the design process
@@ -87,9 +89,10 @@ Additionally, strong interest was noted in bionic technology for sensory and aut
 ## Research Questions
 
 - How do the specific symptoms and progression patterns of MS affect the usability and effectiveness of different BCI designs?
+- How does the limited research into MS patients and BCI usage compare to other physicality-limiting conditions and BCI usage like [[Quadriplegia]]?
 - What are the long-term implications of using non-invasive or minimally invasive BCIs for MS patients, considering the progressive nature of the disease?
-- How can BCIs be designed to adapt to the dynamic changes in brain activity associated with MS progression and fatigue?
-- What are the potential benefits and challenges of integrating BCIs with other bionic technologies for managing autonomic dysfunctions in MS?
+- ***How can BCIs be designed to adapt to the dynamic changes in brain activity associated with MS progression and fatigue?*** - Interesting
+- What are the potential benefits and challenges of integrating BCIs with other [[Bionic Technology]] for managing autonomic dysfunctions in MS?
 
 ## Gaps in the Literature
 
@@ -112,4 +115,4 @@ Furthermore, the strong interest in bionic technologies for managing autonomic f
 - Investigate adaptive BCI algorithms that can account for the dynamic changes in brain activity associated with MS progression and fatigue
 - Explore the integration of BCIs with other bionic technologies for comprehensive management of MS symptoms, including autonomic dysfunctions
 - Develop and test BCI training protocols specifically designed for MS patients, considering factors such as cognitive fatigue and variable symptom presentation
-- Investigate the potential of BCIs in monitoring disease progression and predicting symptom flare-ups in MS patients
+- Investigate the potential of BCIs in monitoring disease progression and predicting symptom flare-ups in MS patients, as per [[Epilepsy]] and [[Seizure]] prediction research currently ongoing.

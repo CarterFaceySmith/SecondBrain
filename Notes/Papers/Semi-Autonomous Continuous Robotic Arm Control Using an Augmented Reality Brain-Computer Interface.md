@@ -3,16 +3,16 @@
 - Paper Title: Semi-Autonomous Continuous Robotic Arm Control Using an Augmented Reality Brain-Computer Interface
 - Author(s): Kirill Kokorin, Syeda R Zehra, Jing Mu, Peter Yoo, David B Grayden, and Sam E John
 - Year: 2024
-- Journal: TechRxiv (preprint)
+- Journal: [[TechRxiv]] (preprint)
 - DOI: https://doi.org/10.36227/techrxiv.171638984.48965766/v1
 
 ### Abstract
 
-Noninvasive augmented-reality (AR) brain-computer interfaces (BCIs) that use steady-state visually evoked potentials (SSVEPs) typically adopt a fully autonomous goal-selection framework to control a robot, where automation is used to compensate for the low information transfer rate of the BCI. 
+Noninvasive [[Augmented Reality (AR)]] [[Brain-Computer Interface (BCI)]] that use [[Steady-State Visually Evoked Potentials (SSVEPs)]] typically adopt a fully autonomous goal-selection framework to control a robot, where [[Automation]] is used to compensate for the low information transfer rate of the BCI. 
 
 This scheme improves task performance but users may prefer direct control (DC) of robot motion. To provide users with a balance of autonomous assistance and manual control, we developed a shared control (SC) system for continuous control of robot translation using an SSVEP AR-BCI, which we tested in a 3D reaching task. 
 
-The SC system used the BCI input and robot sensor data to continuously predict which object the user wanted to reach, generated an assistance signal, and regulated the level of assistance based on prediction confidence. Eighteen healthy participants took part in our study and each completed 24 reaching trials using DC and SC. Compared to DC, SC significantly improved mean task success rate, normalised reaching trajectory length, and participant workload measured with the NASA Task Load Index. 
+The SC system used the BCI input and robot sensor data to continuously predict which object the user wanted to reach, generated an assistance signal, and regulated the level of assistance based on prediction confidence. Eighteen healthy participants took part in our study and each completed 24 reaching trials using DC and SC. Compared to DC, SC significantly improved mean task success rate, normalised reaching trajectory length, and participant workload measured with the [[NASA Task Load Index]]. 
 
 Therefore, users of SC can control the robot effectively, while experiencing increased agency. Our system can personalise assistive technology by providing users with the ability to select their preferred level of autonomous assistance.
 
@@ -28,7 +28,7 @@ Therefore, users of SC can control the robot effectively, while experiencing inc
 - 18 healthy participants completed 24 reaching trials each using DC and SC
 - Used HoloLens 2 for AR display of SSVEP stimuli
 - EEG recorded using g.USBamp amplifier with 9 electrodes
-- Canonical Correlation Analysis (CCA) used for SSVEP decoding
+- [[Canonical Correlation Analysis (CCA) ]]used for SSVEP decoding
 - Shared control system used angular policy for prediction and confidence-based assistance
 - The CCA decoding used the following correlation calculation: $$\rho_j = \max_{W_Z,W_Y} \frac{E[W_Z^T Z_k Y_j^T W_Y]}{\sqrt{E[W_Z^T Z_k Z_k^T W_Z]E[W_Y^T Y_j Y_j^T W_Y]}}$$ where $Z_k \in \mathbb{R}^{9\times256}$ is the filtered EEG data and $Y_j \in \mathbb{R}^{4\times256}$ is the template for each target frequency.
 - The shared control command was generated using: $$u = \alpha u_a + (1 - \alpha)u_b$$ where $u_a$ is the autonomous assistance command, $u_b$ is the BCI output, and $\alpha \in [0, 0.7]$ is the assistance level.
@@ -83,6 +83,7 @@ Therefore, users of SC can control the robot effectively, while experiencing inc
 ## Research Questions
 
 - How does the performance of the AR-BCI system compare when used by individuals with motor impairments?
+	- Is there a potential use-case here for individuals with [[Multiple Sclerosis (MS)]]?
 - What is the optimal balance between user control and autonomous assistance for different tasks and user preferences?
 - How can the shared control system be adapted for other types of BCIs or input modalities?
 
@@ -104,3 +105,8 @@ The shared control approach developed in this study addresses a critical challen
 - Investigate the use of multimodal inputs (e.g., combining SSVEP with eye-tracking or EMG) in the shared control framework
 - Explore the application of this shared control approach to other assistive technologies, such as wheelchair control or prosthetic limbs
 - Conduct longitudinal studies to assess the long-term effects of using AR-BCIs on user performance, fatigue, and satisfaction
+	- Potentially focusing on individuals with [[Neurodegenerative Illness]]es
+
+
+See also:
+- [[Robotics]]

@@ -3,12 +3,12 @@
 - Paper Title: Online Epileptic Seizure Detection in Long-term iEEG Recordings Using Mixed-signal Neuromorphic Circuits
 - Author(s): Olympia Gallou, Jim Bartels, Saptarshi Ghosh, Kaspar Schindler, Johannes Sarnthein, Giacomo Indiveri
 - Year: 2024
-- Journal: medRxiv
+- Journal: [[medRxiv]]
 - DOI: https://doi.org/10.1101/2024.06.13.24308876
 
 ### Abstract
 
-This paper presents a mixed-signal hardware implementation of a biologically realistic Spiking Neural Network (SNN) for always-on monitoring with online seizure detection. The system was validated using wideband Electroencephalography (EEG) signal recordings with over 122 continuous hours of data, without pre-filtering. 
+This paper presents a mixed-signal hardware implementation of a biologically realistic [[Spiking Neural Network (SNN)]] for always-on monitoring with online [[Seizure]] detection. The system was validated using wideband [[Electroencephalography (EEG)]]signal recordings with over 122 continuous hours of data, without pre-filtering. 
 
 The network was tested with a cohort of 5 patients and a total of 22 seizures including generalised and focal onsets. The system effectively captures spatiotemporal features based on synchronised multichannel intracranial EEG activity, achieving 100% sensitivity across all patients and near zero false alarms. 
 
