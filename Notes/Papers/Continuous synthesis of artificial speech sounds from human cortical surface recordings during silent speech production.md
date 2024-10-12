@@ -105,7 +105,7 @@ Significance. As the field of speech neuroprostheses is rapidly moving toward cl
 
 This study advances the field of speech neuroprostheses by demonstrating the feasibility of closed-loop synthesis of artificial speech sounds from cortical surface recordings during silent speech production. 
 
-The success in synthesizing speech during overt and mimed utterances, particularly from the precentral gyrus, provides valuable insights for future BCI designs. However, the challenges encountered in decoding imagined speech highlight the complexity of internal speech processes and the need for more targeted approaches in electrode placement and neural feature selection. 
+The success in synthesising speech during overt and mimed utterances, particularly from the precentral gyrus, provides valuable insights for future BCI designs. However, the challenges encountered in decoding imagined speech highlight the complexity of internal speech processes and the need for more targeted approaches in electrode placement and neural feature selection. 
 
 The study's comprehensive methodology, combining both objective and subjective evaluations, offers a robust framework for assessing BCI performance in speech synthesis tasks. The comparison between ECoG and SEEG datasets further emphasizes the importance of brain coverage in capturing relevant neural signals for speech decoding.
 
