@@ -8,17 +8,17 @@
 
 ### Abstract
 
-Neuromorphic computing has emerged as a promising solution to the power and memory requirements of embedded systems. However, mapping pre-trained neural networks onto diverse neuromorphic hardware architectures presents significant challenges. 
+Neuromorphic computing has emerged as a promising solution to the power and [[Memory]] requirements of [[Embedded Systems]]. However, mapping pre-trained [[Neural Networks (NN)]] onto diverse neuromorphic hardware architectures presents significant challenges. 
 
-In this paper, we introduce GMap, a versatile, easy-to-use, and open-source python library designed for mapping neural networks onto any arbitrary hardware architecture. GMap adapts the simulated annealing approach, offering a probabilistic, meta-heuristic optimisation for approximating the global optimum mapping. 
+In this paper, we introduce [[GMap]], a versatile, easy-to-use, and open-source python library designed for mapping neural networks onto any arbitrary hardware architecture. GMap adapts the simulated annealing approach, offering a probabilistic, meta-heuristic optimisation for approximating the global optimum mapping. 
 
-The algorithm takes architectural parameters of the hardware and network connectivity as input and provides a mapping solution as output. T
+The algorithm takes architectural parameters of the hardware and network connectivity as input and provides a mapping solution as output. 
 
-he library allows users to either map a pre-trained network onto a pre-existing chip or define custom hardware with respect to its constraints. GMap contributes to the neuromorphic field by enabling efficient deployment of neural networks on various hardware platforms and facilitating further research and collaboration in the neuromorphic community.
+The library allows users to either map a pre-trained network onto a pre-existing chip or define custom hardware with respect to its constraints. GMap contributes to the neuromorphic field by enabling efficient deployment of neural networks on various hardware platforms and facilitating further research and collaboration in the neuromorphic community.
 
 ### Key Points
 
-- GMap is an open-source Python library for mapping neural networks to arbitrary neuromorphic hardware
+- GMap is an open-source [[Python]] library for mapping neural networks to arbitrary neuromorphic hardware
 - Uses simulated annealing for optimisation of network mapping
 - Supports pre-existing chips and custom hardware definitions
 - Aims to address challenges in mapping networks to diverse neuromorphic architectures
@@ -32,13 +32,13 @@ he library allows users to either map a pre-trained network onto a pre-existing 
 - Allows mapping to pre-existing chips or custom hardware with specific constraints
 - Uses a function to calculate violated constraints when mapping to custom hardware
 - Employs a probabilistic, meta-heuristic optimisation to approximate global optimum
-- Transitions from wide exploration to focused, greedy search in promising regions
+- Transitions from wide exploration to focused, [[Greedy Technique & Algorithms]] search in promising regions
 
 ### Results
 
 - GMap provides sub-optimal solutions due to its heuristic nature
 - Solution quality improves with increased number of search steps
-- Computational complexity is O(steps * N), where N is the number of neurons
+- Computational complexity is $O(steps * N)$, where $N$ is the number of neurons
 - Performance assessed using hand-crafted networks with known optimal mappings
 - Demonstrates effectiveness in finding suitable mapping solutions
 - Shows improvement in solution quality with increasing number of steps
@@ -57,10 +57,11 @@ he library allows users to either map a pre-trained network onto a pre-existing 
 - The flexibility to define custom hardware constraints could be very useful for researchers
 - It would be interesting to see how this compares to other mapping approaches in terms of efficiency and accuracy
 - The open-source nature of the tool could lead to rapid improvements and adaptations by the community
+	- Especially in efficiency
 
 ### Quotations
 
-> "GMap employs a sophisticated method to find a configuration that minimizes the number of violated constraints. In cases where the configuration does not violate any constraints of the hardware, the network is considered mappable onto the chip."
+> "GMap employs a sophisticated method to find a configuration that minimises the number of violated constraints. In cases where the configuration does not violate any constraints of the hardware, the network is considered mappable onto the chip."
 
 > "By making GMap available on GitHub, it is hoped that collaboration and contributions from the community will lead to further improvements and extensions, supporting the continued advancement of neuromorphic computing."
 
