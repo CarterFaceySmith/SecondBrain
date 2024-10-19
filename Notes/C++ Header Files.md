@@ -16,3 +16,5 @@ File ends:
 	
 #### But Carter what the fuck does that do?
 
+See - [[C++ Header Guards]]
+
