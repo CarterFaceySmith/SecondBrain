@@ -63,6 +63,7 @@ If you find any errors, issues or something of note for a different reason pleas
 I wanted to have a section here dedicated to people and resources that have helped create this knowledge base over the years, unfortunately an addition made far too late as I'm sure that at the time of writing I have forgotten many attributions that deserve to be here already.
 
 - [roadmap.sh](roadmap.sh): React Native
+- [learncpp.com](https://www.learncpp.com) : Advanced C++
 
 ## License
 
