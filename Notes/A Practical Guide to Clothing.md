@@ -1,12 +1,7 @@
-## Introduction
-
-x
-
-### General Tips
+## General Tips
 
 1. Where possible; shop in person, shop local, shop slow, and shop smart.
-2. Fitment is everything.
-3. Understand your body shape.
+2. Fitment is everything, understand your body shape.
 4. Think practically about the item you are considering, does it have a place in your lifestyle?
 
 ## General Brand Recommendations
@@ -24,7 +19,7 @@ x
 [Patagonia](https://patagonia.com)
 [Uniqlo](https://www.uniqlo.com)
 
-## Specific Item Recommendations
+## Specific Sub-category Recommendations
 ### Shirts
 #### Regular Basic T-Shirts
 - Whitesville - 7oz Tubular Knit Tee
@@ -34,30 +29,44 @@ x
 - M.J. Bale
 
 ### Singlets
-- 
+- Uniqlo
 
 ### Jackets
-- 
+- Patagonia
 
 ### Jumpers
-- 
+- Patagonia
+- AS Colour
+- Carhartt
+- OLIVE
 
 ### Jeans
-- 
+- Patagonia
+- Levis
+- Dickies
 
 ### Shorts
-- 
+- OLIVE
+- Patagonia
 
 ### Pants
-- A
+- Patagonia 
+- Carhartt
+- Dickies
+- Honestly most workwear brands with good material
 
 ### Sportswear
 - Salomon
 - Nike
 
+### Outdoors/Mountaineering
+- Patagonia
+- Kathmandu
+
 ### Shoes
-- Dr. Martens (Made in England line only)
+- Dr. Martens (*Made in England line only*)
 - Birkenstocks
+- Red Wings (I hear)
 
 ## On Statement/Unique Pieces
 
@@ -66,7 +75,6 @@ One to two for each category mentioned is more than enough.
 ## On Thrifting
 
 - Old Polo Ralph Lauren and sub-brands like Chaps
-- Dickies
-- Carhartt
+- Workwear brands like Dickies and Carhartt will generally be found, or similar
 
 
