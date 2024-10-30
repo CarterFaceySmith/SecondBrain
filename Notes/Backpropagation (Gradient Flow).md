@@ -1,4 +1,4 @@
-A common training algo for [[Neural Networks (NN)]], makes [[Gradient Descent]] feasible for multi-layer neural networks.
+A common training [[Algorithms]] for [[Neural Networks (NN)]], makes [[Gradient Descent]] feasible for multi-layer neural networks.
 
 It's effectively distributing the error weights after NN calculations backwards through the network to the earlier layers.
 
