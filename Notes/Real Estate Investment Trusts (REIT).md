@@ -1,6 +1,6 @@
 ## Introduction to REITs
 
-Real Estate Investment Trusts (REITs) are regulated investment vehicles that provide exposure to real estate assets through publicly traded securities. These entities must distribute a significant portion of their taxable income (typically 90%) to shareholders in the form of dividends.
+[[Real Estate]] Investment Trusts (REITs) are regulated investment vehicles that provide exposure to real estate assets through publicly traded securities. These entities must distribute a significant portion of their taxable income (typically 90%) to shareholders in the form of dividends.
 
 ### Structural Requirements
 
