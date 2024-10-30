@@ -156,7 +156,7 @@ r = Required return
 
 ### 1. Internal Growth
 - Rental rate increases
-- Occupancy optimization
+- Occupancy optimisation
 - Operating efficiency improvements
 - Property upgrades and repositioning
 
@@ -166,7 +166,7 @@ r = Required return
 - Joint ventures
 - Market expansion
 
-### 3. Capital Structure Optimization
+### 3. Capital Structure Optimisation
 - Debt refinancing
 - Equity issuance timing
 - Capital recycling
@@ -415,7 +415,7 @@ Distribution Yield = $0.50 / $10.00 = 5%
 
 3. **Challenges and Opportunities**
    - Work-from-home impact
-   - Asset modernization
+   - Asset modernisation
    - ESG integration
 
 ## A-REIT Investment Tips
@@ -447,9 +447,7 @@ WALE (years)   | 3-5     | 4-6     | 6-8
 P/FFO Multiple | 15-17x  | 14-16x  | 18-22x
 ```
 
-[Previous sections remain the same]
-
-## Specialized A-REITs Analysis
+## Specialised A-REITs Analysis
 
 ### Niche Market Players
 

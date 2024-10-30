@@ -84,16 +84,71 @@ pub fn spend(_origin, transaction: Transaction) -> DispatchResult {
 ### 3. Security Measures
 Bonza security checks from the tutorial:
 ```rust
-pub fn validate_transaction(transaction: &Transaction) -> Result<ValidTransaction, &'static str> {
-    // Basic checks
-    ensure!(!transaction.inputs.is_empty(), "no inputs");
-    ensure!(!transaction.outputs.is_empty(), "no outputs");
+// "Internal" functions, callable by code.
+impl<T: Trait> Module<T> {
+    pub fn validate_transaction(transaction: &Transaction) -> Result<ValidTransaction, &'static str> {
+        // Check basic requirements
+        ensure!(!transaction.inputs.is_empty(), "no inputs");
+        ensure!(!transaction.outputs.is_empty(), "no outputs");
 
-    // Check for duplicates
-    let input_set: BTreeMap<_, ()> = transaction.inputs.iter().map(|input| (input, ())).collect();
-    ensure!(input_set.len() == transaction.inputs.len(), "each input must only be used once");
+        {
+            let input_set: BTreeMap<_, ()> =transaction.inputs.iter().map(|input| (input, ())).collect();
+            ensure!(input_set.len() == transaction.inputs.len(), "each input must only be used once");
+        }
+        {
+            let output_set: BTreeMap<_, ()> = transaction.outputs.iter().map(|output| (output, ())).collect();
+            ensure!(output_set.len() == transaction.outputs.len(), "each output must be defined only once");
+        }
 
-    // More validation logic...
+        let mut total_input: Value = 0;
+        let mut total_output: Value = 0;
+        let mut output_index: u64 = 0;
+        let simple_transaction = Self::get_simple_transaction(transaction);
+
+        // Variables sent to transaction pool
+        let mut missing_utxos = Vec::new();
+        let mut new_utxos = Vec::new();
+        let mut reward = 0;
+
+        // Check that inputs are valid
+        for input in transaction.inputs.iter() {
+            if let Some(input_utxo) = <UtxoStore>::get(&input.outpoint) {
+                ensure!(sp_io::crypto::sr25519_verify(
+                    &Signature::from_raw(*input.sigscript.as_fixed_bytes()),
+                    &simple_transaction,
+                    &Public::from_h256(input_utxo.pubkey)
+                ), "signature must be valid" );
+                total_input = total_input.checked_add(input_utxo.value).ok_or("input value overflow")?;
+            } else {
+                missing_utxos.push(input.outpoint.clone().as_fixed_bytes().to_vec());
+            }
+        }
+
+        // Check that outputs are valid
+        for output in transaction.outputs.iter() {
+            ensure!(output.value > 0, "output value must be nonzero");
+            let hash = BlakeTwo256::hash_of(&(&transaction.encode(), output_index));
+            output_index = output_index.checked_add(1).ok_or("output index overflow")?;
+            ensure!(!<UtxoStore>::exists(hash), "output already exists");
+            total_output = total_output.checked_add(output.value).ok_or("output value overflow")?;
+            new_utxos.push(hash.as_fixed_bytes().to_vec());
+        }
+        
+        // If no race condition, check the math
+        if missing_utxos.is_empty() {
+            ensure!( total_input >= total_output, "output value must not exceed input value");
+            reward = total_input.checked_sub(total_output).ok_or("reward underflow")?;
+        }
+
+        // Returns transaction details
+        Ok(ValidTransaction {
+            requires: missing_utxos,
+            provides: new_utxos,
+            priority: reward as u64,
+            longevity: TransactionLongevity::max_value(),
+            propagate: true,
+        })
+    }
 }
 ```
 
