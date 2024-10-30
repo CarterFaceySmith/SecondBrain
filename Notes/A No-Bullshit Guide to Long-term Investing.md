@@ -63,15 +63,18 @@ Sector Specific:
   * Defense sector exposure
   * Government contract stability
   * Long-term growth potential
+  * Global instability play
 
 - BATS:NLR (Nuclear & Uranium) - 5%
   * Clean energy exposure
   * Limited correlation with broader market
+  * General computing resource growth prediction
   * Long-term energy transition play
 
 - NasdaqGM:DTCR (Data Centers) - 5%
   * Digital infrastructure
   * Cloud computing growth
+  * General computing resource growth prediction
   * Tech sector exposure
 ```
 
@@ -100,10 +103,12 @@ I don't include real estate in the percentage calculation of investment capital 
   * Rental income
   * Tax advantages
   * Leverage potential
-  * Inflation hedge
+	  * Hard to find other investments where you can whack 20% down and get a foot in the door at 5x leverage (depending on your credit rating etc.)
+  * Inflation hedge (*maybe*)
 
 - **Consideration Factors**
   * Location growth potential
+  * Infrastructure connectivity (i.e. public transport, parks, schools, etc.)
   * Rental yield vs capital growth
   * Maintenance costs
   * Interest rates
@@ -113,6 +118,7 @@ I don't include real estate in the percentage calculation of investment capital 
 - Professional management
 - Diversified property portfolio
 - Lower capital requirement
+- Low personal maintenance
 
 ## Strategic Approach
 
@@ -191,6 +197,8 @@ Month 7-12:
   * Goal setting
   * Net worth calculation
 
+#### [[Portfolio Rebalancing Automation]]
+
 ## Risk Management
 
 ### 1. Portfolio Protection
@@ -222,4 +230,5 @@ Month 7-12:
    - Long-term focus
    - Reduced emotion
 
-And finally, remember: ***This takes time, a lot of fucking time***. 
+And finally, remember: ***This takes time, a lot of fucking time***. Start as soon as you can with whatever you can.
+
