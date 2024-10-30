@@ -11,17 +11,17 @@ This is my combined vault of knowledge on several varied concepts and subjects g
 These notes got me through a Bachelor of Computer Science, and many other equally straining situations.
 
 The main topics covered include:
-- Generic Programming
+- Generic programming concepts
 - C and C++
 - Mathematics
+- Investing and financial products
 - Machine Learning/AI
+- Neuroscience
 - React Native
 - Qt/QML
 - Quantum Computing
 
-Going further you'll see notes ranging from clothing brand recommendations to understanding the Sharpe ratio of a financial investment.
-
-Most notes are written conceptually, with a casual and stream-of-consciousness style of writing to deformalise concepts and assist with quick high-level understanding of complex subjects.
+Most notes are written conceptually, with a casual and stream-of-consciousness style of writing to deformalise concepts and assist with quick high-level understanding of complex subjects. Others are written in a simple point-to-point style.
 
 As learning is a constant process, so to is the expansion of this knowledge base, I intend to open source these for the remainder of my life in the hopes that they assist others in the same way they have assisted me.
 
