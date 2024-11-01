@@ -213,7 +213,7 @@ Month 7-12:
 - Emergency fund
 - Legal structures
 
-## The Galloway Principle
+## The Scott Galloway Principle
 
 "You don't need to find the needle in the haystack when you can just buy the whole haystack"
 
