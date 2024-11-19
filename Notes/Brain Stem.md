@@ -1,0 +1,1 @@
+A set of relays between the [[Spinal Cord]] and [[Cerebellum]], it is the most primitive part of the mammalian brain and handles things like breathing, [[Consciousness]], body temperature.
