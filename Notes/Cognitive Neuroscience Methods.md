@@ -10,7 +10,7 @@ Firstly we must define exactly what is studied in [[Cognitive Neuroscience]], th
 		1. R, useful for characterising objects
 	2. What cues are available?
 		1. Only L
-	3. Is the inference ill-posed/underdeterminite?
+	3. Is the inference ill-posed/underdeterminate?
 		1. Yes, I is unknown
 	4. What regularities in the world constrain the inference?
 		1. What other sources of info might constrain I?
@@ -24,3 +24,4 @@ Firstly we must define exactly what is studied in [[Cognitive Neuroscience]], th
 
 You need many levels of analysis to understand a problem like this, and therefore a lot of methods.
 
+## [[Functional Magnetic Resonance Imaging (fMRI)]]
