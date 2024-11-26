@@ -5,7 +5,7 @@
 - DOI: 10.1136/neurintsurg-2020-016862
 
 ## Study Overview
-A first-in-human early feasibility study demonstrating successful implantation of a novel endovascular brain-computer interface (Stentrode) in two patients with amyotrophic lateral sclerosis (ALS). The device enabled participants to control digital devices for everyday tasks through a combination of brain signals and eye tracking.
+A first-in-human early feasibility study demonstrating successful implantation of a novel endovascular [[Brain-Computer Interface (BCI)]] ([[Stentrode]]) in two patients with [[Amyotrophic Lateral Sclerosis (ALS)]]. The device enabled participants to control digital devices for everyday tasks through a combination of [[Brain]] signals and eye tracking.
 
 ## Key Points
 
