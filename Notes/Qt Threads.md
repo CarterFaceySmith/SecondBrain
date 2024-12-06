@@ -12,6 +12,12 @@ void incorrectImplementation() {
     localThread.start();  // Thread begins execution
     // Thread object destroyed upon scope exit
 }
+
+// Or
+if (true) {
+	QThread x;
+	x.start();
+}
 ```
 
 This pattern leads to undefined behaviour as the thread object is destroyed while execution may still be ongoing.
