@@ -1,6 +1,6 @@
 ## Information
 
-- Paper Title: Semi-Autonomous Continuous Robotic Arm Control Using an Augmented Reality Brain-Comput er Interface
+- Paper Title: Semi-Autonomous Continuous Robotic Arm Control Using an Augmented Reality Brain-Computer Interface
 - Author(s): Kirill Kokorin, Syeda R Zehra, Jing Mu, Peter Yoo, David B Grayden, and Sam E John
 - Year: 2024
 - Journal: [[TechRxiv]] (preprint)

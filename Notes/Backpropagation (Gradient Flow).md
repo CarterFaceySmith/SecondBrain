@@ -45,7 +45,7 @@ Works on a scale from 0.0 (drop nothing) to 1.0 (drop everything).
 1. Vanishing Gradients
 	1. FIX: Potentially using a ReLU activation func.
 2. Exploding Gradients
-	1. FIX: Potentially batch normalisation, or lowering learning rate
+	1. FIX: Potentially [[Batch Normalisation (BN)]], or lowering learning rate
 3. Dead ReLU Units
 	1. FIX: Potentially lower the learning rate
 
