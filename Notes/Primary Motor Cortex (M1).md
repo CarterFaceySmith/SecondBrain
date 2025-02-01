@@ -1,0 +1,1 @@
+An accessible portion of the [[Cerebral Cortex (Outer Brain Sheet)]] that has strong connections to the [[Spinal Cord]] and close [[Neuron]]al activity related to the [[Muscle]]s that produce movements and aspects of movements.
