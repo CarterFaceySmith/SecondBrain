@@ -27,6 +27,9 @@
 - Uniqlo - U AIRism Cotton Oversized Crew Neck Half-Sleeve T-Shirt
 #### Polo T-Shirts
 - M.J. Bale
+#### Collared Shirts
+- Patagonia
+- TM Lewin
 
 ### Singlets
 - Uniqlo
@@ -48,6 +51,7 @@
 ### Shorts
 - OLIVE
 - Patagonia
+- E9 Planet
 
 ### Pants
 - Patagonia 
@@ -57,6 +61,7 @@
 
 ### Sportswear
 - Salomon
+- Lululemon
 - Nike
 
 ### Outdoors/Mountaineering
