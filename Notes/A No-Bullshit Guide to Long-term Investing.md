@@ -78,16 +78,16 @@ Sector Specific:
   * Tech sector exposure
 ```
 
-#### Cryptocurrency (25% of Investment Capital)
+#### Cryptocurrency (10% of Investment Capital)
 
 ```
-- Bitcoin (BTC) - 15%
+- Bitcoin (BTC) - 7%
   * Store of value
   * Market leader
   * Institutional adoption
   * High risk, high reward volatility hold
 
-- Solana (SOL) - 10%
+- Solana (SOL) - 3%
   * High performance blockchain
   * DeFi ecosystem
   * Growth potential

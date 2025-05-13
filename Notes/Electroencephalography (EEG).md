@@ -83,3 +83,5 @@ In such situations a very small number of electrodes (e.g., five), portability, 
 Thus, because the EEG recording in practical BCI systems is necessarily bipolar, it is probably best to incorporate a variety of promising bipolar strategies into BCI research. 
 
 In this regard, high-resolution EEG methods such as the surface Laplacian have potential advantages, especially when a specific cortical area (e.g., motor cortex) produces the signals used by the BCI.
+
+[[EEG Electrode Design]]
